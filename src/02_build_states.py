@@ -61,8 +61,8 @@ def replay_chase(match_row, raw_dir: Path):
         if is_legal:
             legal_balls += 1
 
-        # Wicket dismissal
-        is_wicket = bool(len(row) > 14 and row[14])
+        # Wicket dismissal (a batter retiring hurt does not lose a wicket)
+        is_wicket = bool(len(row) > 14 and row[14] and row[14] != "retired hurt")
         if is_wicket:
             wickets += 1
 

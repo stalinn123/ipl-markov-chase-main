@@ -1,30 +1,30 @@
 ======================================================================
 SCRIPT 3: Estimating Transition Matrix P and Bootstrap CIs
 ======================================================================
-Loaded transitions from: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/transitions.csv
+Loaded transitions from: data\processed\transitions.csv
 Training split: Season <= 2022
 Train matches: 913 | Train transitions: 16365
 
 Saved canonical matrices:
-  - Full P (17x17): /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/transition_matrix_P.csv and .npy
-  - Submatrix Q (15x15): /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/Q_matrix.csv and .npy
-  - Submatrix R (15x2): /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/R_matrix.csv and .npy
+  - Full P (17x17): data\processed\transition_matrix_P.csv and .npy
+  - Submatrix Q (15x15): data\processed\Q_matrix.csv and .npy
+  - Submatrix R (15x2): data\processed\R_matrix.csv and .npy
 
 Running whole-match bootstrap (N_BOOT = 1000, seed = 42)...
 Saved bootstrap distributions (bootstrap_Q.npy, bootstrap_R.npy) for analytical CI propagation.
-Saved 95% bootstrap confidence intervals to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/bootstrap_P_ci.csv
-Saved transition matrix heatmap to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/figures/transition_matrix.png
+Saved 95% bootstrap confidence intervals to: data\processed\bootstrap_P_ci.csv
+Saved transition matrix heatmap to: figures\transition_matrix.png
 
 --- Summary: Selected Transition Probabilities and 95% CIs ---
 from_state to_state  p_estimate  ci_lower  ci_upper
-  W_Low_P1      WIN      0.0596    0.0519    0.0673
+  W_Low_P1      WIN      0.0603    0.0526    0.0680
   W_Low_P1     LOSS      0.0005    0.0000    0.0016
   W_Low_P3      WIN      0.0008    0.0000    0.0020
   W_Low_P3     LOSS      0.0000    0.0000    0.0000
   W_Mid_P3      WIN      0.0203    0.0124    0.0294
   W_Mid_P3     LOSS      0.0051    0.0010    0.0102
- W_High_P3      WIN      0.0933    0.0317    0.1618
- W_High_P3     LOSS      0.0533    0.0118    0.1191
+ W_High_P3      WIN      0.0946    0.0327    0.1667
+ W_High_P3     LOSS      0.0541    0.0119    0.1212
  W_High_P5      WIN      0.0107    0.0053    0.0170
  W_High_P5     LOSS      0.2666    0.2504    0.2845
 

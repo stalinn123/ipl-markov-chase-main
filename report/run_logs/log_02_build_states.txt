@@ -1,9 +1,9 @@
 ======================================================================
 SCRIPT 2: Building Match Over States and Transitions
 ======================================================================
-Loaded 1195 matches from /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/chases.csv
-Saved 22565 over-state observations to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/over_states.csv
-Saved 21370 state transitions to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/transitions.csv
+Loaded 1195 matches from data\processed\chases.csv
+Saved 22565 over-state observations to: data\processed\over_states.csv
+Saved 21370 state transitions to: data\processed\transitions.csv
 
 --- Sanity Checks ---
 Total matches processed: 1195
@@ -81,21 +81,21 @@ Match ID: 981019 (Season 2016) | Target: 209 | Final: 200/7 in 120 legal balls |
 
 --- Observations and Outgoing Transitions Per State ---
     State  Observations  Outgoing Transitions  To Transient  To WIN  To LOSS
- W_Low_P1          2851                  2851          2697     153        1
- W_Low_P2          2586                  2586          2582       4        0
- W_Low_P3          3043                  3043          3041       2        0
- W_Low_P4          2020                  2020          2019       1        0
- W_Low_P5          1650                  1650          1648       0        2
- W_Mid_P1           972                   972           697     274        1
- W_Mid_P2           722                   722           673      48        1
+ W_Low_P1          2860                  2860          2704     155        1
+ W_Low_P2          2587                  2587          2583       4        0
+ W_Low_P3          3044                  3044          3042       2        0
+ W_Low_P4          2029                  2029          2028       1        0
+ W_Low_P5          1670                  1670          1668       0        2
+ W_Mid_P1           963                   963           690     272        1
+ W_Mid_P2           722                   722           672      49        1
  W_Mid_P3          1299                  1299          1270      24        5
- W_Mid_P4          1456                  1456          1439      14        3
- W_Mid_P5          2676                  2676          2569      26       81
+ W_Mid_P4          1448                  1448          1431      14        3
+ W_Mid_P5          2660                  2660          2552      26       82
 W_High_P1            79                    79            25      47        7
-W_High_P2            62                    62            41      21        0
-W_High_P3           120                   120           103      10        7
-W_High_P4           194                   194           170       8       16
-W_High_P5          1640                  1640          1201      18      421
+W_High_P2            61                    61            41      20        0
+W_High_P3           119                   119           102      10        7
+W_High_P4           193                   193           169       8       16
+W_High_P5          1636                  1636          1198      18      420
 
 --- State Sparsity Check (< 30 Outgoing Transitions) ---
 All 15 transient states have >= 30 outgoing transitions. No merge required!

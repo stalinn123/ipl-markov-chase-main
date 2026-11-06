@@ -6,29 +6,29 @@ Train transitions: 16365 from 913 matches (seasons 2008-2022), alpha = 10.0
 Win probability V_k(s) at selected overs (rows) for selected states:
       W_Low_P2  W_Low_P3  W_Mid_P3  W_Mid_P4  W_High_P3
 over                                                   
-1        0.598     0.574     0.323     0.290      0.449
-5        0.674     0.562     0.353     0.265      0.064
-10       0.799     0.651     0.447     0.316      0.168
-15       0.918     0.772     0.661     0.405      0.489
-19       1.000     1.000     0.742     0.924      0.686
+1        0.598     0.574     0.324     0.299      0.440
+5        0.674     0.562     0.353     0.267      0.063
+10       0.800     0.651     0.447     0.316      0.165
+15       0.919     0.775     0.661     0.405      0.480
+19       1.000     1.000     0.742     0.924      0.685
 
 Expected overs to absorption E_k(s) (must be <= 20 - k):
       W_Low_P2  W_Low_P3  W_Mid_P3  W_Mid_P4  W_High_P3
 over                                                   
-1        17.74     17.82     18.35     18.36       8.34
+1        17.74     17.82     18.35     18.37       8.43
 5        13.63     14.08     14.36     14.44      11.54
-10        8.62      9.21      9.47      9.53       8.89
-15        3.99      4.49      4.56      4.80       4.38
+10        8.62      9.21      9.48      9.53       8.89
+15        3.98      4.48      4.56      4.80       4.38
 19        1.00      1.00      1.00      1.00       1.00
 Max violation of E_k(s) <= 20-k: 0.0000
 
 --- Out-of-sample (seasons >= 2023, 282 matches, 5005 over-states) ---
                     Model  Brier  LogLoss    Acc
-       Markov homogeneous 0.1711   0.5159 0.7522
-Markov time-inhomogeneous 0.1617   0.4949 0.7612
-      Logistic regression 0.1431   0.4365 0.7902
-Brier(inhom) - Brier(LR): +0.0188  95% cluster-bootstrap CI [+0.0027, +0.0344]
-Brier(inhom) - Brier(hom): -0.0094  95% cluster-bootstrap CI [-0.0147, -0.0042]
+       Markov homogeneous 0.1712   0.5161 0.7560
+Markov time-inhomogeneous 0.1618   0.4951 0.7612
+      Logistic regression 0.1431   0.4365 0.7906
+Brier(inhom) - Brier(LR): +0.0189  95% cluster-bootstrap CI [+0.0027, +0.0344]
+Brier(inhom) - Brier(hom): -0.0094  95% cluster-bootstrap CI [-0.0147, -0.0043]
 
 P(chase resolved by end of over k), train seasons, starting from over-1 distribution:
  over  empirical  homogeneous  inhomogeneous

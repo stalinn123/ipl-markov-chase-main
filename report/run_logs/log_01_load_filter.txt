@@ -1,9 +1,9 @@
 ======================================================================
 SCRIPT 1: Ingesting and Filtering IPL Match CSVs
 ======================================================================
-Total CSV files found in /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/raw/ipl_male_csv: 1243
+Total CSV files found in data\raw\ipl_male_csv: 1243
 
-Saved filtered chases to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/chases.csv
+Saved filtered chases to: data\processed\chases.csv
 
 --- Summary Statistics ---
 Files read: 1243

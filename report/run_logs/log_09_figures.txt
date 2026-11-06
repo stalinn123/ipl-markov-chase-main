@@ -7,5 +7,5 @@ saved fig_targets_by_season.png
 saved fig_state_transition_diagram.png
 saved fig_state_prob_vs_time.png
 saved fig_sample_paths.png
-INH simulation: P(win) sim = 0.5555, empirical train = 0.5487; mean absorption over sim = 18.865, empirical = 18.916
-Absorption-over distributions: KS stat = 0.0199
+INH simulation: P(win) sim = 0.5549, empirical train = 0.5487; mean absorption over sim = 18.861, empirical = 18.916
+Absorption-over distributions: KS stat = 0.0211

@@ -90,7 +90,7 @@ def test_time_homogeneity(train_trans: pd.DataFrame):
             "Significant_at_05": bool(p_val < 0.05),
         })
 
-    global_p_val = 1.0 - chi2.cdf(global_chi2, global_df) if global_df > 0 else 1.0
+    global_p_val = chi2.sf(global_chi2, global_df) if global_df > 0 else 1.0
 
     df_state_tests = pd.DataFrame(state_tests)
     return df_state_tests, global_chi2, global_df, global_p_val, df
@@ -199,7 +199,7 @@ def test_markov_property(train_trans: pd.DataFrame):
     # Compute degrees of freedom rigorously
     total_df = 0
     for i in n_i:
-        h_valid = [h for (h_cand, i_cand) in n_hi if i_cand == i and n_hi[(h_cand, i_cand)] > 1]
+        h_valid = [h_cand for (h_cand, i_cand) in n_hi if i_cand == i and n_hi[(h_cand, i_cand)] > 1]
         if len(h_valid) <= 1:
             continue
         j_from_i = set(j for (i_cand, j) in n_ij if i_cand == i)
@@ -209,7 +209,7 @@ def test_markov_property(train_trans: pd.DataFrame):
         if diff > 0:
             total_df += diff
 
-    p_value = 1.0 - chi2.cdf(G2, total_df) if total_df > 0 else 1.0
+    p_value = chi2.sf(G2, total_df) if total_df > 0 else 1.0
 
     return {
         "triplets_count": len(triplets),
@@ -253,8 +253,7 @@ def main():
         "  leading to transient state persistence.\n"
         "- In the Death overs (overs 16-20), absorbing transitions surge drastically: batting teams either rapidly\n"
         "  reach the target (absorbing into WIN) or lose lower-order wickets slogging (absorbing into LOSS).\n"
-        "While non-stationary phase models can capture fine-grained phase pacing, the stationary model provides\n"
-        "a remarkably strong parsimonious baseline that accurately captures the aggregate macro-dynamics."
+        "This is why script 06b fits a separate transition matrix for each over."
     )
 
     # 2. Markov Property Test (Memorylessness: 1st vs 2nd order)
@@ -272,14 +271,13 @@ def main():
     print(
         "The strict memorylessness assumption (first-order Markov chain) is statistically rejected\n"
         f"in favor of a second-order chain (G^2 = {markov_res['G2_statistic']:.2f}, df = {markov_res['degrees_of_freedom']}, p < 0.001).\n"
-        "In cricket, this reflects 'match momentum' and multi-over spells:\n"
-        "- A team that lost 2 wickets in over k-1 is psychologically and tactically constrained in over k,\n"
-        "  even if the nominal state (wickets bucket and pressure bucket) appears identical to a team\n"
-        "  that had a tranquil previous over.\n"
-        "- Bowler spell continuity and batter partnership rhythm introduce short-term autocorrelation.\n"
-        "Nonetheless, the state definitions (wickets lost, CRR, RRR, and pressure) encode the cumulative\n"
-        "history sufficiently well that the first-order Markov chain achieves high out-of-sample accuracy (75.2%)\n"
-        "without suffering from the curse of dimensionality or data sparsity that plagues higher-order models."
+        "The test shows the previous state carries extra information, not why. It cannot separate these causes:\n"
+        "- Over number: this test pools all overs, so the previous state partly stands in for how late it is.\n"
+        "- Bucketing: states merge different scores and wicket counts, so the previous state can reveal\n"
+        "  where a team sits inside its bucket.\n"
+        "- Genuine in-match effects such as momentum or bowler spells.\n"
+        "Some (previous, current) state pairs are rare, so the chi-square p-value is only approximate.\n"
+        "No second-order chain is fitted here, so this does not show whether one would predict better."
     )
     print("=" * 70)
 

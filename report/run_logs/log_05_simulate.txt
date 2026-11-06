@@ -3,45 +3,45 @@ SCRIPT 5: Monte Carlo Simulation vs Analytical Theory
 ======================================================================
 Running Monte Carlo simulations: 10000 trajectories per transient state (Total: 150,000 chains)...
 
-Saved simulation comparison table to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/simulation_vs_theory.csv
+Saved simulation comparison table to: data\processed\simulation_vs_theory.csv
 
 --- Simulation vs Theory Comparison Table ---
     State  Theory_Win_Prob  Sim_Win_Rate  Sim_CI_Lower  Sim_CI_Upper  Theory_In_CI  Theory_Overs  Sim_Mean_Overs
- W_Low_P1           0.7707        0.7728        0.7646        0.7810          True         14.77           14.77
- W_Low_P2           0.6497        0.6501        0.6408        0.6594          True         17.85           17.90
- W_Low_P3           0.5666        0.5663        0.5566        0.5760          True         18.78           18.91
- W_Low_P4           0.4945        0.4879        0.4781        0.4977          True         18.80           18.67
- W_Low_P5           0.4343        0.4347        0.4250        0.4444          True         18.44           18.62
- W_Mid_P1           0.9313        0.9299        0.9249        0.9349          True          4.10            4.16
- W_Mid_P2           0.7415        0.7457        0.7372        0.7542          True          7.88            7.80
- W_Mid_P3           0.4894        0.4973        0.4875        0.5071          True         10.40           10.43
- W_Mid_P4           0.3167        0.3268        0.3176        0.3360         False         10.61           10.72
- W_Mid_P5           0.2030        0.2040        0.1961        0.2119          True          9.33            9.34
-W_High_P1           0.8699        0.8743        0.8678        0.8808          True          1.43            1.42
-W_High_P2           0.7771        0.7777        0.7696        0.7858          True          2.64            2.65
-W_High_P3           0.5035        0.5023        0.4925        0.5121          True          4.18            4.17
-W_High_P4           0.2124        0.2151        0.2070        0.2232          True          4.52            4.54
-W_High_P5           0.0637        0.0656        0.0607        0.0705          True          3.62            3.60
+ W_Low_P1           0.7713        0.7730        0.7648        0.7812          True         14.75           14.79
+ W_Low_P2           0.6501        0.6467        0.6373        0.6561          True         17.85           18.05
+ W_Low_P3           0.5669        0.5659        0.5562        0.5756          True         18.79           18.99
+ W_Low_P4           0.4945        0.4946        0.4848        0.5044          True         18.82           18.71
+ W_Low_P5           0.4338        0.4346        0.4249        0.4443          True         18.44           18.46
+ W_Mid_P1           0.9305        0.9301        0.9251        0.9351          True          4.09            4.13
+ W_Mid_P2           0.7410        0.7408        0.7322        0.7494          True          7.86            7.88
+ W_Mid_P3           0.4893        0.4988        0.4890        0.5086          True         10.40           10.36
+ W_Mid_P4           0.3175        0.3160        0.3069        0.3251          True         10.59           10.73
+ W_Mid_P5           0.2020        0.2002        0.1924        0.2080          True          9.28            9.28
+W_High_P1           0.8692        0.8733        0.8668        0.8798          True          1.44            1.43
+W_High_P2           0.7680        0.7678        0.7595        0.7761          True          2.70            2.72
+W_High_P3           0.4939        0.4914        0.4816        0.5012          True          4.21            4.24
+W_High_P4           0.2074        0.2075        0.1996        0.2154          True          4.52            4.54
+W_High_P5           0.0634        0.0672        0.0623        0.0721          True          3.63            3.60
 
 Fraction of simulated paths lasting > 19 transitions (horizon violation of homogeneous chain):
     State  Frac_Paths_Over_19_Steps
- W_Low_P1                    0.2906
- W_Low_P2                    0.3613
- W_Low_P3                    0.3845
- W_Low_P4                    0.3745
- W_Low_P5                    0.3716
- W_Mid_P1                    0.0216
- W_Mid_P2                    0.0671
- W_Mid_P3                    0.1116
- W_Mid_P4                    0.1115
- W_Mid_P5                    0.0866
-W_High_P1                    0.0003
-W_High_P2                    0.0012
-W_High_P3                    0.0030
-W_High_P4                    0.0042
+ W_Low_P1                    0.2875
+ W_Low_P2                    0.3653
+ W_Low_P3                    0.3901
+ W_Low_P4                    0.3765
+ W_Low_P5                    0.3648
+ W_Mid_P1                    0.0213
+ W_Mid_P2                    0.0702
+ W_Mid_P3                    0.1079
+ W_Mid_P4                    0.1160
+ W_Mid_P5                    0.0840
+W_High_P1                    0.0001
+W_High_P2                    0.0019
+W_High_P3                    0.0022
+W_High_P4                    0.0037
 W_High_P5                    0.0020
 
-Theory inside Simulation 95% CI: 14/15 states (expected ~5% misses at 95% level)
-Saved Monte Carlo validation plot to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/figures/mc_vs_theory_win_prob.png
-Saved match length distribution plot to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/figures/mc_match_length_distribution.png
+Theory inside Simulation 95% CI: 15/15 states (all inside)
+Saved Monte Carlo validation plot to: figures\mc_vs_theory_win_prob.png
+Saved match length distribution plot to: figures\mc_match_length_distribution.png
 ======================================================================
