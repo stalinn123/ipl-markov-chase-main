@@ -2,7 +2,7 @@
 
 A university stochastic-processes project modelling second-innings run chases in the Indian Premier League (IPL) as discrete-time absorbing Markov chains: win probability, time to absorption, tipping points, and whether chase dynamics changed in the Impact Player era (from 2023).
 
-**Group:** Stalin Velayudham N, K Sanjay, Sai Shreeya Jetti
+**Group:** Stalin Velayudham N, K Sanjay, Shreeya Jetti
 
 ---
 
