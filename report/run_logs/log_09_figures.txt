@@ -1,0 +1,11 @@
+saved fig_era_transition_heatmaps.png
+saved fig_era_B_by_era.png
+saved fig_era_calibration.png
+saved fig_era_2026_traces.png
+saved fig_era_loso_brier.png
+saved fig_targets_by_season.png
+saved fig_state_transition_diagram.png
+saved fig_state_prob_vs_time.png
+saved fig_sample_paths.png
+INH simulation: P(win) sim = 0.5555, empirical train = 0.5487; mean absorption over sim = 18.865, empirical = 18.916
+Absorption-over distributions: KS stat = 0.0199

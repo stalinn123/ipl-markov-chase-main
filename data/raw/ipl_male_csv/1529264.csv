@@ -1,0 +1,331 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Rajasthan Royals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/13
+info,event,Indian Premier League
+info,match_id,1529264
+info,match_type,T20
+info,overs,20
+info,match_number,21
+info,venue,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+info,city,Hyderabad
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,PP Hinge
+info,umpire,J Madanagopal
+info,umpire,R Pandit
+info,reserve_umpire,UV Gandhe
+info,tv_umpire,A Bengeri
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,217
+info,winner,Sunrisers Hyderabad
+info,winner_runs,57
+info,player,Sunrisers Hyderabad,Sakib Hussain
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,Aniket Verma
+info,player,Sunrisers Hyderabad,Harsh Dubey
+info,player,Sunrisers Hyderabad,Shivang Kumar
+info,player,Sunrisers Hyderabad,PP Hinge
+info,player,Sunrisers Hyderabad,E Malinga
+info,player,Rajasthan Royals,Sandeep Sharma
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,V Suryavanshi
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,LG Pretorius
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,RA Jadeja
+info,player,Rajasthan Royals,D Ferreira
+info,player,Rajasthan Royals,JC Archer
+info,player,Rajasthan Royals,TU Deshpande
+info,player,Rajasthan Royals,Ravi Bishnoi
+info,player,Rajasthan Royals,N Burger
+info,registry,people,A Bengeri,c109497d
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Aniket Verma,a3b0600d
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harsh Dubey,25228673
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Archer,5574750c
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,N Burger,465aa633
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PP Hinge,ece7b6b3
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Arora,d7423da1
+info,registry,people,Sakib Hussain,280fff14
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Shivang Kumar,7b44eb3e
+info,registry,people,TM Head,12b610c2
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Suryavanshi,470f446b
+info,registry,people,YBK Jaiswal,6c19c6e5
+ball,1,0.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,JC Archer,0,0,,,,,,caught,Abhishek Sharma,0.1,,Ravi Bishnoi,,
+ball,1,0.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,2,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,4,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,4,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,6,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Sunrisers Hyderabad,Ishan Kishan,TM Head,JC Archer,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,4,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,1,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Sunrisers Hyderabad,Ishan Kishan,TM Head,N Burger,6,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Sunrisers Hyderabad,Ishan Kishan,TM Head,N Burger,1,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Sunrisers Hyderabad,TM Head,Ishan Kishan,N Burger,0,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Sunrisers Hyderabad,Ishan Kishan,TM Head,Sandeep Sharma,0,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,Sandeep Sharma,2,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Sunrisers Hyderabad,Ishan Kishan,TM Head,Sandeep Sharma,2,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Sunrisers Hyderabad,Ishan Kishan,TM Head,Sandeep Sharma,6,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Sunrisers Hyderabad,Ishan Kishan,TM Head,Sandeep Sharma,1,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Sunrisers Hyderabad,TM Head,Ishan Kishan,Sandeep Sharma,1,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Sunrisers Hyderabad,TM Head,Ishan Kishan,TU Deshpande,1,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,TU Deshpande,4,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Sunrisers Hyderabad,Ishan Kishan,TM Head,TU Deshpande,1,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Sunrisers Hyderabad,TM Head,Ishan Kishan,TU Deshpande,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Sunrisers Hyderabad,TM Head,Ishan Kishan,TU Deshpande,4,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Sunrisers Hyderabad,TM Head,Ishan Kishan,TU Deshpande,1,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Sunrisers Hyderabad,TM Head,Ishan Kishan,R Parag,1,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Sunrisers Hyderabad,Ishan Kishan,TM Head,R Parag,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Sunrisers Hyderabad,TM Head,Ishan Kishan,R Parag,1,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Sunrisers Hyderabad,Ishan Kishan,TM Head,R Parag,1,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Sunrisers Hyderabad,TM Head,Ishan Kishan,R Parag,0,0,,,,,,caught,TM Head,6.5,,D Ferreira,,
+ball,1,6.6,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,R Parag,1,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Sandeep Sharma,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Sandeep Sharma,1,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Sandeep Sharma,0,1,1,,,,,"","",8.3,,,,
+ball,1,8.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Sandeep Sharma,6,0,,,,,,"","",8.3,,,,
+ball,1,8.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Sandeep Sharma,1,0,,,,,,"","",8.4,,,,
+ball,1,8.6,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Sandeep Sharma,0,0,,,,,,"","",8.5,,,,
+ball,1,8.7,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Sandeep Sharma,1,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,6,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,6,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,0,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,4,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,0,1,1,,,,,"","",10.3,,,,
+ball,1,10.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,6,0,,,,,,"","",10.3,,,,
+ball,1,10.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,4,0,,,,,,"","",10.4,,,,
+ball,1,10.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,2,0,,,,,,"","",10.5,,,,
+ball,1,10.7,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,TU Deshpande,4,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,1,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,1,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,0,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,6,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Ravi Bishnoi,3,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Ravi Bishnoi,2,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JC Archer,4,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JC Archer,1,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,JC Archer,0,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,JC Archer,4,0,,,,,,"","",12.4,,,,
+ball,1,12.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,JC Archer,4,0,,,,,,"","",12.5,,,,
+ball,1,12.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,JC Archer,4,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Sandeep Sharma,0,1,1,,,,,"","",13.1,,,,
+ball,1,13.2,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Sandeep Sharma,0,1,1,,,,,"","",13.1,,,,
+ball,1,13.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Sandeep Sharma,1,0,,,,,,"","",13.1,,,,
+ball,1,13.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Sandeep Sharma,0,0,,,,,,caught and bowled,Ishan Kishan,13.2,,,,
+ball,1,13.5,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Sandeep Sharma,0,0,,,,,,"","",13.3,,,,
+ball,1,13.6,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Sandeep Sharma,0,0,,,,,,"","",13.4,,,,
+ball,1,13.7,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,Sandeep Sharma,1,0,,,,,,"","",13.5,,,,
+ball,1,13.8,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,Sandeep Sharma,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,N Burger,1,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,N Burger,1,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,N Burger,0,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,N Burger,0,0,,,,,,"","",14.4,,,,
+ball,1,14.5,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,N Burger,6,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,N Burger,1,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,TU Deshpande,0,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,TU Deshpande,1,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,TU Deshpande,6,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,TU Deshpande,1,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,TU Deshpande,0,0,,,,,,caught,H Klaasen,15.5,,R Parag,,
+ball,1,15.6,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,TU Deshpande,1,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,N Burger,0,1,,,,1,,"","",16.1,,,,
+ball,1,16.2,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,N Burger,1,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,N Burger,4,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,N Burger,0,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,N Burger,0,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,N Burger,1,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,Sandeep Sharma,4,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,Sandeep Sharma,1,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,Sandeep Sharma,6,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,Sandeep Sharma,6,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,Sandeep Sharma,0,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,Sandeep Sharma,0,1,1,,,,,"","",17.6,,,,
+ball,1,17.7,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,Sandeep Sharma,6,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Sunrisers Hyderabad,S Arora,Nithish Kumar Reddy,JC Archer,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,JC Archer,0,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Sunrisers Hyderabad,Nithish Kumar Reddy,S Arora,JC Archer,0,0,,,,,,caught,Nithish Kumar Reddy,18.3,,Dhruv Jurel,,
+ball,1,18.4,Sunrisers Hyderabad,Aniket Verma,S Arora,JC Archer,1,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Sunrisers Hyderabad,S Arora,Aniket Verma,JC Archer,0,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Sunrisers Hyderabad,S Arora,Aniket Verma,JC Archer,6,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Sunrisers Hyderabad,Aniket Verma,S Arora,TU Deshpande,0,1,1,,,,,"","",19.1,,,,
+ball,1,19.2,Sunrisers Hyderabad,Aniket Verma,S Arora,TU Deshpande,4,0,,,,,,"","",19.1,,,,
+ball,1,19.3,Sunrisers Hyderabad,Aniket Verma,S Arora,TU Deshpande,0,0,,,,,,"","",19.2,,,,
+ball,1,19.4,Sunrisers Hyderabad,Aniket Verma,S Arora,TU Deshpande,0,0,,,,,,"","",19.3,,,,
+ball,1,19.5,Sunrisers Hyderabad,Aniket Verma,S Arora,TU Deshpande,1,0,,,,,,"","",19.4,,,,
+ball,1,19.6,Sunrisers Hyderabad,S Arora,Aniket Verma,TU Deshpande,0,1,1,,,,,run out,Aniket Verma,19.5,,Dhruv Jurel,TU Deshpande,
+ball,1,19.7,Sunrisers Hyderabad,S Arora,Harsh Dubey,TU Deshpande,0,1,1,,,,,"","",19.5,,,,
+ball,1,19.8,Sunrisers Hyderabad,S Arora,Harsh Dubey,TU Deshpande,0,0,,,,,,"","",19.5,,,,
+ball,1,19.9,Sunrisers Hyderabad,S Arora,Harsh Dubey,TU Deshpande,6,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,PP Hinge,1,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,PP Hinge,0,0,,,,,,caught,V Suryavanshi,0.2,,S Arora,,
+ball,2,0.3,Rajasthan Royals,Dhruv Jurel,YBK Jaiswal,PP Hinge,0,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Rajasthan Royals,Dhruv Jurel,YBK Jaiswal,PP Hinge,0,0,,,,,,bowled,Dhruv Jurel,0.4,,,,
+ball,2,0.5,Rajasthan Royals,LG Pretorius,YBK Jaiswal,PP Hinge,0,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Rajasthan Royals,LG Pretorius,YBK Jaiswal,PP Hinge,0,0,,,,,,caught,LG Pretorius,0.6,,Nithish Kumar Reddy,,
+ball,2,1.1,Rajasthan Royals,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Rajasthan Royals,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Rajasthan Royals,YBK Jaiswal,R Parag,Sakib Hussain,0,1,1,,,,,"","",1.3,,,,
+ball,2,1.4,Rajasthan Royals,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,"","",1.3,,,,
+ball,2,1.5,Rajasthan Royals,YBK Jaiswal,R Parag,Sakib Hussain,0,0,,,,,,caught,YBK Jaiswal,1.4,,Nithish Kumar Reddy,,
+ball,2,1.6,Rajasthan Royals,RA Jadeja,R Parag,Sakib Hussain,0,0,,,,,,"","",1.5,,,,
+ball,2,1.7,Rajasthan Royals,RA Jadeja,R Parag,Sakib Hussain,2,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,0,1,1,,,,,"","",2.2,,,,
+ball,2,2.3,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,"","",2.2,,,,
+ball,2,2.4,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,"","",2.3,,,,
+ball,2,2.5,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,"","",2.4,,,,
+ball,2,2.6,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,4,0,,,,,,"","",2.5,,,,
+ball,2,2.7,Rajasthan Royals,R Parag,RA Jadeja,PP Hinge,0,0,,,,,,caught,R Parag,2.6,,Abhishek Sharma,,
+ball,2,3.1,Rajasthan Royals,RA Jadeja,D Ferreira,Sakib Hussain,1,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,1,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Rajasthan Royals,RA Jadeja,D Ferreira,Sakib Hussain,4,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Rajasthan Royals,RA Jadeja,D Ferreira,Sakib Hussain,0,1,1,,,,,"","",3.5,,,,
+ball,2,3.6,Rajasthan Royals,RA Jadeja,D Ferreira,Sakib Hussain,0,0,,,,,,"","",3.5,,,,
+ball,2,3.7,Rajasthan Royals,RA Jadeja,D Ferreira,Sakib Hussain,4,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,0,1,1,,,,,"","",4.1,,,,
+ball,2,4.2,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,0,0,,,,,,"","",4.1,,,,
+ball,2,4.3,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,0,0,,,,,,"","",4.2,,,,
+ball,2,4.4,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,6,0,,,,,,"","",4.3,,,,
+ball,2,4.5,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,0,0,,,,,,"","",4.4,,,,
+ball,2,4.6,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,4,0,,,,,,"","",4.5,,,,
+ball,2,4.7,Rajasthan Royals,D Ferreira,RA Jadeja,PP Hinge,1,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Rajasthan Royals,D Ferreira,RA Jadeja,E Malinga,0,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Rajasthan Royals,D Ferreira,RA Jadeja,E Malinga,1,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,4,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Rajasthan Royals,D Ferreira,RA Jadeja,E Malinga,1,0,,,,,,"","",5.5,,,,
+ball,2,5.6,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Rajasthan Royals,RA Jadeja,D Ferreira,Shivang Kumar,0,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Rajasthan Royals,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,0,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,2,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,4,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,4,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,0,1,1,,,,,"","",7.1,,,,
+ball,2,7.2,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,2,0,,,,,,"","",7.1,,,,
+ball,2,7.3,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,0,0,,,,,,"","",7.2,,,,
+ball,2,7.4,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,1,0,,,,,,"","",7.3,,,,
+ball,2,7.5,Rajasthan Royals,D Ferreira,RA Jadeja,Nithish Kumar Reddy,0,0,,,,,,"","",7.4,,,,
+ball,2,7.6,Rajasthan Royals,D Ferreira,RA Jadeja,Nithish Kumar Reddy,2,0,,,,,,"","",7.5,,,,
+ball,2,7.7,Rajasthan Royals,D Ferreira,RA Jadeja,Nithish Kumar Reddy,1,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,0,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Rajasthan Royals,RA Jadeja,D Ferreira,Shivang Kumar,0,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Rajasthan Royals,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Rajasthan Royals,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Rajasthan Royals,RA Jadeja,D Ferreira,Harsh Dubey,0,1,1,,,,,"","",9.1,,,,
+ball,2,9.2,Rajasthan Royals,RA Jadeja,D Ferreira,Harsh Dubey,1,0,,,,,,"","",9.1,,,,
+ball,2,9.3,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,1,0,,,,,,"","",9.2,,,,
+ball,2,9.4,Rajasthan Royals,RA Jadeja,D Ferreira,Harsh Dubey,0,0,,,,,,"","",9.3,,,,
+ball,2,9.5,Rajasthan Royals,RA Jadeja,D Ferreira,Harsh Dubey,0,1,1,,,,,"","",9.4,,,,
+ball,2,9.6,Rajasthan Royals,RA Jadeja,D Ferreira,Harsh Dubey,2,0,,,,,,"","",9.4,,,,
+ball,2,9.7,Rajasthan Royals,RA Jadeja,D Ferreira,Harsh Dubey,1,0,,,,,,"","",9.5,,,,
+ball,2,9.8,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,0,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,6,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Rajasthan Royals,RA Jadeja,D Ferreira,Shivang Kumar,1,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,4,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Rajasthan Royals,D Ferreira,RA Jadeja,Shivang Kumar,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,0,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,4,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,4,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,6,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,0,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Rajasthan Royals,D Ferreira,RA Jadeja,Harsh Dubey,0,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,2,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,4,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Rajasthan Royals,RA Jadeja,D Ferreira,Nithish Kumar Reddy,1,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Rajasthan Royals,D Ferreira,RA Jadeja,Nithish Kumar Reddy,0,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Rajasthan Royals,D Ferreira,RA Jadeja,Nithish Kumar Reddy,4,0,,,,,,"","",12.5,true,,,
+ball,2,12.6,Rajasthan Royals,D Ferreira,RA Jadeja,Nithish Kumar Reddy,1,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Rajasthan Royals,D Ferreira,RA Jadeja,E Malinga,0,1,,,,1,,"","",13.1,,,,
+ball,2,13.2,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Rajasthan Royals,D Ferreira,RA Jadeja,E Malinga,1,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,2,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,0,1,1,,,,,"","",13.5,,,,
+ball,2,13.6,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,4,0,,,,,,"","",13.5,,,,
+ball,2,13.7,Rajasthan Royals,RA Jadeja,D Ferreira,E Malinga,1,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Rajasthan Royals,RA Jadeja,D Ferreira,Sakib Hussain,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,4,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,2,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Rajasthan Royals,D Ferreira,RA Jadeja,Sakib Hussain,0,0,,,,,,bowled,D Ferreira,14.6,,,,
+ball,2,15.1,Rajasthan Royals,RA Jadeja,JC Archer,E Malinga,1,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Rajasthan Royals,JC Archer,RA Jadeja,E Malinga,1,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Rajasthan Royals,RA Jadeja,JC Archer,E Malinga,0,0,,,,,,caught,RA Jadeja,15.3,,S Arora,,
+ball,2,15.4,Rajasthan Royals,TU Deshpande,JC Archer,E Malinga,0,0,,,,,,"","",15.4,,,,
+ball,2,15.5,Rajasthan Royals,TU Deshpande,JC Archer,E Malinga,2,0,,,,,,"","",15.5,,,,
+ball,2,15.6,Rajasthan Royals,TU Deshpande,JC Archer,E Malinga,6,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Rajasthan Royals,JC Archer,TU Deshpande,Sakib Hussain,0,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Rajasthan Royals,JC Archer,TU Deshpande,Sakib Hussain,0,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Rajasthan Royals,JC Archer,TU Deshpande,Sakib Hussain,1,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Rajasthan Royals,TU Deshpande,JC Archer,Sakib Hussain,1,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Rajasthan Royals,JC Archer,TU Deshpande,Sakib Hussain,0,1,1,,,,,"","",16.5,,,,
+ball,2,16.6,Rajasthan Royals,JC Archer,TU Deshpande,Sakib Hussain,0,0,,,,,,caught,JC Archer,16.5,,PP Hinge,,
+ball,2,16.7,Rajasthan Royals,Ravi Bishnoi,TU Deshpande,Sakib Hussain,0,0,,,,,,caught,Ravi Bishnoi,16.6,,Ishan Kishan,,
+ball,2,17.1,Rajasthan Royals,TU Deshpande,N Burger,PP Hinge,6,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Rajasthan Royals,TU Deshpande,N Burger,PP Hinge,1,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Rajasthan Royals,N Burger,TU Deshpande,PP Hinge,0,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Rajasthan Royals,N Burger,TU Deshpande,PP Hinge,1,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Rajasthan Royals,TU Deshpande,N Burger,PP Hinge,2,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Rajasthan Royals,TU Deshpande,N Burger,PP Hinge,6,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Rajasthan Royals,N Burger,TU Deshpande,E Malinga,0,0,,,,,,"","",18.1,,,,
+ball,2,18.2,Rajasthan Royals,N Burger,TU Deshpande,E Malinga,1,0,,,,,,"","",18.2,,,,
+ball,2,18.3,Rajasthan Royals,TU Deshpande,N Burger,E Malinga,0,0,,,,,,"","",18.3,,,,
+ball,2,18.4,Rajasthan Royals,TU Deshpande,N Burger,E Malinga,1,0,,,,,,"","",18.4,,,,
+ball,2,18.5,Rajasthan Royals,N Burger,TU Deshpande,E Malinga,1,0,,,,,,"","",18.5,,,,
+ball,2,18.6,Rajasthan Royals,TU Deshpande,N Burger,E Malinga,0,0,,,,,,caught,TU Deshpande,18.6,,Ishan Kishan,,

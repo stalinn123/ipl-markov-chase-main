@@ -1,0 +1,288 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Delhi Capitals
+info,team,Kolkata Knight Riders
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/08
+info,event,Indian Premier League
+info,match_id,1529294
+info,match_type,T20
+info,overs,20
+info,match_number,51
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,FH Allen
+info,umpire,Nitin Menon
+info,umpire,R Pandit
+info,reserve_umpire,TM Srivastava
+info,tv_umpire,KM Gandhi
+info,match_referee,Amit Sharma
+info,target_overs,2,20
+info,target_runs,2,143
+info,winner,Kolkata Knight Riders
+info,winner_wickets,8
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,P Nissanka
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,N Rana
+info,player,Delhi Capitals,Sameer Rizvi
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,Ashutosh Sharma
+info,player,Delhi Capitals,V Nigam
+info,player,Delhi Capitals,MA Starc
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,MK Pandey
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Kolkata Knight Riders,VG Arora
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AR Patel,2e171977
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Amit Sharma,7ea3e0cc
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,FH Allen,bf74b130
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KM Gandhi,a9421c64
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TM Srivastava,a76d10ba
+info,registry,people,V Nigam,5ffc0565
+info,registry,people,VG Arora,7c3b3b78
+ball,1,0.1,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,4,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,1,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Delhi Capitals,KL Rahul,P Nissanka,AS Roy,0,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Delhi Capitals,KL Rahul,P Nissanka,AS Roy,1,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,1,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Delhi Capitals,P Nissanka,KL Rahul,VG Arora,0,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Delhi Capitals,P Nissanka,KL Rahul,VG Arora,1,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Delhi Capitals,KL Rahul,P Nissanka,VG Arora,1,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Delhi Capitals,P Nissanka,KL Rahul,VG Arora,6,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Delhi Capitals,P Nissanka,KL Rahul,VG Arora,1,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Delhi Capitals,KL Rahul,P Nissanka,VG Arora,1,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Delhi Capitals,KL Rahul,P Nissanka,AS Roy,0,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Delhi Capitals,KL Rahul,P Nissanka,AS Roy,4,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Delhi Capitals,KL Rahul,P Nissanka,AS Roy,1,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,0,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,0,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Delhi Capitals,P Nissanka,KL Rahul,AS Roy,6,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Delhi Capitals,KL Rahul,P Nissanka,SP Narine,1,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Delhi Capitals,P Nissanka,KL Rahul,SP Narine,4,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Delhi Capitals,P Nissanka,KL Rahul,SP Narine,0,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Delhi Capitals,P Nissanka,KL Rahul,SP Narine,1,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Delhi Capitals,KL Rahul,P Nissanka,SP Narine,4,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Delhi Capitals,KL Rahul,P Nissanka,SP Narine,1,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Delhi Capitals,KL Rahul,P Nissanka,Kartik Tyagi,4,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Delhi Capitals,KL Rahul,P Nissanka,Kartik Tyagi,1,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Delhi Capitals,P Nissanka,KL Rahul,Kartik Tyagi,0,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Delhi Capitals,P Nissanka,KL Rahul,Kartik Tyagi,1,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Delhi Capitals,KL Rahul,P Nissanka,Kartik Tyagi,4,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Delhi Capitals,KL Rahul,P Nissanka,Kartik Tyagi,0,0,,,,,,caught,KL Rahul,4.6,,C Green,,
+ball,1,5.1,Delhi Capitals,P Nissanka,N Rana,VG Arora,4,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Delhi Capitals,P Nissanka,N Rana,VG Arora,1,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Delhi Capitals,N Rana,P Nissanka,VG Arora,0,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Delhi Capitals,N Rana,P Nissanka,VG Arora,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Delhi Capitals,N Rana,P Nissanka,VG Arora,0,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Delhi Capitals,N Rana,P Nissanka,VG Arora,1,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Delhi Capitals,N Rana,P Nissanka,CV Varun,1,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Delhi Capitals,P Nissanka,N Rana,CV Varun,0,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Delhi Capitals,P Nissanka,N Rana,CV Varun,1,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Delhi Capitals,N Rana,P Nissanka,CV Varun,1,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Delhi Capitals,P Nissanka,N Rana,CV Varun,0,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Delhi Capitals,P Nissanka,N Rana,CV Varun,4,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Delhi Capitals,N Rana,P Nissanka,C Green,1,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Delhi Capitals,P Nissanka,N Rana,C Green,6,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Delhi Capitals,P Nissanka,N Rana,C Green,1,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Delhi Capitals,N Rana,P Nissanka,C Green,4,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Delhi Capitals,N Rana,P Nissanka,C Green,0,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Delhi Capitals,N Rana,P Nissanka,C Green,0,0,,,,,,caught,N Rana,7.6,,SP Narine,,
+ball,1,8.1,Delhi Capitals,P Nissanka,Sameer Rizvi,CV Varun,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Delhi Capitals,Sameer Rizvi,P Nissanka,CV Varun,0,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Delhi Capitals,Sameer Rizvi,P Nissanka,CV Varun,0,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Delhi Capitals,Sameer Rizvi,P Nissanka,CV Varun,1,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Delhi Capitals,P Nissanka,Sameer Rizvi,CV Varun,1,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Delhi Capitals,Sameer Rizvi,P Nissanka,CV Varun,0,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Delhi Capitals,P Nissanka,Sameer Rizvi,SP Narine,0,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Delhi Capitals,P Nissanka,Sameer Rizvi,SP Narine,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Delhi Capitals,Sameer Rizvi,P Nissanka,SP Narine,0,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Delhi Capitals,Sameer Rizvi,P Nissanka,SP Narine,2,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Delhi Capitals,Sameer Rizvi,P Nissanka,SP Narine,0,0,,,,,,caught,Sameer Rizvi,9.5,,R Powell,,
+ball,1,9.6,Delhi Capitals,T Stubbs,P Nissanka,SP Narine,0,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Delhi Capitals,P Nissanka,T Stubbs,AS Roy,4,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Delhi Capitals,P Nissanka,T Stubbs,AS Roy,0,1,1,,,,,stumped,P Nissanka,10.2,,A Raghuvanshi,,
+ball,1,10.3,Delhi Capitals,AR Patel,T Stubbs,AS Roy,0,1,1,,,,,"","",10.2,,,,
+ball,1,10.4,Delhi Capitals,AR Patel,T Stubbs,AS Roy,1,0,,,,,,"","",10.2,,,,
+ball,1,10.5,Delhi Capitals,T Stubbs,AR Patel,AS Roy,2,0,,,,,,"","",10.3,,,,
+ball,1,10.6,Delhi Capitals,T Stubbs,AR Patel,AS Roy,0,0,,,,,,"","",10.4,,,,
+ball,1,10.7,Delhi Capitals,T Stubbs,AR Patel,AS Roy,0,0,,,,,,bowled,T Stubbs,10.5,,,,
+ball,1,10.8,Delhi Capitals,Ashutosh Sharma,AR Patel,AS Roy,0,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Delhi Capitals,AR Patel,Ashutosh Sharma,SP Narine,0,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Delhi Capitals,AR Patel,Ashutosh Sharma,SP Narine,0,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Delhi Capitals,AR Patel,Ashutosh Sharma,SP Narine,0,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Delhi Capitals,AR Patel,Ashutosh Sharma,SP Narine,0,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Delhi Capitals,AR Patel,Ashutosh Sharma,SP Narine,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Delhi Capitals,Ashutosh Sharma,AR Patel,SP Narine,0,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Delhi Capitals,AR Patel,Ashutosh Sharma,AS Roy,1,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Delhi Capitals,Ashutosh Sharma,AR Patel,AS Roy,0,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Delhi Capitals,Ashutosh Sharma,AR Patel,AS Roy,0,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Delhi Capitals,Ashutosh Sharma,AR Patel,AS Roy,1,0,,,,,,"","",12.4,,,,
+ball,1,12.5,Delhi Capitals,AR Patel,Ashutosh Sharma,AS Roy,1,0,,,,,,"","",12.5,,,,
+ball,1,12.6,Delhi Capitals,Ashutosh Sharma,AR Patel,AS Roy,1,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,0,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,1,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Delhi Capitals,AR Patel,Ashutosh Sharma,CV Varun,0,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Delhi Capitals,AR Patel,Ashutosh Sharma,CV Varun,0,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Delhi Capitals,AR Patel,Ashutosh Sharma,CV Varun,0,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Delhi Capitals,AR Patel,Ashutosh Sharma,CV Varun,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Delhi Capitals,AR Patel,Ashutosh Sharma,Kartik Tyagi,0,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Delhi Capitals,AR Patel,Ashutosh Sharma,Kartik Tyagi,0,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Delhi Capitals,AR Patel,Ashutosh Sharma,Kartik Tyagi,1,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Delhi Capitals,Ashutosh Sharma,AR Patel,Kartik Tyagi,0,0,,,,,,"","",14.4,,,,
+ball,1,14.5,Delhi Capitals,Ashutosh Sharma,AR Patel,Kartik Tyagi,1,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Delhi Capitals,AR Patel,Ashutosh Sharma,Kartik Tyagi,0,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Delhi Capitals,Ashutosh Sharma,AR Patel,SP Narine,0,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Delhi Capitals,Ashutosh Sharma,AR Patel,SP Narine,0,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Delhi Capitals,Ashutosh Sharma,AR Patel,SP Narine,0,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Delhi Capitals,Ashutosh Sharma,AR Patel,SP Narine,0,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Delhi Capitals,Ashutosh Sharma,AR Patel,SP Narine,1,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Delhi Capitals,AR Patel,Ashutosh Sharma,SP Narine,1,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Delhi Capitals,AR Patel,Ashutosh Sharma,CV Varun,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,0,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,6,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,4,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,4,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Delhi Capitals,Ashutosh Sharma,AR Patel,CV Varun,1,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Delhi Capitals,Ashutosh Sharma,AR Patel,Kartik Tyagi,0,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Delhi Capitals,Ashutosh Sharma,AR Patel,Kartik Tyagi,6,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Delhi Capitals,Ashutosh Sharma,AR Patel,Kartik Tyagi,1,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Delhi Capitals,AR Patel,Ashutosh Sharma,Kartik Tyagi,1,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Delhi Capitals,Ashutosh Sharma,AR Patel,Kartik Tyagi,1,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Delhi Capitals,AR Patel,Ashutosh Sharma,Kartik Tyagi,1,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Delhi Capitals,AR Patel,Ashutosh Sharma,VG Arora,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Delhi Capitals,Ashutosh Sharma,AR Patel,VG Arora,1,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Delhi Capitals,AR Patel,Ashutosh Sharma,VG Arora,0,0,,,,,,caught,AR Patel,18.3,,AS Roy,,
+ball,1,18.4,Delhi Capitals,V Nigam,Ashutosh Sharma,VG Arora,1,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Delhi Capitals,Ashutosh Sharma,V Nigam,VG Arora,6,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Delhi Capitals,Ashutosh Sharma,V Nigam,VG Arora,4,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Delhi Capitals,V Nigam,Ashutosh Sharma,Kartik Tyagi,1,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Delhi Capitals,Ashutosh Sharma,V Nigam,Kartik Tyagi,0,0,,,,,,caught,Ashutosh Sharma,19.2,,AM Rahane,,
+ball,1,19.3,Delhi Capitals,MA Starc,V Nigam,Kartik Tyagi,0,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Delhi Capitals,MA Starc,V Nigam,Kartik Tyagi,0,0,,,,,,run out,MA Starc,19.4,,A Raghuvanshi,Kartik Tyagi,
+ball,1,19.5,Delhi Capitals,V Nigam,L Ngidi,Kartik Tyagi,1,0,,,,,,"","",19.5,,,,
+ball,1,19.6,Delhi Capitals,L Ngidi,V Nigam,Kartik Tyagi,1,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,0,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,0,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,1,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,0,0,,,,,,"","",0.4,,,,
+ball,2,0.5,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,4,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,1,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Kolkata Knight Riders,FH Allen,AM Rahane,AR Patel,4,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Kolkata Knight Riders,FH Allen,AM Rahane,AR Patel,1,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Kolkata Knight Riders,AM Rahane,FH Allen,AR Patel,0,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Kolkata Knight Riders,AM Rahane,FH Allen,AR Patel,4,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Kolkata Knight Riders,AM Rahane,FH Allen,AR Patel,1,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Kolkata Knight Riders,FH Allen,AM Rahane,AR Patel,1,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,4,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,1,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,0,0,,,,,,"","",2.3,,,,
+ball,2,2.4,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,6,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,1,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,0,0,,,,,,run out,AM Rahane,2.6,,MA Starc,,
+ball,2,3.1,Kolkata Knight Riders,A Raghuvanshi,FH Allen,AR Patel,0,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Kolkata Knight Riders,A Raghuvanshi,FH Allen,AR Patel,1,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Kolkata Knight Riders,FH Allen,A Raghuvanshi,AR Patel,1,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Kolkata Knight Riders,A Raghuvanshi,FH Allen,AR Patel,0,0,,,,,,bowled,A Raghuvanshi,3.4,,,,
+ball,2,3.5,Kolkata Knight Riders,C Green,FH Allen,AR Patel,1,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Kolkata Knight Riders,FH Allen,C Green,AR Patel,0,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Kolkata Knight Riders,C Green,FH Allen,L Ngidi,1,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Kolkata Knight Riders,FH Allen,C Green,L Ngidi,0,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Kolkata Knight Riders,FH Allen,C Green,L Ngidi,0,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Kolkata Knight Riders,FH Allen,C Green,L Ngidi,1,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Kolkata Knight Riders,C Green,FH Allen,L Ngidi,0,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Kolkata Knight Riders,C Green,FH Allen,L Ngidi,0,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Kolkata Knight Riders,FH Allen,C Green,AR Patel,1,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Kolkata Knight Riders,C Green,FH Allen,AR Patel,0,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Kolkata Knight Riders,C Green,FH Allen,AR Patel,6,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Kolkata Knight Riders,C Green,FH Allen,AR Patel,1,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Kolkata Knight Riders,FH Allen,C Green,AR Patel,0,0,,,,,,"","",5.5,,,,
+ball,2,5.6,Kolkata Knight Riders,FH Allen,C Green,AR Patel,1,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Kolkata Knight Riders,FH Allen,C Green,V Nigam,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Kolkata Knight Riders,C Green,FH Allen,V Nigam,1,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Kolkata Knight Riders,FH Allen,C Green,V Nigam,4,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Kolkata Knight Riders,FH Allen,C Green,V Nigam,6,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Kolkata Knight Riders,FH Allen,C Green,V Nigam,1,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Kolkata Knight Riders,C Green,FH Allen,V Nigam,0,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,0,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,4,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,0,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,6,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,0,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,0,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Kolkata Knight Riders,C Green,FH Allen,L Ngidi,1,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Kolkata Knight Riders,FH Allen,C Green,L Ngidi,0,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Kolkata Knight Riders,FH Allen,C Green,L Ngidi,1,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Kolkata Knight Riders,C Green,FH Allen,L Ngidi,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Kolkata Knight Riders,FH Allen,C Green,L Ngidi,1,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Kolkata Knight Riders,C Green,FH Allen,L Ngidi,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Kolkata Knight Riders,C Green,FH Allen,AR Patel,0,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Kolkata Knight Riders,C Green,FH Allen,AR Patel,0,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Kolkata Knight Riders,C Green,FH Allen,AR Patel,0,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Kolkata Knight Riders,C Green,FH Allen,AR Patel,2,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Kolkata Knight Riders,C Green,FH Allen,AR Patel,1,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Kolkata Knight Riders,FH Allen,C Green,AR Patel,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Kolkata Knight Riders,FH Allen,C Green,MA Starc,6,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Kolkata Knight Riders,FH Allen,C Green,MA Starc,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Kolkata Knight Riders,C Green,FH Allen,MA Starc,2,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Kolkata Knight Riders,C Green,FH Allen,MA Starc,1,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Kolkata Knight Riders,FH Allen,C Green,MA Starc,1,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Kolkata Knight Riders,C Green,FH Allen,MA Starc,2,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,6,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,1,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Kolkata Knight Riders,C Green,FH Allen,Kuldeep Yadav,6,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Kolkata Knight Riders,C Green,FH Allen,Kuldeep Yadav,1,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,1,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Kolkata Knight Riders,C Green,FH Allen,Kuldeep Yadav,1,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Kolkata Knight Riders,C Green,FH Allen,V Nigam,1,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Kolkata Knight Riders,FH Allen,C Green,V Nigam,6,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Kolkata Knight Riders,FH Allen,C Green,V Nigam,6,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Kolkata Knight Riders,FH Allen,C Green,V Nigam,6,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Kolkata Knight Riders,FH Allen,C Green,V Nigam,1,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Kolkata Knight Riders,C Green,FH Allen,V Nigam,1,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Kolkata Knight Riders,C Green,FH Allen,Kuldeep Yadav,1,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,6,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,0,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,2,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,6,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Kolkata Knight Riders,FH Allen,C Green,Kuldeep Yadav,0,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Kolkata Knight Riders,C Green,FH Allen,Mukesh Kumar,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Kolkata Knight Riders,FH Allen,C Green,Mukesh Kumar,6,0,,,,,,"","",14.2,,,,

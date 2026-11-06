@@ -1,0 +1,41 @@
+======================================================================
+SCRIPT 6b: Time-Inhomogeneous (per-over) Absorbing Markov Chain
+======================================================================
+Train transitions: 16365 from 913 matches (seasons 2008-2022), alpha = 10.0
+
+Win probability V_k(s) at selected overs (rows) for selected states:
+      W_Low_P2  W_Low_P3  W_Mid_P3  W_Mid_P4  W_High_P3
+over                                                   
+1        0.598     0.574     0.323     0.290      0.449
+5        0.674     0.562     0.353     0.265      0.064
+10       0.799     0.651     0.447     0.316      0.168
+15       0.918     0.772     0.661     0.405      0.489
+19       1.000     1.000     0.742     0.924      0.686
+
+Expected overs to absorption E_k(s) (must be <= 20 - k):
+      W_Low_P2  W_Low_P3  W_Mid_P3  W_Mid_P4  W_High_P3
+over                                                   
+1        17.74     17.82     18.35     18.36       8.34
+5        13.63     14.08     14.36     14.44      11.54
+10        8.62      9.21      9.47      9.53       8.89
+15        3.99      4.49      4.56      4.80       4.38
+19        1.00      1.00      1.00      1.00       1.00
+Max violation of E_k(s) <= 20-k: 0.0000
+
+--- Out-of-sample (seasons >= 2023, 282 matches, 5005 over-states) ---
+                    Model  Brier  LogLoss    Acc
+       Markov homogeneous 0.1711   0.5159 0.7522
+Markov time-inhomogeneous 0.1617   0.4949 0.7612
+      Logistic regression 0.1431   0.4365 0.7902
+Brier(inhom) - Brier(LR): +0.0188  95% cluster-bootstrap CI [+0.0027, +0.0344]
+Brier(inhom) - Brier(hom): -0.0094  95% cluster-bootstrap CI [-0.0147, -0.0042]
+
+P(chase resolved by end of over k), train seasons, starting from over-1 distribution:
+ over  empirical  homogeneous  inhomogeneous
+    5      0.000        0.072          0.000
+   10      0.012        0.261          0.011
+   15      0.073        0.470          0.074
+   19      0.400        0.611          0.411
+   20      1.000        0.642          1.000
+Saved figures: validation_brier_three_models.png, inhom_win_prob_surface.png, absorbed_by_over.png
+======================================================================

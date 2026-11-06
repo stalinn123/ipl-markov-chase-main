@@ -1,0 +1,320 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Punjab Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/23
+info,event,Indian Premier League
+info,match_id,1529311
+info,match_type,T20
+info,overs,20
+info,match_number,68
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Punjab Kings
+info,toss_decision,field
+info,player_of_match,SS Iyer
+info,umpire,KM Gandhi
+info,umpire,Vinod Seshan
+info,reserve_umpire,TM Srivastava
+info,tv_umpire,AK Argal
+info,match_referee,A Kripal Singh
+info,target_overs,2,20
+info,target_runs,2,197
+info,winner,Punjab Kings
+info,winner_wickets,7
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Lucknow Super Giants,JP Inglis
+info,player,Lucknow Super Giants,AA Kulkarni
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,MD Choudhary
+info,player,Lucknow Super Giants,Arjun Tendulkar
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Lucknow Super Giants,Mohsin Khan
+info,player,Punjab Kings,YS Chahal
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,Suryansh Shedge
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,Azmatullah Omarzai
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,Vijaykumar Vyshak
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,MP Stoinis
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Kripal Singh,8f559207
+info,registry,people,AA Kulkarni,2d140b79
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Arjun Tendulkar,44aac2f0
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,C Connolly,fe366f34
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KM Gandhi,a9421c64
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MD Choudhary,1c84109e
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,P Dubey,ed5a5510
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Suryansh Shedge,970ddd24
+info,registry,people,TM Srivastava,a76d10ba
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,Vinod Seshan,a3357a27
+info,registry,people,YS Chahal,57ee1fde
+ball,1,0.1,Lucknow Super Giants,JP Inglis,AA Kulkarni,Arshdeep Singh,4,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Lucknow Super Giants,JP Inglis,AA Kulkarni,Arshdeep Singh,0,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Lucknow Super Giants,JP Inglis,AA Kulkarni,Arshdeep Singh,0,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Lucknow Super Giants,JP Inglis,AA Kulkarni,Arshdeep Singh,4,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Lucknow Super Giants,JP Inglis,AA Kulkarni,Arshdeep Singh,4,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Lucknow Super Giants,JP Inglis,AA Kulkarni,Arshdeep Singh,4,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Lucknow Super Giants,AA Kulkarni,JP Inglis,Azmatullah Omarzai,0,0,,,,,,caught,AA Kulkarni,1.1,,P Simran Singh,,
+ball,1,1.2,Lucknow Super Giants,N Pooran,JP Inglis,Azmatullah Omarzai,0,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Lucknow Super Giants,N Pooran,JP Inglis,Azmatullah Omarzai,0,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Lucknow Super Giants,N Pooran,JP Inglis,Azmatullah Omarzai,0,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Lucknow Super Giants,N Pooran,JP Inglis,Azmatullah Omarzai,0,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Lucknow Super Giants,N Pooran,JP Inglis,Azmatullah Omarzai,1,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Lucknow Super Giants,N Pooran,JP Inglis,M Jansen,1,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Lucknow Super Giants,JP Inglis,N Pooran,M Jansen,0,1,1,,,,,"","",2.2,,,,
+ball,1,2.3,Lucknow Super Giants,JP Inglis,N Pooran,M Jansen,0,0,,,,,,"","",2.2,,,,
+ball,1,2.4,Lucknow Super Giants,JP Inglis,N Pooran,M Jansen,0,0,,,,,,"","",2.3,,,,
+ball,1,2.5,Lucknow Super Giants,JP Inglis,N Pooran,M Jansen,0,1,,,,1,,"","",2.4,,,,
+ball,1,2.6,Lucknow Super Giants,N Pooran,JP Inglis,M Jansen,0,0,,,,,,bowled,N Pooran,2.5,,,,
+ball,1,2.7,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Lucknow Super Giants,JP Inglis,A Badoni,Azmatullah Omarzai,1,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,0,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,0,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,1,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Lucknow Super Giants,JP Inglis,A Badoni,Azmatullah Omarzai,1,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,1,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,4,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,0,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,4,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,6,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,4,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Lucknow Super Giants,A Badoni,JP Inglis,M Jansen,0,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Lucknow Super Giants,JP Inglis,A Badoni,Azmatullah Omarzai,1,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,0,1,1,,,,,"","",5.2,,,,
+ball,1,5.3,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,4,0,,,,,,"","",5.2,,,,
+ball,1,5.4,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,6,0,,,,,,"","",5.3,,,,
+ball,1,5.5,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,6,0,,,,,,"","",5.4,,,,
+ball,1,5.6,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,2,0,,,,,,"","",5.5,,,,
+ball,1,5.7,Lucknow Super Giants,A Badoni,JP Inglis,Azmatullah Omarzai,4,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Lucknow Super Giants,JP Inglis,A Badoni,YS Chahal,1,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Lucknow Super Giants,A Badoni,JP Inglis,YS Chahal,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Lucknow Super Giants,JP Inglis,A Badoni,YS Chahal,1,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Lucknow Super Giants,A Badoni,JP Inglis,YS Chahal,0,0,,,,,,stumped,A Badoni,6.4,,P Simran Singh,,
+ball,1,6.5,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,1,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Lucknow Super Giants,JP Inglis,RR Pant,YS Chahal,1,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,0,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Lucknow Super Giants,RR Pant,JP Inglis,Vijaykumar Vyshak,4,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Lucknow Super Giants,RR Pant,JP Inglis,Vijaykumar Vyshak,0,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Lucknow Super Giants,RR Pant,JP Inglis,Vijaykumar Vyshak,1,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,0,1,1,,,,,"","",7.6,,,,
+ball,1,7.7,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Lucknow Super Giants,JP Inglis,RR Pant,YS Chahal,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,2,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,4,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,0,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,1,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Lucknow Super Giants,JP Inglis,RR Pant,YS Chahal,1,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,0,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Lucknow Super Giants,RR Pant,JP Inglis,Vijaykumar Vyshak,0,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Lucknow Super Giants,RR Pant,JP Inglis,Vijaykumar Vyshak,1,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,4,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Lucknow Super Giants,JP Inglis,RR Pant,Vijaykumar Vyshak,6,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,0,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,1,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Lucknow Super Giants,JP Inglis,RR Pant,YS Chahal,1,0,,,,,,"","",10.3,,,,
+ball,1,10.4,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,0,0,,,,,,"","",10.4,,,,
+ball,1,10.5,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,0,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,1,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Lucknow Super Giants,RR Pant,JP Inglis,Arshdeep Singh,1,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Lucknow Super Giants,JP Inglis,RR Pant,Arshdeep Singh,0,1,1,,,,,"","",11.2,,,,
+ball,1,11.3,Lucknow Super Giants,JP Inglis,RR Pant,Arshdeep Singh,6,0,,,,,,"","",11.2,,,,
+ball,1,11.4,Lucknow Super Giants,JP Inglis,RR Pant,Arshdeep Singh,4,0,,,,,,"","",11.3,,,,
+ball,1,11.5,Lucknow Super Giants,JP Inglis,RR Pant,Arshdeep Singh,2,0,,,,,,"","",11.4,,,,
+ball,1,11.6,Lucknow Super Giants,JP Inglis,RR Pant,Arshdeep Singh,4,0,,,,,,"","",11.5,,,,
+ball,1,11.7,Lucknow Super Giants,JP Inglis,RR Pant,Arshdeep Singh,1,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Lucknow Super Giants,JP Inglis,RR Pant,Shashank Singh,0,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Lucknow Super Giants,JP Inglis,RR Pant,Shashank Singh,0,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Lucknow Super Giants,JP Inglis,RR Pant,Shashank Singh,1,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Lucknow Super Giants,RR Pant,JP Inglis,Shashank Singh,1,0,,,,,,"","",12.4,,,,
+ball,1,12.5,Lucknow Super Giants,JP Inglis,RR Pant,Shashank Singh,1,0,,,,,,"","",12.5,,,,
+ball,1,12.6,Lucknow Super Giants,RR Pant,JP Inglis,Shashank Singh,1,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,1,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Lucknow Super Giants,JP Inglis,RR Pant,YS Chahal,1,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,2,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,4,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Lucknow Super Giants,RR Pant,JP Inglis,YS Chahal,0,0,,,,,,caught,RR Pant,13.5,,M Jansen,,
+ball,1,13.6,Lucknow Super Giants,Abdul Samad,JP Inglis,YS Chahal,0,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,4,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,0,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,0,1,1,,,,,"","",14.3,,,,
+ball,1,14.4,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,2,0,,,,,,"","",14.3,,,,
+ball,1,14.5,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,1,0,,,,,,"","",14.4,,,,
+ball,1,14.6,Lucknow Super Giants,Abdul Samad,JP Inglis,Shashank Singh,1,0,,,,,,"","",14.5,,,,
+ball,1,14.7,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,4,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Lucknow Super Giants,Abdul Samad,JP Inglis,M Jansen,0,1,,,,1,,"","",15.1,,,,
+ball,1,15.2,Lucknow Super Giants,JP Inglis,Abdul Samad,M Jansen,1,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Lucknow Super Giants,Abdul Samad,JP Inglis,M Jansen,1,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Lucknow Super Giants,JP Inglis,Abdul Samad,M Jansen,1,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Lucknow Super Giants,Abdul Samad,JP Inglis,M Jansen,6,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Lucknow Super Giants,Abdul Samad,JP Inglis,M Jansen,0,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Lucknow Super Giants,Abdul Samad,JP Inglis,Shashank Singh,6,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Lucknow Super Giants,Abdul Samad,JP Inglis,Shashank Singh,0,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Lucknow Super Giants,Abdul Samad,JP Inglis,Shashank Singh,4,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Lucknow Super Giants,Abdul Samad,JP Inglis,Shashank Singh,1,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Lucknow Super Giants,JP Inglis,Abdul Samad,Shashank Singh,0,0,,,,,,caught,JP Inglis,16.6,,SS Iyer,,
+ball,1,17.1,Lucknow Super Giants,Abdul Samad,MD Choudhary,M Jansen,1,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Lucknow Super Giants,MD Choudhary,Abdul Samad,M Jansen,1,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Lucknow Super Giants,Abdul Samad,MD Choudhary,M Jansen,1,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Lucknow Super Giants,MD Choudhary,Abdul Samad,M Jansen,0,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Lucknow Super Giants,MD Choudhary,Abdul Samad,M Jansen,0,0,,,,,,caught,MD Choudhary,17.5,,P Dubey,,
+ball,1,17.6,Lucknow Super Giants,Arjun Tendulkar,Abdul Samad,M Jansen,1,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Lucknow Super Giants,Arjun Tendulkar,Abdul Samad,Vijaykumar Vyshak,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Vijaykumar Vyshak,1,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Lucknow Super Giants,Arjun Tendulkar,Abdul Samad,Vijaykumar Vyshak,2,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Lucknow Super Giants,Arjun Tendulkar,Abdul Samad,Vijaykumar Vyshak,1,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Vijaykumar Vyshak,1,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Lucknow Super Giants,Arjun Tendulkar,Abdul Samad,Vijaykumar Vyshak,0,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,0,1,1,,,,,"","",19.1,,,,
+ball,1,19.2,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,0,0,,,,,,"","",19.1,,,,
+ball,1,19.3,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,0,0,,,,,,"","",19.2,,,,
+ball,1,19.4,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,0,0,,,,,,"","",19.3,,,,
+ball,1,19.5,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,6,0,,,,,,"","",19.4,,,,
+ball,1,19.6,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,4,0,,,,,,"","",19.5,,,,
+ball,1,19.7,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,0,1,1,,,,,"","",19.6,,,,
+ball,1,19.8,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,0,1,1,,,,,"","",19.6,,,,
+ball,1,19.9,Lucknow Super Giants,Abdul Samad,Arjun Tendulkar,Arshdeep Singh,4,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Punjab Kings,Priyansh Arya,P Simran Singh,Mohammed Shami,0,0,,,,,,caught,Priyansh Arya,0.1,,Arjun Tendulkar,,
+ball,2,0.2,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,0,1,1,,,,,"","",0.2,,,,
+ball,2,0.3,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,4,0,,,,,,"","",0.2,,,,
+ball,2,0.4,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,0,0,,,,,,"","",0.3,,,,
+ball,2,0.5,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,4,0,,,,,,"","",0.4,,,,
+ball,2,0.6,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,0,0,,,,,,"","",0.5,,,,
+ball,2,0.7,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,0,1,1,,,,,"","",0.6,,,,
+ball,2,0.8,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,0,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Punjab Kings,P Simran Singh,C Connolly,Prince Yadav,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Punjab Kings,P Simran Singh,C Connolly,Prince Yadav,1,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Punjab Kings,C Connolly,P Simran Singh,Prince Yadav,4,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Punjab Kings,C Connolly,P Simran Singh,Prince Yadav,4,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Punjab Kings,C Connolly,P Simran Singh,Prince Yadav,2,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Punjab Kings,C Connolly,P Simran Singh,Prince Yadav,0,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Punjab Kings,P Simran Singh,C Connolly,Mohammed Shami,1,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Punjab Kings,C Connolly,P Simran Singh,Mohammed Shami,0,0,,,,,,bowled,C Connolly,2.2,,,,
+ball,2,2.3,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,0,0,,,,,,"","",2.3,,,,
+ball,2,2.4,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,0,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,4,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,4,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,1,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,1,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,1,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,4,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,0,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,4,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,2,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,4,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,2,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,4,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,1,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,1,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,1,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Punjab Kings,P Simran Singh,SS Iyer,Prince Yadav,1,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,0,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,4,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,0,1,1,,,,,"","",5.5,,,,
+ball,2,5.6,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,1,0,,,,,,"","",5.5,,,,
+ball,2,5.7,Punjab Kings,P Simran Singh,SS Iyer,Prince Yadav,2,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,0,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,0,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,1,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,1,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,1,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,1,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,1,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,1,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,0,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,1,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,1,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,6,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,0,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,4,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,1,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,4,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,0,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,6,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,1,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,4,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,0,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,4,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,1,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Punjab Kings,P Simran Singh,SS Iyer,Mohammed Shami,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,2,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Punjab Kings,SS Iyer,P Simran Singh,Mohammed Shami,1,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Punjab Kings,P Simran Singh,SS Iyer,Mohammed Shami,0,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Punjab Kings,P Simran Singh,SS Iyer,Mohammed Shami,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,2,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,4,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,1,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Punjab Kings,SS Iyer,P Simran Singh,Mohsin Khan,1,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,4,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Punjab Kings,P Simran Singh,SS Iyer,Mohsin Khan,2,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,1,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,1,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,1,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,4,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Punjab Kings,P Simran Singh,SS Iyer,DS Rathi,1,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Punjab Kings,SS Iyer,P Simran Singh,DS Rathi,6,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Punjab Kings,P Simran Singh,SS Iyer,Prince Yadav,0,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Punjab Kings,P Simran Singh,SS Iyer,Prince Yadav,1,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,4,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Punjab Kings,SS Iyer,P Simran Singh,Prince Yadav,1,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Punjab Kings,P Simran Singh,SS Iyer,Prince Yadav,4,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Punjab Kings,P Simran Singh,SS Iyer,Prince Yadav,1,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,2,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,4,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,4,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Punjab Kings,SS Iyer,P Simran Singh,Arjun Tendulkar,1,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Punjab Kings,P Simran Singh,SS Iyer,Arjun Tendulkar,0,0,,,,,,lbw,P Simran Singh,14.6,,,,
+ball,2,15.1,Punjab Kings,SS Iyer,Suryansh Shedge,Mohammed Shami,6,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Punjab Kings,SS Iyer,Suryansh Shedge,Mohammed Shami,0,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Punjab Kings,SS Iyer,Suryansh Shedge,Mohammed Shami,6,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Punjab Kings,SS Iyer,Suryansh Shedge,Mohammed Shami,2,0,,,,,,"","",15.4,,,,
+ball,2,15.5,Punjab Kings,SS Iyer,Suryansh Shedge,Mohammed Shami,0,0,,,,,,"","",15.5,,,,
+ball,2,15.6,Punjab Kings,SS Iyer,Suryansh Shedge,Mohammed Shami,6,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Punjab Kings,Suryansh Shedge,SS Iyer,Arjun Tendulkar,0,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Punjab Kings,Suryansh Shedge,SS Iyer,Arjun Tendulkar,1,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Punjab Kings,SS Iyer,Suryansh Shedge,Arjun Tendulkar,1,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Punjab Kings,Suryansh Shedge,SS Iyer,Arjun Tendulkar,1,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Punjab Kings,SS Iyer,Suryansh Shedge,Arjun Tendulkar,1,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Punjab Kings,Suryansh Shedge,SS Iyer,Arjun Tendulkar,1,0,,,,,,"","",16.6,,,,
+ball,2,17.1,Punjab Kings,Suryansh Shedge,SS Iyer,Mohsin Khan,4,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Punjab Kings,Suryansh Shedge,SS Iyer,Mohsin Khan,1,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Punjab Kings,SS Iyer,Suryansh Shedge,Mohsin Khan,0,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Punjab Kings,SS Iyer,Suryansh Shedge,Mohsin Khan,1,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Punjab Kings,Suryansh Shedge,SS Iyer,Mohsin Khan,1,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Punjab Kings,SS Iyer,Suryansh Shedge,Mohsin Khan,6,0,,,,,,"","",17.6,,,,

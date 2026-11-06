@@ -1,0 +1,331 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Royal Challengers Bengaluru
+info,team,Delhi Capitals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/18
+info,event,Indian Premier League
+info,match_id,1529269
+info,match_type,T20
+info,overs,20
+info,match_number,26
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Delhi Capitals
+info,toss_decision,field
+info,player_of_match,T Stubbs
+info,umpire,Abhijit Bhattacharya
+info,umpire,Bhavesh Patel
+info,reserve_umpire,A Totre
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,176
+info,winner,Delhi Capitals
+info,winner_wickets,6
+info,player,Royal Challengers Bengaluru,PD Salt
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,D Padikkal
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,TH David
+info,player,Royal Challengers Bengaluru,JM Sharma
+info,player,Royal Challengers Bengaluru,R Shepherd
+info,player,Royal Challengers Bengaluru,KH Pandya
+info,player,Royal Challengers Bengaluru,Rasikh Salam
+info,player,Royal Challengers Bengaluru,B Kumar
+info,player,Royal Challengers Bengaluru,Suyash Sharma
+info,player,Royal Challengers Bengaluru,JR Hazlewood
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Delhi Capitals,P Nissanka
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,KK Nair
+info,player,Delhi Capitals,Sameer Rizvi
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,Auqib Nabi
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,T Natarajan
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KK Nair,944533a5
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rasikh Salam,b8527c3d
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,T Natarajan,ce794613
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TH David,f1f99156
+info,registry,people,V Kohli,ba607b88
+ball,1,0.1,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,1,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,0,1,1,,,,,"","",0.2,,,,
+ball,1,0.3,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,1,0,,,,,,"","",0.2,,,,
+ball,1,0.4,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,4,0,,,,,,"","",0.3,,,,
+ball,1,0.5,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,1,0,,,,,,"","",0.4,,,,
+ball,1,0.6,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,4,0,,,,,,"","",0.5,,,,
+ball,1,0.7,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,1,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,1,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Royal Challengers Bengaluru,PD Salt,V Kohli,Mukesh Kumar,0,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Royal Challengers Bengaluru,PD Salt,V Kohli,Mukesh Kumar,1,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,4,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,0,1,1,,,,,"","",1.5,,,,
+ball,1,1.6,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,1,0,,,,,,"","",1.5,,,,
+ball,1,1.7,Royal Challengers Bengaluru,PD Salt,V Kohli,Mukesh Kumar,0,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,1,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,2,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,0,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,0,1,,,,1,,"","",2.4,,,,
+ball,1,2.5,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,1,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,1,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Royal Challengers Bengaluru,PD Salt,V Kohli,Mukesh Kumar,2,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Royal Challengers Bengaluru,PD Salt,V Kohli,Mukesh Kumar,0,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Royal Challengers Bengaluru,PD Salt,V Kohli,Mukesh Kumar,1,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,4,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,0,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Royal Challengers Bengaluru,V Kohli,PD Salt,Mukesh Kumar,0,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,4,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,1,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Royal Challengers Bengaluru,V Kohli,PD Salt,Auqib Nabi,1,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,6,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,2,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Royal Challengers Bengaluru,PD Salt,V Kohli,Auqib Nabi,4,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Royal Challengers Bengaluru,V Kohli,PD Salt,L Ngidi,0,0,,,,,,caught,V Kohli,5.1,,P Nissanka,,
+ball,1,5.2,Royal Challengers Bengaluru,D Padikkal,PD Salt,L Ngidi,1,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Royal Challengers Bengaluru,PD Salt,D Padikkal,L Ngidi,2,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Royal Challengers Bengaluru,PD Salt,D Padikkal,L Ngidi,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,L Ngidi,2,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Royal Challengers Bengaluru,PD Salt,D Padikkal,L Ngidi,2,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Royal Challengers Bengaluru,D Padikkal,PD Salt,Kuldeep Yadav,1,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Royal Challengers Bengaluru,D Padikkal,PD Salt,Kuldeep Yadav,1,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,1,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Royal Challengers Bengaluru,D Padikkal,PD Salt,Kuldeep Yadav,1,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,1,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Royal Challengers Bengaluru,PD Salt,D Padikkal,T Natarajan,4,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,T Natarajan,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Royal Challengers Bengaluru,D Padikkal,PD Salt,T Natarajan,6,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,T Natarajan,0,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Royal Challengers Bengaluru,D Padikkal,PD Salt,T Natarajan,0,1,1,,,,,"","",7.5,,,,
+ball,1,7.6,Royal Challengers Bengaluru,D Padikkal,PD Salt,T Natarajan,1,0,,,,,,"","",7.5,,,,
+ball,1,7.7,Royal Challengers Bengaluru,PD Salt,D Padikkal,T Natarajan,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,2,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,6,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,1,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,Kuldeep Yadav,0,1,,,,1,,"","",8.4,,,,
+ball,1,8.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,Kuldeep Yadav,1,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Royal Challengers Bengaluru,D Padikkal,PD Salt,Kuldeep Yadav,0,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Royal Challengers Bengaluru,PD Salt,D Padikkal,AR Patel,1,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Royal Challengers Bengaluru,D Padikkal,PD Salt,AR Patel,2,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Royal Challengers Bengaluru,D Padikkal,PD Salt,AR Patel,4,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,AR Patel,1,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,AR Patel,1,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Royal Challengers Bengaluru,D Padikkal,PD Salt,AR Patel,0,0,,,,,,caught,D Padikkal,9.6,,DA Miller,,
+ball,1,10.1,Royal Challengers Bengaluru,PD Salt,RM Patidar,Kuldeep Yadav,6,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Royal Challengers Bengaluru,PD Salt,RM Patidar,Kuldeep Yadav,0,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Royal Challengers Bengaluru,PD Salt,RM Patidar,Kuldeep Yadav,0,0,,,,,,"","",10.3,,,,
+ball,1,10.4,Royal Challengers Bengaluru,PD Salt,RM Patidar,Kuldeep Yadav,0,0,,,,,,caught,PD Salt,10.4,,T Stubbs,,
+ball,1,10.5,Royal Challengers Bengaluru,TH David,RM Patidar,Kuldeep Yadav,4,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Royal Challengers Bengaluru,TH David,RM Patidar,Kuldeep Yadav,1,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Royal Challengers Bengaluru,TH David,RM Patidar,L Ngidi,0,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Royal Challengers Bengaluru,TH David,RM Patidar,L Ngidi,6,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Royal Challengers Bengaluru,TH David,RM Patidar,L Ngidi,0,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Royal Challengers Bengaluru,TH David,RM Patidar,L Ngidi,1,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Royal Challengers Bengaluru,RM Patidar,TH David,L Ngidi,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Royal Challengers Bengaluru,TH David,RM Patidar,L Ngidi,4,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Royal Challengers Bengaluru,RM Patidar,TH David,Mukesh Kumar,1,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Royal Challengers Bengaluru,TH David,RM Patidar,Mukesh Kumar,1,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Royal Challengers Bengaluru,RM Patidar,TH David,Mukesh Kumar,6,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Royal Challengers Bengaluru,RM Patidar,TH David,Mukesh Kumar,0,1,1,,,,,"","",12.4,,,,
+ball,1,12.5,Royal Challengers Bengaluru,RM Patidar,TH David,Mukesh Kumar,0,0,,,,,,caught,RM Patidar,12.4,,KL Rahul,,
+ball,1,12.6,Royal Challengers Bengaluru,JM Sharma,TH David,Mukesh Kumar,0,0,,,,,,"","",12.5,,,,
+ball,1,12.7,Royal Challengers Bengaluru,JM Sharma,TH David,Mukesh Kumar,0,1,1,,,,,"","",12.6,,,,
+ball,1,12.8,Royal Challengers Bengaluru,JM Sharma,TH David,Mukesh Kumar,0,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Royal Challengers Bengaluru,TH David,JM Sharma,AR Patel,4,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Royal Challengers Bengaluru,TH David,JM Sharma,AR Patel,1,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Royal Challengers Bengaluru,JM Sharma,TH David,AR Patel,0,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Royal Challengers Bengaluru,JM Sharma,TH David,AR Patel,0,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Royal Challengers Bengaluru,JM Sharma,TH David,AR Patel,1,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Royal Challengers Bengaluru,TH David,JM Sharma,AR Patel,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Royal Challengers Bengaluru,TH David,JM Sharma,Mukesh Kumar,1,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Royal Challengers Bengaluru,JM Sharma,TH David,Mukesh Kumar,1,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Royal Challengers Bengaluru,TH David,JM Sharma,Mukesh Kumar,0,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Royal Challengers Bengaluru,TH David,JM Sharma,Mukesh Kumar,0,1,1,,,,,"","",14.4,,,,
+ball,1,14.5,Royal Challengers Bengaluru,TH David,JM Sharma,Mukesh Kumar,1,1,,1,,,,"","",14.4,,,,
+ball,1,14.6,Royal Challengers Bengaluru,JM Sharma,TH David,Mukesh Kumar,1,0,,,,,,"","",14.4,,,,
+ball,1,14.7,Royal Challengers Bengaluru,TH David,JM Sharma,Mukesh Kumar,1,0,,,,,,"","",14.5,,,,
+ball,1,14.8,Royal Challengers Bengaluru,JM Sharma,TH David,Mukesh Kumar,0,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Royal Challengers Bengaluru,TH David,JM Sharma,AR Patel,0,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Royal Challengers Bengaluru,TH David,JM Sharma,AR Patel,0,0,,,,,,caught,TH David,15.2,,T Natarajan,,
+ball,1,15.3,Royal Challengers Bengaluru,R Shepherd,JM Sharma,AR Patel,0,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Royal Challengers Bengaluru,R Shepherd,JM Sharma,AR Patel,1,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Royal Challengers Bengaluru,JM Sharma,R Shepherd,AR Patel,1,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Royal Challengers Bengaluru,R Shepherd,JM Sharma,AR Patel,0,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Royal Challengers Bengaluru,JM Sharma,R Shepherd,Kuldeep Yadav,0,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Royal Challengers Bengaluru,JM Sharma,R Shepherd,Kuldeep Yadav,1,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Royal Challengers Bengaluru,R Shepherd,JM Sharma,Kuldeep Yadav,0,0,,,,,,lbw,R Shepherd,16.3,,,,
+ball,1,16.4,Royal Challengers Bengaluru,KH Pandya,JM Sharma,Kuldeep Yadav,1,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Royal Challengers Bengaluru,JM Sharma,KH Pandya,Kuldeep Yadav,1,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Royal Challengers Bengaluru,KH Pandya,JM Sharma,Kuldeep Yadav,0,1,1,,,,,"","",16.6,,,,
+ball,1,16.7,Royal Challengers Bengaluru,KH Pandya,JM Sharma,Kuldeep Yadav,1,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Royal Challengers Bengaluru,KH Pandya,JM Sharma,L Ngidi,1,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Royal Challengers Bengaluru,JM Sharma,KH Pandya,L Ngidi,4,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Royal Challengers Bengaluru,JM Sharma,KH Pandya,L Ngidi,1,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Royal Challengers Bengaluru,KH Pandya,JM Sharma,L Ngidi,1,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Royal Challengers Bengaluru,JM Sharma,KH Pandya,L Ngidi,1,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Royal Challengers Bengaluru,KH Pandya,JM Sharma,L Ngidi,6,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Royal Challengers Bengaluru,JM Sharma,KH Pandya,T Natarajan,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Royal Challengers Bengaluru,KH Pandya,JM Sharma,T Natarajan,0,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Royal Challengers Bengaluru,KH Pandya,JM Sharma,T Natarajan,0,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Royal Challengers Bengaluru,KH Pandya,JM Sharma,T Natarajan,0,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Royal Challengers Bengaluru,KH Pandya,JM Sharma,T Natarajan,1,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Royal Challengers Bengaluru,JM Sharma,KH Pandya,T Natarajan,0,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Royal Challengers Bengaluru,KH Pandya,JM Sharma,L Ngidi,1,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Royal Challengers Bengaluru,JM Sharma,KH Pandya,L Ngidi,1,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Royal Challengers Bengaluru,KH Pandya,JM Sharma,L Ngidi,0,1,1,,,,,run out,KH Pandya,19.3,,KL Rahul,L Ngidi,
+ball,1,19.4,Royal Challengers Bengaluru,JM Sharma,Rasikh Salam,L Ngidi,0,0,,,,,,"","",19.3,,,,
+ball,1,19.5,Royal Challengers Bengaluru,JM Sharma,Rasikh Salam,L Ngidi,0,0,,,,,,caught,JM Sharma,19.4,,DA Miller,,
+ball,1,19.6,Royal Challengers Bengaluru,B Kumar,Rasikh Salam,L Ngidi,2,0,,,,,,"","",19.5,,,,
+ball,1,19.7,Royal Challengers Bengaluru,B Kumar,Rasikh Salam,L Ngidi,1,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Delhi Capitals,P Nissanka,KL Rahul,B Kumar,1,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Delhi Capitals,KL Rahul,P Nissanka,B Kumar,0,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Delhi Capitals,KL Rahul,P Nissanka,B Kumar,1,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Delhi Capitals,P Nissanka,KL Rahul,B Kumar,0,0,,,,,,lbw,P Nissanka,0.4,,,,
+ball,2,0.5,Delhi Capitals,KK Nair,KL Rahul,B Kumar,0,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Delhi Capitals,KK Nair,KL Rahul,B Kumar,0,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Delhi Capitals,KL Rahul,KK Nair,JR Hazlewood,6,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Delhi Capitals,KL Rahul,KK Nair,JR Hazlewood,1,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Delhi Capitals,KK Nair,KL Rahul,JR Hazlewood,4,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Delhi Capitals,KK Nair,KL Rahul,JR Hazlewood,1,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Delhi Capitals,KL Rahul,KK Nair,JR Hazlewood,0,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Delhi Capitals,KL Rahul,KK Nair,JR Hazlewood,1,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Delhi Capitals,KL Rahul,KK Nair,B Kumar,1,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Delhi Capitals,KK Nair,KL Rahul,B Kumar,0,0,,,,,,caught,KK Nair,2.2,,PD Salt,,
+ball,2,2.3,Delhi Capitals,Sameer Rizvi,KL Rahul,B Kumar,0,0,,,,,,"","",2.3,,,,
+ball,2,2.4,Delhi Capitals,Sameer Rizvi,KL Rahul,B Kumar,2,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Delhi Capitals,Sameer Rizvi,KL Rahul,B Kumar,0,0,,,,,,caught,Sameer Rizvi,2.5,,JM Sharma,,
+ball,2,2.6,Delhi Capitals,T Stubbs,KL Rahul,B Kumar,4,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Delhi Capitals,KL Rahul,T Stubbs,Rasikh Salam,0,1,1,,,,,"","",3.1,,,,
+ball,2,3.2,Delhi Capitals,KL Rahul,T Stubbs,Rasikh Salam,4,0,,,,,,"","",3.1,,,,
+ball,2,3.3,Delhi Capitals,KL Rahul,T Stubbs,Rasikh Salam,1,0,,,,,,"","",3.2,,,,
+ball,2,3.4,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,0,0,,,,,,"","",3.3,,,,
+ball,2,3.5,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,0,1,1,,,,,"","",3.4,,,,
+ball,2,3.6,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,0,0,,,,,,"","",3.4,,,,
+ball,2,3.7,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,1,0,,,,,,"","",3.5,,,,
+ball,2,3.8,Delhi Capitals,KL Rahul,T Stubbs,Rasikh Salam,1,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Delhi Capitals,KL Rahul,T Stubbs,JR Hazlewood,6,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Delhi Capitals,KL Rahul,T Stubbs,JR Hazlewood,0,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Delhi Capitals,KL Rahul,T Stubbs,JR Hazlewood,4,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Delhi Capitals,KL Rahul,T Stubbs,JR Hazlewood,4,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Delhi Capitals,KL Rahul,T Stubbs,JR Hazlewood,0,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Delhi Capitals,KL Rahul,T Stubbs,JR Hazlewood,0,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,1,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Delhi Capitals,KL Rahul,T Stubbs,Rasikh Salam,0,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Delhi Capitals,KL Rahul,T Stubbs,Rasikh Salam,1,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,2,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,0,0,,,,,,"","",5.5,,,,
+ball,2,5.6,Delhi Capitals,T Stubbs,KL Rahul,Rasikh Salam,1,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Delhi Capitals,KL Rahul,T Stubbs,KH Pandya,1,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,1,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Delhi Capitals,KL Rahul,T Stubbs,KH Pandya,1,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,2,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,0,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,2,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,4,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,0,2,,,,2,,"","",7.3,,,,
+ball,2,7.4,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,4,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,1,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Delhi Capitals,T Stubbs,KL Rahul,Suyash Sharma,1,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,1,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Delhi Capitals,KL Rahul,T Stubbs,KH Pandya,1,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,1,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Delhi Capitals,KL Rahul,T Stubbs,KH Pandya,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Delhi Capitals,T Stubbs,KL Rahul,KH Pandya,1,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Delhi Capitals,KL Rahul,T Stubbs,KH Pandya,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Delhi Capitals,T Stubbs,KL Rahul,Suyash Sharma,1,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,2,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,4,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,2,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Delhi Capitals,KL Rahul,T Stubbs,Suyash Sharma,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Delhi Capitals,KL Rahul,T Stubbs,KH Pandya,0,0,,,,,,caught,KL Rahul,10.1,,V Kohli,,
+ball,2,10.2,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,4,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,0,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,2,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,1,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Delhi Capitals,T Stubbs,AR Patel,KH Pandya,0,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Delhi Capitals,AR Patel,T Stubbs,JR Hazlewood,1,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Delhi Capitals,T Stubbs,AR Patel,JR Hazlewood,0,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Delhi Capitals,T Stubbs,AR Patel,JR Hazlewood,1,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Delhi Capitals,AR Patel,T Stubbs,JR Hazlewood,0,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Delhi Capitals,AR Patel,T Stubbs,JR Hazlewood,4,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Delhi Capitals,AR Patel,T Stubbs,JR Hazlewood,1,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Delhi Capitals,AR Patel,T Stubbs,Rasikh Salam,4,1,,1,,,,"","",12.1,,,,
+ball,2,12.2,Delhi Capitals,AR Patel,T Stubbs,Rasikh Salam,2,0,,,,,,"","",12.1,,,,
+ball,2,12.3,Delhi Capitals,AR Patel,T Stubbs,Rasikh Salam,1,0,,,,,,"","",12.2,,,,
+ball,2,12.4,Delhi Capitals,T Stubbs,AR Patel,Rasikh Salam,1,0,,,,,,"","",12.3,,,,
+ball,2,12.5,Delhi Capitals,AR Patel,T Stubbs,Rasikh Salam,1,0,,,,,,"","",12.4,,,,
+ball,2,12.6,Delhi Capitals,T Stubbs,AR Patel,Rasikh Salam,4,0,,,,,,"","",12.5,,,,
+ball,2,12.7,Delhi Capitals,T Stubbs,AR Patel,Rasikh Salam,2,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Delhi Capitals,AR Patel,T Stubbs,Suyash Sharma,1,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Delhi Capitals,T Stubbs,AR Patel,Suyash Sharma,0,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Delhi Capitals,T Stubbs,AR Patel,Suyash Sharma,2,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Delhi Capitals,T Stubbs,AR Patel,Suyash Sharma,4,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Delhi Capitals,T Stubbs,AR Patel,Suyash Sharma,0,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Delhi Capitals,T Stubbs,AR Patel,Suyash Sharma,1,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Delhi Capitals,T Stubbs,AR Patel,KH Pandya,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,1,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Delhi Capitals,T Stubbs,AR Patel,KH Pandya,1,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,1,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Delhi Capitals,T Stubbs,AR Patel,KH Pandya,1,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Delhi Capitals,AR Patel,T Stubbs,KH Pandya,0,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Delhi Capitals,T Stubbs,AR Patel,B Kumar,1,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Delhi Capitals,AR Patel,T Stubbs,B Kumar,0,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Delhi Capitals,AR Patel,T Stubbs,B Kumar,1,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Delhi Capitals,T Stubbs,AR Patel,B Kumar,1,0,,,,,,"","",15.4,,,,
+ball,2,15.5,Delhi Capitals,AR Patel,T Stubbs,B Kumar,1,0,,,,,,retired hurt,AR Patel,15.5,,,,
+ball,2,15.6,Delhi Capitals,T Stubbs,DA Miller,B Kumar,1,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Delhi Capitals,T Stubbs,DA Miller,JR Hazlewood,1,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Delhi Capitals,DA Miller,T Stubbs,JR Hazlewood,1,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Delhi Capitals,T Stubbs,DA Miller,JR Hazlewood,1,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Delhi Capitals,DA Miller,T Stubbs,JR Hazlewood,1,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Delhi Capitals,T Stubbs,DA Miller,JR Hazlewood,0,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Delhi Capitals,T Stubbs,DA Miller,JR Hazlewood,0,0,,,,,,"","",16.6,,,,
+ball,2,17.1,Delhi Capitals,DA Miller,T Stubbs,B Kumar,1,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Delhi Capitals,T Stubbs,DA Miller,B Kumar,1,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Delhi Capitals,DA Miller,T Stubbs,B Kumar,1,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Delhi Capitals,T Stubbs,DA Miller,B Kumar,6,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Delhi Capitals,T Stubbs,DA Miller,B Kumar,2,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Delhi Capitals,T Stubbs,DA Miller,B Kumar,1,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Delhi Capitals,T Stubbs,DA Miller,Rasikh Salam,4,0,,,,,,"","",18.1,,,,
+ball,2,18.2,Delhi Capitals,T Stubbs,DA Miller,Rasikh Salam,1,0,,,,,,"","",18.2,,,,
+ball,2,18.3,Delhi Capitals,DA Miller,T Stubbs,Rasikh Salam,1,0,,,,,,"","",18.3,,,,
+ball,2,18.4,Delhi Capitals,T Stubbs,DA Miller,Rasikh Salam,2,0,,,,,,"","",18.4,,,,
+ball,2,18.5,Delhi Capitals,T Stubbs,DA Miller,Rasikh Salam,1,0,,,,,,"","",18.5,,,,
+ball,2,18.6,Delhi Capitals,DA Miller,T Stubbs,Rasikh Salam,1,0,,,,,,"","",18.6,,,,
+ball,2,19.1,Delhi Capitals,DA Miller,T Stubbs,R Shepherd,0,1,,,,1,,"","",19.1,,,,
+ball,2,19.2,Delhi Capitals,T Stubbs,DA Miller,R Shepherd,1,0,,,,,,"","",19.2,,,,
+ball,2,19.3,Delhi Capitals,DA Miller,T Stubbs,R Shepherd,6,0,,,,,,"","",19.3,,,,
+ball,2,19.4,Delhi Capitals,DA Miller,T Stubbs,R Shepherd,6,0,,,,,,"","",19.4,,,,
+ball,2,19.5,Delhi Capitals,DA Miller,T Stubbs,R Shepherd,4,0,,,,,,"","",19.5,,,,

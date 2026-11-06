@@ -1,0 +1,328 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Royal Challengers Bengaluru
+info,team,Chennai Super Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/05
+info,event,Indian Premier League
+info,match_id,1527684
+info,match_type,T20
+info,overs,20
+info,match_number,11
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Chennai Super Kings
+info,toss_decision,field
+info,player_of_match,TH David
+info,umpire,A Totre
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,Abhijit Bhattacharya
+info,tv_umpire,AT Holdstock
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,251
+info,winner,Royal Challengers Bengaluru
+info,winner_runs,43
+info,player,Royal Challengers Bengaluru,Suyash Sharma
+info,player,Royal Challengers Bengaluru,PD Salt
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,D Padikkal
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,TH David
+info,player,Royal Challengers Bengaluru,JM Sharma
+info,player,Royal Challengers Bengaluru,R Shepherd
+info,player,Royal Challengers Bengaluru,KH Pandya
+info,player,Royal Challengers Bengaluru,B Kumar
+info,player,Royal Challengers Bengaluru,Abhinandan Singh
+info,player,Royal Challengers Bengaluru,JA Duffy
+info,player,Chennai Super Kings,KK Ahmed
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,A Mhatre
+info,player,Chennai Super Kings,SN Khan
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,PR Veer
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,MJ Henry
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mhatre,b2b4f545
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Abhinandan Singh,82c10dac
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PR Veer,e148e6bd
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,TH David,f1f99156
+info,registry,people,V Kohli,ba607b88
+ball,1,0.1,Royal Challengers Bengaluru,PD Salt,V Kohli,KK Ahmed,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Royal Challengers Bengaluru,PD Salt,V Kohli,KK Ahmed,0,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Royal Challengers Bengaluru,PD Salt,V Kohli,KK Ahmed,3,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,0,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,2,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,0,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Royal Challengers Bengaluru,PD Salt,V Kohli,MJ Henry,1,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,1,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Royal Challengers Bengaluru,PD Salt,V Kohli,MJ Henry,1,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,2,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,1,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Royal Challengers Bengaluru,PD Salt,V Kohli,MJ Henry,0,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,1,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Royal Challengers Bengaluru,PD Salt,V Kohli,KK Ahmed,1,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,2,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,0,1,,,,1,,"","",2.4,,,,
+ball,1,2.5,Royal Challengers Bengaluru,PD Salt,V Kohli,KK Ahmed,1,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Royal Challengers Bengaluru,V Kohli,PD Salt,KK Ahmed,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Royal Challengers Bengaluru,PD Salt,V Kohli,MJ Henry,1,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,6,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,2,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,2,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,4,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Royal Challengers Bengaluru,V Kohli,PD Salt,MJ Henry,1,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Royal Challengers Bengaluru,V Kohli,PD Salt,A Kamboj,0,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Royal Challengers Bengaluru,V Kohli,PD Salt,A Kamboj,4,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Royal Challengers Bengaluru,V Kohli,PD Salt,A Kamboj,0,0,,,,,,caught,V Kohli,4.3,,S Dube,,
+ball,1,4.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,A Kamboj,1,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,4,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,1,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Royal Challengers Bengaluru,PD Salt,D Padikkal,KK Ahmed,2,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,KK Ahmed,0,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Royal Challengers Bengaluru,PD Salt,D Padikkal,KK Ahmed,1,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,KK Ahmed,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Royal Challengers Bengaluru,D Padikkal,PD Salt,KK Ahmed,1,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Royal Challengers Bengaluru,PD Salt,D Padikkal,KK Ahmed,4,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Royal Challengers Bengaluru,D Padikkal,PD Salt,A Kamboj,1,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,0,1,1,,,,,"","",6.2,,,,
+ball,1,6.3,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,0,0,,,,,,"","",6.2,,,,
+ball,1,6.4,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,6,0,,,,,,"","",6.3,,,,
+ball,1,6.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,2,0,,,,,,"","",6.4,,,,
+ball,1,6.6,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,4,0,,,,,,"","",6.5,,,,
+ball,1,6.7,Royal Challengers Bengaluru,PD Salt,D Padikkal,A Kamboj,1,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Royal Challengers Bengaluru,PD Salt,D Padikkal,Noor Ahmad,0,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,Noor Ahmad,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,1,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Royal Challengers Bengaluru,PD Salt,D Padikkal,Noor Ahmad,6,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,Noor Ahmad,1,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Royal Challengers Bengaluru,D Padikkal,PD Salt,J Overton,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,J Overton,2,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Royal Challengers Bengaluru,PD Salt,D Padikkal,J Overton,1,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,J Overton,2,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Royal Challengers Bengaluru,D Padikkal,PD Salt,J Overton,4,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Royal Challengers Bengaluru,D Padikkal,PD Salt,J Overton,1,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,0,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,0,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,0,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,1,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Royal Challengers Bengaluru,PD Salt,D Padikkal,Noor Ahmad,1,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Royal Challengers Bengaluru,D Padikkal,PD Salt,Noor Ahmad,2,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Royal Challengers Bengaluru,PD Salt,D Padikkal,S Dube,0,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Royal Challengers Bengaluru,PD Salt,D Padikkal,S Dube,1,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Royal Challengers Bengaluru,D Padikkal,PD Salt,S Dube,1,0,,,,,,"","",10.3,,,,
+ball,1,10.4,Royal Challengers Bengaluru,PD Salt,D Padikkal,S Dube,0,0,,,,,,caught,PD Salt,10.4,,Noor Ahmad,,
+ball,1,10.5,Royal Challengers Bengaluru,RM Patidar,D Padikkal,S Dube,1,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Royal Challengers Bengaluru,D Padikkal,RM Patidar,S Dube,4,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Royal Challengers Bengaluru,RM Patidar,D Padikkal,Noor Ahmad,6,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Royal Challengers Bengaluru,RM Patidar,D Padikkal,Noor Ahmad,1,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Noor Ahmad,6,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Noor Ahmad,0,1,,,,1,,"","",11.4,,,,
+ball,1,11.5,Royal Challengers Bengaluru,RM Patidar,D Padikkal,Noor Ahmad,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Noor Ahmad,1,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Royal Challengers Bengaluru,D Padikkal,RM Patidar,S Dube,0,1,1,,,,,"","",12.1,,,,
+ball,1,12.2,Royal Challengers Bengaluru,D Padikkal,RM Patidar,S Dube,1,0,,,,,,"","",12.1,,,,
+ball,1,12.3,Royal Challengers Bengaluru,RM Patidar,D Padikkal,S Dube,6,0,,,,,,"","",12.2,,,,
+ball,1,12.4,Royal Challengers Bengaluru,RM Patidar,D Padikkal,S Dube,1,0,,,,,,"","",12.3,,,,
+ball,1,12.5,Royal Challengers Bengaluru,D Padikkal,RM Patidar,S Dube,6,0,,,,,,"","",12.4,,,,
+ball,1,12.6,Royal Challengers Bengaluru,D Padikkal,RM Patidar,S Dube,4,0,,,,,,"","",12.5,,,,
+ball,1,12.7,Royal Challengers Bengaluru,D Padikkal,RM Patidar,S Dube,4,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Royal Challengers Bengaluru,RM Patidar,D Padikkal,MJ Henry,6,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Royal Challengers Bengaluru,RM Patidar,D Padikkal,MJ Henry,1,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Royal Challengers Bengaluru,D Padikkal,RM Patidar,MJ Henry,2,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Royal Challengers Bengaluru,D Padikkal,RM Patidar,MJ Henry,0,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Royal Challengers Bengaluru,D Padikkal,RM Patidar,MJ Henry,4,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Royal Challengers Bengaluru,D Padikkal,RM Patidar,MJ Henry,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Royal Challengers Bengaluru,D Padikkal,RM Patidar,J Overton,0,0,,,,,,bowled,D Padikkal,14.1,,,,
+ball,1,14.2,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,0,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,0,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,0,0,,,,,,"","",14.4,,,,
+ball,1,14.5,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,1,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Royal Challengers Bengaluru,RM Patidar,TH David,J Overton,0,1,,,,1,,"","",14.6,,,,
+ball,1,15.1,Royal Challengers Bengaluru,RM Patidar,TH David,KK Ahmed,1,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Royal Challengers Bengaluru,TH David,RM Patidar,KK Ahmed,1,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Royal Challengers Bengaluru,RM Patidar,TH David,KK Ahmed,0,1,1,,,,,"","",15.3,,,,
+ball,1,15.4,Royal Challengers Bengaluru,RM Patidar,TH David,KK Ahmed,6,0,,,,,,"","",15.3,,,,
+ball,1,15.5,Royal Challengers Bengaluru,RM Patidar,TH David,KK Ahmed,0,0,,,,,,"","",15.4,,,,
+ball,1,15.6,Royal Challengers Bengaluru,RM Patidar,TH David,KK Ahmed,4,0,,,,,,"","",15.5,,,,
+ball,1,15.7,Royal Challengers Bengaluru,RM Patidar,TH David,KK Ahmed,6,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Royal Challengers Bengaluru,TH David,RM Patidar,Noor Ahmad,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Royal Challengers Bengaluru,RM Patidar,TH David,Noor Ahmad,0,1,,,1,,,"","",16.2,,,,
+ball,1,16.3,Royal Challengers Bengaluru,TH David,RM Patidar,Noor Ahmad,6,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Royal Challengers Bengaluru,TH David,RM Patidar,Noor Ahmad,6,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Royal Challengers Bengaluru,TH David,RM Patidar,Noor Ahmad,6,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Royal Challengers Bengaluru,TH David,RM Patidar,Noor Ahmad,1,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,4,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,0,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,2,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,0,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,0,1,,1,,,,"","",17.5,,,,
+ball,1,17.6,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,6,0,,,,,,"","",17.5,,,,
+ball,1,17.7,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,1,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,6,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,2,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,4,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,6,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,6,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Royal Challengers Bengaluru,TH David,RM Patidar,J Overton,6,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Royal Challengers Bengaluru,RM Patidar,TH David,A Kamboj,6,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Royal Challengers Bengaluru,RM Patidar,TH David,A Kamboj,0,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Royal Challengers Bengaluru,RM Patidar,TH David,A Kamboj,1,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,1,0,,,,,,"","",19.4,,,,
+ball,1,19.5,Royal Challengers Bengaluru,RM Patidar,TH David,A Kamboj,1,0,,,,,,"","",19.5,,,,
+ball,1,19.6,Royal Challengers Bengaluru,TH David,RM Patidar,A Kamboj,4,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Chennai Super Kings,SV Samson,RD Gaikwad,JA Duffy,1,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Chennai Super Kings,RD Gaikwad,SV Samson,JA Duffy,1,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Chennai Super Kings,SV Samson,RD Gaikwad,JA Duffy,1,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Chennai Super Kings,RD Gaikwad,SV Samson,JA Duffy,6,0,,,,,,"","",0.4,,,,
+ball,2,0.5,Chennai Super Kings,RD Gaikwad,SV Samson,JA Duffy,0,0,,,,,,caught,RD Gaikwad,0.5,,D Padikkal,,
+ball,2,0.6,Chennai Super Kings,A Mhatre,SV Samson,JA Duffy,1,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Chennai Super Kings,A Mhatre,SV Samson,B Kumar,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Chennai Super Kings,A Mhatre,SV Samson,B Kumar,0,0,,,,,,caught,A Mhatre,1.2,,RM Patidar,,
+ball,2,1.3,Chennai Super Kings,SN Khan,SV Samson,B Kumar,4,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Chennai Super Kings,SN Khan,SV Samson,B Kumar,0,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Chennai Super Kings,SN Khan,SV Samson,B Kumar,0,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Chennai Super Kings,SN Khan,SV Samson,B Kumar,4,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Chennai Super Kings,SV Samson,SN Khan,JA Duffy,1,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Chennai Super Kings,SN Khan,SV Samson,JA Duffy,4,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Chennai Super Kings,SN Khan,SV Samson,JA Duffy,0,1,,,,1,,"","",2.3,,,,
+ball,2,2.4,Chennai Super Kings,SV Samson,SN Khan,JA Duffy,6,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Chennai Super Kings,SV Samson,SN Khan,JA Duffy,0,0,,,,,,caught,SV Samson,2.5,,D Padikkal,,
+ball,2,2.6,Chennai Super Kings,Kartik Sharma,SN Khan,JA Duffy,0,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Chennai Super Kings,SN Khan,Kartik Sharma,B Kumar,0,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Chennai Super Kings,SN Khan,Kartik Sharma,B Kumar,4,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Chennai Super Kings,SN Khan,Kartik Sharma,B Kumar,0,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Chennai Super Kings,SN Khan,Kartik Sharma,B Kumar,0,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Chennai Super Kings,SN Khan,Kartik Sharma,B Kumar,6,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Chennai Super Kings,SN Khan,Kartik Sharma,B Kumar,0,1,,,,1,,"","",3.6,,,,
+ball,2,4.1,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,0,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,6,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,0,1,1,,,,,"","",4.3,,,,
+ball,2,4.4,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,4,0,,,,,,"","",4.3,,,,
+ball,2,4.5,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,0,0,,,,,,"","",4.4,,,,
+ball,2,4.6,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,4,1,,1,,,,"","",4.5,,,,
+ball,2,4.7,Chennai Super Kings,SN Khan,Kartik Sharma,JA Duffy,1,0,,,,,,"","",4.5,,,,
+ball,2,4.8,Chennai Super Kings,Kartik Sharma,SN Khan,JA Duffy,6,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Chennai Super Kings,SN Khan,Kartik Sharma,Abhinandan Singh,0,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Chennai Super Kings,SN Khan,Kartik Sharma,Abhinandan Singh,2,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Chennai Super Kings,SN Khan,Kartik Sharma,Abhinandan Singh,4,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Chennai Super Kings,SN Khan,Kartik Sharma,Abhinandan Singh,4,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Chennai Super Kings,SN Khan,Kartik Sharma,Abhinandan Singh,2,0,,,,,,"","",5.5,,,,
+ball,2,5.6,Chennai Super Kings,SN Khan,Kartik Sharma,Abhinandan Singh,1,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Chennai Super Kings,SN Khan,Kartik Sharma,KH Pandya,0,0,,,,,,stumped,SN Khan,6.1,,JM Sharma,,
+ball,2,6.2,Chennai Super Kings,S Dube,Kartik Sharma,KH Pandya,6,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Chennai Super Kings,S Dube,Kartik Sharma,KH Pandya,0,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Chennai Super Kings,S Dube,Kartik Sharma,KH Pandya,1,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Chennai Super Kings,Kartik Sharma,S Dube,KH Pandya,0,0,,,,,,caught,Kartik Sharma,6.5,,Abhinandan Singh,,
+ball,2,6.6,Chennai Super Kings,PR Veer,S Dube,KH Pandya,0,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,1,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Chennai Super Kings,PR Veer,S Dube,Abhinandan Singh,4,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Chennai Super Kings,PR Veer,S Dube,Abhinandan Singh,1,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,4,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,0,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,0,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Chennai Super Kings,PR Veer,S Dube,KH Pandya,4,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Chennai Super Kings,PR Veer,S Dube,KH Pandya,1,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Chennai Super Kings,S Dube,PR Veer,KH Pandya,0,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Chennai Super Kings,S Dube,PR Veer,KH Pandya,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Chennai Super Kings,PR Veer,S Dube,KH Pandya,1,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Chennai Super Kings,S Dube,PR Veer,KH Pandya,4,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Chennai Super Kings,PR Veer,S Dube,Abhinandan Singh,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,1,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Chennai Super Kings,PR Veer,S Dube,Abhinandan Singh,1,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,0,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Chennai Super Kings,S Dube,PR Veer,Abhinandan Singh,0,0,,,,,,caught,S Dube,9.5,,JM Sharma,,
+ball,2,9.6,Chennai Super Kings,J Overton,PR Veer,Abhinandan Singh,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Chennai Super Kings,J Overton,PR Veer,Suyash Sharma,1,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Chennai Super Kings,J Overton,PR Veer,Suyash Sharma,4,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Chennai Super Kings,J Overton,PR Veer,Suyash Sharma,1,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,0,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Chennai Super Kings,PR Veer,J Overton,R Shepherd,1,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Chennai Super Kings,J Overton,PR Veer,R Shepherd,6,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Chennai Super Kings,J Overton,PR Veer,R Shepherd,6,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Chennai Super Kings,J Overton,PR Veer,R Shepherd,4,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Chennai Super Kings,J Overton,PR Veer,R Shepherd,1,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Chennai Super Kings,PR Veer,J Overton,R Shepherd,1,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,0,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,0,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,1,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Chennai Super Kings,J Overton,PR Veer,Suyash Sharma,1,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,0,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,1,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Chennai Super Kings,PR Veer,J Overton,KH Pandya,4,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Chennai Super Kings,PR Veer,J Overton,KH Pandya,6,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Chennai Super Kings,PR Veer,J Overton,KH Pandya,4,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Chennai Super Kings,PR Veer,J Overton,KH Pandya,0,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Chennai Super Kings,PR Veer,J Overton,KH Pandya,4,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Chennai Super Kings,PR Veer,J Overton,KH Pandya,0,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Chennai Super Kings,J Overton,PR Veer,Suyash Sharma,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,1,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Chennai Super Kings,J Overton,PR Veer,Suyash Sharma,1,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,4,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,0,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Chennai Super Kings,PR Veer,J Overton,Suyash Sharma,1,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Chennai Super Kings,PR Veer,J Overton,B Kumar,0,0,,,,,,caught,PR Veer,15.1,,RM Patidar,,
+ball,2,15.2,Chennai Super Kings,A Kamboj,J Overton,B Kumar,1,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Chennai Super Kings,J Overton,A Kamboj,B Kumar,4,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Chennai Super Kings,J Overton,A Kamboj,B Kumar,4,1,,1,,,,"","",15.4,,,,
+ball,2,15.5,Chennai Super Kings,J Overton,A Kamboj,B Kumar,1,0,,,,,,"","",15.4,,,,
+ball,2,15.6,Chennai Super Kings,A Kamboj,J Overton,B Kumar,1,0,,,,,,"","",15.5,,,,
+ball,2,15.7,Chennai Super Kings,J Overton,A Kamboj,B Kumar,1,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Chennai Super Kings,J Overton,A Kamboj,Suyash Sharma,0,0,,,,,,caught,J Overton,16.1,,JG Bethell,,
+ball,2,16.2,Chennai Super Kings,Noor Ahmad,A Kamboj,Suyash Sharma,1,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Chennai Super Kings,A Kamboj,Noor Ahmad,Suyash Sharma,1,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Chennai Super Kings,Noor Ahmad,A Kamboj,Suyash Sharma,0,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Chennai Super Kings,Noor Ahmad,A Kamboj,Suyash Sharma,0,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Chennai Super Kings,Noor Ahmad,A Kamboj,Suyash Sharma,0,0,,,,,,"","",16.6,,,,
+ball,2,17.1,Chennai Super Kings,A Kamboj,Noor Ahmad,B Kumar,1,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Chennai Super Kings,Noor Ahmad,A Kamboj,B Kumar,0,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Chennai Super Kings,Noor Ahmad,A Kamboj,B Kumar,6,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Chennai Super Kings,Noor Ahmad,A Kamboj,B Kumar,1,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Chennai Super Kings,A Kamboj,Noor Ahmad,B Kumar,1,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Chennai Super Kings,Noor Ahmad,A Kamboj,B Kumar,0,1,1,,,,,"","",17.6,,,,
+ball,2,17.7,Chennai Super Kings,Noor Ahmad,A Kamboj,B Kumar,0,0,,,,,,caught,Noor Ahmad,17.6,,V Kohli,,
+ball,2,18.1,Chennai Super Kings,A Kamboj,MJ Henry,JA Duffy,0,1,1,,,,,"","",18.1,,,,
+ball,2,18.2,Chennai Super Kings,A Kamboj,MJ Henry,JA Duffy,4,0,,,,,,"","",18.1,,,,
+ball,2,18.3,Chennai Super Kings,A Kamboj,MJ Henry,JA Duffy,0,0,,,,,,"","",18.2,,,,
+ball,2,18.4,Chennai Super Kings,A Kamboj,MJ Henry,JA Duffy,1,0,,,,,,"","",18.3,,,,
+ball,2,18.5,Chennai Super Kings,MJ Henry,A Kamboj,JA Duffy,1,0,,,,,,"","",18.4,,,,
+ball,2,18.6,Chennai Super Kings,A Kamboj,MJ Henry,JA Duffy,6,0,,,,,,"","",18.5,,,,
+ball,2,18.7,Chennai Super Kings,A Kamboj,MJ Henry,JA Duffy,1,0,,,,,,"","",18.6,,,,
+ball,2,19.1,Chennai Super Kings,A Kamboj,MJ Henry,Abhinandan Singh,1,0,,,,,,"","",19.1,,,,
+ball,2,19.2,Chennai Super Kings,MJ Henry,A Kamboj,Abhinandan Singh,1,0,,,,,,"","",19.2,,,,
+ball,2,19.3,Chennai Super Kings,A Kamboj,MJ Henry,Abhinandan Singh,1,0,,,,,,"","",19.3,,,,
+ball,2,19.4,Chennai Super Kings,MJ Henry,A Kamboj,Abhinandan Singh,0,0,,,,,,caught,MJ Henry,19.4,,PD Salt,,

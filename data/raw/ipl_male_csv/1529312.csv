@@ -1,0 +1,331 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Rajasthan Royals
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/24
+info,event,Indian Premier League
+info,match_id,1529312
+info,match_type,T20
+info,overs,20
+info,match_number,69
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,JC Archer
+info,umpire,R Pandit
+info,umpire,T Ematty
+info,reserve_umpire,K Kelkar
+info,tv_umpire,Amit Rana
+info,match_referee,DS Manohar
+info,target_overs,2,20
+info,target_runs,2,206
+info,winner,Rajasthan Royals
+info,winner_runs,30
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,V Suryavanshi
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,MD Shanaka
+info,player,Rajasthan Royals,D Ferreira
+info,player,Rajasthan Royals,JC Archer
+info,player,Rajasthan Royals,SB Dubey
+info,player,Rajasthan Royals,RA Jadeja
+info,player,Rajasthan Royals,N Burger
+info,player,Rajasthan Royals,Yash Raj Punja
+info,player,Rajasthan Royals,Brijesh Sharma
+info,player,Mumbai Indians,Raghu Sharma
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,C Bosch
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,AM Ghazanfar
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,Brijesh Sharma,133bbd61
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JC Archer,5574750c
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Burger,465aa633
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,Raghu Sharma,5b615e7c
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SB Dubey,6b2ff18f
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,T Ematty,e995f8e9
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Suryavanshi,470f446b
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Yash Raj Punja,02dfebbe
+ball,1,0.1,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,1,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,DL Chahar,1,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,6,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,1,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,1,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,WG Jacks,1,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,1,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,WG Jacks,0,1,1,,,,,"","",1.6,,,,
+ball,1,1.7,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,WG Jacks,0,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,6,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,1,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,DL Chahar,1,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,4,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,DL Chahar,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,WG Jacks,0,1,1,,,,,"","",3.1,,,,
+ball,1,3.2,Rajasthan Royals,V Suryavanshi,YBK Jaiswal,WG Jacks,1,0,,,,,,"","",3.1,,,,
+ball,1,3.3,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,6,0,,,,,,"","",3.2,,,,
+ball,1,3.4,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,"","",3.3,,,,
+ball,1,3.5,Rajasthan Royals,YBK Jaiswal,V Suryavanshi,WG Jacks,0,0,,,,,,caught,YBK Jaiswal,3.4,,C Bosch,,
+ball,1,3.6,Rajasthan Royals,Dhruv Jurel,V Suryavanshi,WG Jacks,0,0,,,,,,"","",3.5,,,,
+ball,1,3.7,Rajasthan Royals,Dhruv Jurel,V Suryavanshi,WG Jacks,0,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Rajasthan Royals,V Suryavanshi,Dhruv Jurel,DL Chahar,0,0,,,,,,caught,V Suryavanshi,4.1,,Naman Dhir,,
+ball,1,4.2,Rajasthan Royals,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Rajasthan Royals,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Rajasthan Royals,R Parag,Dhruv Jurel,DL Chahar,6,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Rajasthan Royals,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Rajasthan Royals,R Parag,Dhruv Jurel,DL Chahar,0,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Rajasthan Royals,Dhruv Jurel,R Parag,AM Ghazanfar,0,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Rajasthan Royals,Dhruv Jurel,R Parag,AM Ghazanfar,6,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Rajasthan Royals,Dhruv Jurel,R Parag,AM Ghazanfar,1,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Rajasthan Royals,R Parag,Dhruv Jurel,AM Ghazanfar,4,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Rajasthan Royals,R Parag,Dhruv Jurel,AM Ghazanfar,4,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Rajasthan Royals,R Parag,Dhruv Jurel,AM Ghazanfar,0,0,,,,,,caught,R Parag,5.6,,Tilak Varma,,
+ball,1,6.1,Rajasthan Royals,Dhruv Jurel,MD Shanaka,Raghu Sharma,0,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Rajasthan Royals,Dhruv Jurel,MD Shanaka,Raghu Sharma,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,1,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Rajasthan Royals,Dhruv Jurel,MD Shanaka,Raghu Sharma,2,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Rajasthan Royals,Dhruv Jurel,MD Shanaka,Raghu Sharma,1,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,1,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Rajasthan Royals,MD Shanaka,Dhruv Jurel,AM Ghazanfar,1,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Rajasthan Royals,Dhruv Jurel,MD Shanaka,AM Ghazanfar,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Rajasthan Royals,MD Shanaka,Dhruv Jurel,AM Ghazanfar,0,3,3,,,,,"","",7.3,,,,
+ball,1,7.4,Rajasthan Royals,MD Shanaka,Dhruv Jurel,AM Ghazanfar,2,0,,,,,,"","",7.3,,,,
+ball,1,7.5,Rajasthan Royals,MD Shanaka,Dhruv Jurel,AM Ghazanfar,6,0,,,,,,"","",7.4,,,,
+ball,1,7.6,Rajasthan Royals,MD Shanaka,Dhruv Jurel,AM Ghazanfar,1,0,,,,,,"","",7.5,,,,
+ball,1,7.7,Rajasthan Royals,Dhruv Jurel,MD Shanaka,AM Ghazanfar,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Rajasthan Royals,Dhruv Jurel,MD Shanaka,Raghu Sharma,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,0,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,0,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,2,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,6,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Rajasthan Royals,MD Shanaka,Dhruv Jurel,Raghu Sharma,0,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Rajasthan Royals,Dhruv Jurel,MD Shanaka,SN Thakur,0,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Rajasthan Royals,Dhruv Jurel,MD Shanaka,SN Thakur,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Rajasthan Royals,MD Shanaka,Dhruv Jurel,SN Thakur,1,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Rajasthan Royals,Dhruv Jurel,MD Shanaka,SN Thakur,1,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Rajasthan Royals,MD Shanaka,Dhruv Jurel,SN Thakur,6,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Rajasthan Royals,MD Shanaka,Dhruv Jurel,SN Thakur,1,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Rajasthan Royals,MD Shanaka,Dhruv Jurel,C Bosch,1,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Rajasthan Royals,Dhruv Jurel,MD Shanaka,C Bosch,4,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Rajasthan Royals,Dhruv Jurel,MD Shanaka,C Bosch,0,0,,,,,,run out,MD Shanaka,10.3,,C Bosch,SN Thakur,
+ball,1,10.4,Rajasthan Royals,Dhruv Jurel,D Ferreira,C Bosch,1,0,,,,,,"","",10.4,,,,
+ball,1,10.5,Rajasthan Royals,D Ferreira,Dhruv Jurel,C Bosch,0,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Rajasthan Royals,D Ferreira,Dhruv Jurel,C Bosch,0,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Rajasthan Royals,Dhruv Jurel,D Ferreira,AM Ghazanfar,4,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Rajasthan Royals,Dhruv Jurel,D Ferreira,AM Ghazanfar,4,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Rajasthan Royals,Dhruv Jurel,D Ferreira,AM Ghazanfar,0,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Rajasthan Royals,Dhruv Jurel,D Ferreira,AM Ghazanfar,6,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Rajasthan Royals,Dhruv Jurel,D Ferreira,AM Ghazanfar,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Rajasthan Royals,D Ferreira,Dhruv Jurel,AM Ghazanfar,0,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Rajasthan Royals,Dhruv Jurel,D Ferreira,C Bosch,1,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Rajasthan Royals,D Ferreira,Dhruv Jurel,C Bosch,1,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Rajasthan Royals,Dhruv Jurel,D Ferreira,C Bosch,1,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Rajasthan Royals,D Ferreira,Dhruv Jurel,C Bosch,1,0,,,,,,"","",12.4,,,,
+ball,1,12.5,Rajasthan Royals,Dhruv Jurel,D Ferreira,C Bosch,0,0,,,,,,bowled,Dhruv Jurel,12.5,,,,
+ball,1,12.6,Rajasthan Royals,JC Archer,D Ferreira,C Bosch,0,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Rajasthan Royals,D Ferreira,JC Archer,SN Thakur,0,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Rajasthan Royals,D Ferreira,JC Archer,SN Thakur,0,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Rajasthan Royals,D Ferreira,JC Archer,SN Thakur,1,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Rajasthan Royals,JC Archer,D Ferreira,SN Thakur,0,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Rajasthan Royals,JC Archer,D Ferreira,SN Thakur,1,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Rajasthan Royals,D Ferreira,JC Archer,SN Thakur,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Rajasthan Royals,D Ferreira,JC Archer,Raghu Sharma,0,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Rajasthan Royals,D Ferreira,JC Archer,Raghu Sharma,1,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Rajasthan Royals,JC Archer,D Ferreira,Raghu Sharma,1,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Rajasthan Royals,D Ferreira,JC Archer,Raghu Sharma,6,0,,,,,,"","",14.4,,,,
+ball,1,14.5,Rajasthan Royals,D Ferreira,JC Archer,Raghu Sharma,1,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Rajasthan Royals,JC Archer,D Ferreira,Raghu Sharma,1,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Rajasthan Royals,JC Archer,D Ferreira,DL Chahar,1,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Rajasthan Royals,D Ferreira,JC Archer,DL Chahar,6,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Rajasthan Royals,D Ferreira,JC Archer,DL Chahar,0,0,,,,,,caught,D Ferreira,15.3,,C Bosch,,
+ball,1,15.4,Rajasthan Royals,SB Dubey,JC Archer,DL Chahar,2,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Rajasthan Royals,SB Dubey,JC Archer,DL Chahar,1,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Rajasthan Royals,JC Archer,SB Dubey,DL Chahar,6,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Rajasthan Royals,SB Dubey,JC Archer,C Bosch,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Rajasthan Royals,JC Archer,SB Dubey,C Bosch,2,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Rajasthan Royals,JC Archer,SB Dubey,C Bosch,6,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Rajasthan Royals,JC Archer,SB Dubey,C Bosch,2,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Rajasthan Royals,JC Archer,SB Dubey,C Bosch,1,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Rajasthan Royals,SB Dubey,JC Archer,C Bosch,0,1,,,,1,,"","",16.6,,,,
+ball,1,17.1,Rajasthan Royals,SB Dubey,JC Archer,SN Thakur,1,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Rajasthan Royals,JC Archer,SB Dubey,SN Thakur,6,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Rajasthan Royals,JC Archer,SB Dubey,SN Thakur,4,1,,1,,,,"","",17.3,,,,
+ball,1,17.4,Rajasthan Royals,JC Archer,SB Dubey,SN Thakur,1,0,,,,,,"","",17.3,,,,
+ball,1,17.5,Rajasthan Royals,SB Dubey,JC Archer,SN Thakur,0,0,,,,,,caught,SB Dubey,17.4,,Naman Dhir,,
+ball,1,17.6,Rajasthan Royals,RA Jadeja,JC Archer,SN Thakur,1,0,,,,,,"","",17.5,,,,
+ball,1,17.7,Rajasthan Royals,JC Archer,RA Jadeja,SN Thakur,0,0,,,,,,caught,JC Archer,17.6,,Tilak Varma,,
+ball,1,18.1,Rajasthan Royals,RA Jadeja,N Burger,C Bosch,0,1,1,,,,,"","",18.1,,,,
+ball,1,18.2,Rajasthan Royals,RA Jadeja,N Burger,C Bosch,1,0,,,,,,"","",18.1,,,,
+ball,1,18.3,Rajasthan Royals,N Burger,RA Jadeja,C Bosch,1,0,,,,,,"","",18.2,,,,
+ball,1,18.4,Rajasthan Royals,RA Jadeja,N Burger,C Bosch,2,0,,,,,,"","",18.3,,,,
+ball,1,18.5,Rajasthan Royals,RA Jadeja,N Burger,C Bosch,4,0,,,,,,"","",18.4,,,,
+ball,1,18.6,Rajasthan Royals,RA Jadeja,N Burger,C Bosch,1,0,,,,,,"","",18.5,,,,
+ball,1,18.7,Rajasthan Royals,N Burger,RA Jadeja,C Bosch,6,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Rajasthan Royals,RA Jadeja,N Burger,SN Thakur,0,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Rajasthan Royals,RA Jadeja,N Burger,SN Thakur,1,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Rajasthan Royals,N Burger,RA Jadeja,SN Thakur,3,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Rajasthan Royals,RA Jadeja,N Burger,SN Thakur,0,1,,1,,,,"","",19.4,,,,
+ball,1,19.5,Rajasthan Royals,RA Jadeja,N Burger,SN Thakur,4,0,,,,,,"","",19.4,,,,
+ball,1,19.6,Rajasthan Royals,RA Jadeja,N Burger,SN Thakur,4,0,,,,,,"","",19.5,,,,
+ball,1,19.7,Rajasthan Royals,RA Jadeja,N Burger,SN Thakur,1,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Mumbai Indians,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Mumbai Indians,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Mumbai Indians,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Mumbai Indians,RG Sharma,RD Rickelton,JC Archer,0,0,,,,,,caught,RG Sharma,0.4,,Dhruv Jurel,,
+ball,2,0.5,Mumbai Indians,Naman Dhir,RD Rickelton,JC Archer,1,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Mumbai Indians,RD Rickelton,Naman Dhir,JC Archer,0,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Mumbai Indians,Naman Dhir,RD Rickelton,N Burger,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Mumbai Indians,Naman Dhir,RD Rickelton,N Burger,1,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Mumbai Indians,RD Rickelton,Naman Dhir,N Burger,0,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Mumbai Indians,RD Rickelton,Naman Dhir,N Burger,4,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Mumbai Indians,RD Rickelton,Naman Dhir,N Burger,6,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Mumbai Indians,RD Rickelton,Naman Dhir,N Burger,1,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Mumbai Indians,RD Rickelton,Naman Dhir,JC Archer,1,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Mumbai Indians,Naman Dhir,RD Rickelton,JC Archer,4,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Mumbai Indians,Naman Dhir,RD Rickelton,JC Archer,0,0,,,,,,bowled,Naman Dhir,2.3,,,,
+ball,2,2.4,Mumbai Indians,SA Yadav,RD Rickelton,JC Archer,4,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Mumbai Indians,SA Yadav,RD Rickelton,JC Archer,0,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Mumbai Indians,SA Yadav,RD Rickelton,JC Archer,1,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Mumbai Indians,SA Yadav,RD Rickelton,N Burger,1,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Mumbai Indians,RD Rickelton,SA Yadav,N Burger,0,0,,,,,,caught,RD Rickelton,3.2,,V Suryavanshi,,
+ball,2,3.3,Mumbai Indians,Tilak Varma,SA Yadav,N Burger,0,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Mumbai Indians,Tilak Varma,SA Yadav,N Burger,1,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Mumbai Indians,SA Yadav,Tilak Varma,N Burger,6,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Mumbai Indians,SA Yadav,Tilak Varma,N Burger,4,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Mumbai Indians,Tilak Varma,SA Yadav,JC Archer,0,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Mumbai Indians,Tilak Varma,SA Yadav,JC Archer,1,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Mumbai Indians,SA Yadav,Tilak Varma,JC Archer,0,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Mumbai Indians,SA Yadav,Tilak Varma,JC Archer,1,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Mumbai Indians,Tilak Varma,SA Yadav,JC Archer,0,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Mumbai Indians,Tilak Varma,SA Yadav,JC Archer,1,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Mumbai Indians,Tilak Varma,SA Yadav,Brijesh Sharma,0,0,,,,,,bowled,Tilak Varma,5.1,,,,
+ball,2,5.2,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,0,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,4,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,1,1,,1,,,,"","",5.4,,,,
+ball,2,5.5,Mumbai Indians,SA Yadav,WG Jacks,Brijesh Sharma,0,0,,,,,,"","",5.4,,,,
+ball,2,5.6,Mumbai Indians,SA Yadav,WG Jacks,Brijesh Sharma,1,0,,,,,,"","",5.5,,,,
+ball,2,5.7,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,4,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Mumbai Indians,WG Jacks,SA Yadav,RA Jadeja,1,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,6,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,0,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,0,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,2,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Mumbai Indians,WG Jacks,SA Yadav,Yash Raj Punja,1,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,1,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Mumbai Indians,WG Jacks,SA Yadav,Yash Raj Punja,6,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,6,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,1,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Mumbai Indians,WG Jacks,SA Yadav,RA Jadeja,4,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Mumbai Indians,WG Jacks,SA Yadav,RA Jadeja,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Mumbai Indians,SA Yadav,WG Jacks,RA Jadeja,1,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Mumbai Indians,WG Jacks,SA Yadav,RA Jadeja,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Mumbai Indians,WG Jacks,SA Yadav,Yash Raj Punja,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,6,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,1,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Mumbai Indians,WG Jacks,SA Yadav,Yash Raj Punja,1,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,0,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,0,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Mumbai Indians,SA Yadav,WG Jacks,Brijesh Sharma,1,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,1,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Mumbai Indians,SA Yadav,WG Jacks,Brijesh Sharma,1,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Mumbai Indians,WG Jacks,SA Yadav,Brijesh Sharma,0,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Mumbai Indians,SA Yadav,WG Jacks,Yash Raj Punja,1,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Mumbai Indians,WG Jacks,SA Yadav,Yash Raj Punja,6,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Mumbai Indians,WG Jacks,SA Yadav,Yash Raj Punja,0,0,,,,,,caught,WG Jacks,11.3,,Dhruv Jurel,,
+ball,2,11.4,Mumbai Indians,HH Pandya,SA Yadav,Yash Raj Punja,2,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Mumbai Indians,HH Pandya,SA Yadav,Yash Raj Punja,6,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Mumbai Indians,HH Pandya,SA Yadav,Yash Raj Punja,0,1,1,,,,,"","",11.6,,,,
+ball,2,11.7,Mumbai Indians,HH Pandya,SA Yadav,Yash Raj Punja,6,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Mumbai Indians,SA Yadav,HH Pandya,MD Shanaka,2,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Mumbai Indians,SA Yadav,HH Pandya,MD Shanaka,0,1,1,,,,,"","",12.2,,,,
+ball,2,12.3,Mumbai Indians,SA Yadav,HH Pandya,MD Shanaka,1,0,,,,,,"","",12.2,,,,
+ball,2,12.4,Mumbai Indians,HH Pandya,SA Yadav,MD Shanaka,4,0,,,,,,"","",12.3,,,,
+ball,2,12.5,Mumbai Indians,HH Pandya,SA Yadav,MD Shanaka,4,0,,,,,,"","",12.4,,,,
+ball,2,12.6,Mumbai Indians,HH Pandya,SA Yadav,MD Shanaka,2,0,,,,,,"","",12.5,,,,
+ball,2,12.7,Mumbai Indians,HH Pandya,SA Yadav,MD Shanaka,1,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Mumbai Indians,HH Pandya,SA Yadav,N Burger,4,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Mumbai Indians,HH Pandya,SA Yadav,N Burger,1,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Mumbai Indians,SA Yadav,HH Pandya,N Burger,1,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Mumbai Indians,HH Pandya,SA Yadav,N Burger,1,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Mumbai Indians,SA Yadav,HH Pandya,N Burger,0,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Mumbai Indians,SA Yadav,HH Pandya,N Burger,1,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Mumbai Indians,SA Yadav,HH Pandya,Brijesh Sharma,4,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Mumbai Indians,SA Yadav,HH Pandya,Brijesh Sharma,1,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Mumbai Indians,HH Pandya,SA Yadav,Brijesh Sharma,0,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Mumbai Indians,HH Pandya,SA Yadav,Brijesh Sharma,1,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Mumbai Indians,SA Yadav,HH Pandya,Brijesh Sharma,1,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Mumbai Indians,HH Pandya,SA Yadav,Brijesh Sharma,1,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Mumbai Indians,HH Pandya,SA Yadav,JC Archer,1,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Mumbai Indians,SA Yadav,HH Pandya,JC Archer,0,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Mumbai Indians,SA Yadav,HH Pandya,JC Archer,1,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Mumbai Indians,HH Pandya,SA Yadav,JC Archer,0,0,,,,,,caught,HH Pandya,15.4,,N Burger,,
+ball,2,15.5,Mumbai Indians,C Bosch,SA Yadav,JC Archer,0,0,,,,,,"","",15.5,,,,
+ball,2,15.6,Mumbai Indians,C Bosch,SA Yadav,JC Archer,1,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Mumbai Indians,C Bosch,SA Yadav,Yash Raj Punja,1,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Mumbai Indians,SA Yadav,C Bosch,Yash Raj Punja,1,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Mumbai Indians,C Bosch,SA Yadav,Yash Raj Punja,0,0,,,,,,caught,C Bosch,16.3,,D Ferreira,,
+ball,2,16.4,Mumbai Indians,SN Thakur,SA Yadav,Yash Raj Punja,1,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Mumbai Indians,SA Yadav,SN Thakur,Yash Raj Punja,1,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Mumbai Indians,SN Thakur,SA Yadav,Yash Raj Punja,1,0,,,,,,"","",16.6,,,,
+ball,2,17.1,Mumbai Indians,SN Thakur,SA Yadav,N Burger,0,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Mumbai Indians,SN Thakur,SA Yadav,N Burger,0,1,1,,,,,"","",17.2,,,,
+ball,2,17.3,Mumbai Indians,SN Thakur,SA Yadav,N Burger,1,0,,,,,,"","",17.2,,,,
+ball,2,17.4,Mumbai Indians,SA Yadav,SN Thakur,N Burger,0,1,1,,,,,"","",17.3,,,,
+ball,2,17.5,Mumbai Indians,SA Yadav,SN Thakur,N Burger,0,0,,,,,,caught and bowled,SA Yadav,17.3,,,,
+ball,2,17.6,Mumbai Indians,DL Chahar,SN Thakur,N Burger,2,0,,,,,,"","",17.4,,,,
+ball,2,17.7,Mumbai Indians,DL Chahar,SN Thakur,N Burger,6,0,,,,,,"","",17.5,,,,
+ball,2,17.8,Mumbai Indians,DL Chahar,SN Thakur,N Burger,0,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Mumbai Indians,SN Thakur,DL Chahar,Brijesh Sharma,1,0,,,,,,"","",18.1,,,,
+ball,2,18.2,Mumbai Indians,DL Chahar,SN Thakur,Brijesh Sharma,0,0,,,,,,"","",18.2,,,,
+ball,2,18.3,Mumbai Indians,DL Chahar,SN Thakur,Brijesh Sharma,0,0,,,,,,lbw,DL Chahar,18.3,,,,
+ball,2,18.4,Mumbai Indians,AM Ghazanfar,SN Thakur,Brijesh Sharma,1,0,,,,,,"","",18.4,,,,
+ball,2,18.5,Mumbai Indians,SN Thakur,AM Ghazanfar,Brijesh Sharma,1,0,,,,,,"","",18.5,,,,
+ball,2,18.6,Mumbai Indians,AM Ghazanfar,SN Thakur,Brijesh Sharma,0,0,,,,,,"","",18.6,,,,
+ball,2,19.1,Mumbai Indians,SN Thakur,AM Ghazanfar,MD Shanaka,4,0,,,,,,"","",19.1,,,,
+ball,2,19.2,Mumbai Indians,SN Thakur,AM Ghazanfar,MD Shanaka,0,0,,,,,,"","",19.2,,,,
+ball,2,19.3,Mumbai Indians,SN Thakur,AM Ghazanfar,MD Shanaka,0,0,,,,,,"","",19.3,,,,
+ball,2,19.4,Mumbai Indians,SN Thakur,AM Ghazanfar,MD Shanaka,1,0,,,,,,"","",19.4,,,,
+ball,2,19.5,Mumbai Indians,AM Ghazanfar,SN Thakur,MD Shanaka,1,0,,,,,,"","",19.5,,,,
+ball,2,19.6,Mumbai Indians,SN Thakur,AM Ghazanfar,MD Shanaka,0,0,,,,,,"","",19.6,,,,

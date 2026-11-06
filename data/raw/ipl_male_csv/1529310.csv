@@ -1,0 +1,339 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Royal Challengers Bengaluru
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/22
+info,event,Indian Premier League
+info,match_id,1529310
+info,match_type,T20
+info,overs,20
+info,match_number,67
+info,venue,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+info,city,Hyderabad
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,bat
+info,player_of_match,Ishan Kishan
+info,umpire,Amit Rana
+info,umpire,J Madanagopal
+info,reserve_umpire,T Ematty
+info,tv_umpire,K Kelkar
+info,match_referee,DS Manohar
+info,target_overs,2,20
+info,target_runs,2,256
+info,winner,Sunrisers Hyderabad
+info,winner_runs,55
+info,player,Sunrisers Hyderabad,HV Patel
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,R Smaran
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,Shivang Kumar
+info,player,Sunrisers Hyderabad,E Malinga
+info,player,Sunrisers Hyderabad,Sakib Hussain
+info,player,Royal Challengers Bengaluru,Suyash Sharma
+info,player,Royal Challengers Bengaluru,VR Iyer
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,D Padikkal
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,KH Pandya
+info,player,Royal Challengers Bengaluru,TH David
+info,player,Royal Challengers Bengaluru,JM Sharma
+info,player,Royal Challengers Bengaluru,R Shepherd
+info,player,Royal Challengers Bengaluru,B Kumar
+info,player,Royal Challengers Bengaluru,JR Hazlewood
+info,player,Royal Challengers Bengaluru,Rasikh Salam
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,R Smaran,c1e53c3f
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rasikh Salam,b8527c3d
+info,registry,people,S Arora,d7423da1
+info,registry,people,Sakib Hussain,280fff14
+info,registry,people,Shivang Kumar,7b44eb3e
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,T Ematty,e995f8e9
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VR Iyer,a24be938
+ball,1,0.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,0,2,2,,,,,"","",0.2,,,,
+ball,1,0.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,B Kumar,4,0,,,,,,"","",0.2,,,,
+ball,1,0.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,B Kumar,0,0,,,,,,"","",0.3,,,,
+ball,1,0.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,B Kumar,1,0,,,,,,"","",0.4,,,,
+ball,1,0.6,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,6,0,,,,,,"","",0.5,,,,
+ball,1,0.7,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,0,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Sunrisers Hyderabad,TM Head,Abhishek Sharma,JR Hazlewood,2,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Sunrisers Hyderabad,TM Head,Abhishek Sharma,JR Hazlewood,0,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,JR Hazlewood,1,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Sunrisers Hyderabad,Abhishek Sharma,TM Head,JR Hazlewood,1,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,JR Hazlewood,0,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,JR Hazlewood,4,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,4,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,4,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,1,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,B Kumar,1,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Sunrisers Hyderabad,Abhishek Sharma,TM Head,B Kumar,1,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,B Kumar,1,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Rasikh Salam,4,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Rasikh Salam,4,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Rasikh Salam,0,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Rasikh Salam,4,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Rasikh Salam,0,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Rasikh Salam,0,0,,,,,,bowled,TM Head,3.6,,,,
+ball,1,4.1,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,JR Hazlewood,0,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,JR Hazlewood,1,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,JR Hazlewood,1,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,JR Hazlewood,0,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,JR Hazlewood,0,1,1,,,,,"","",4.5,,,,
+ball,1,4.6,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,JR Hazlewood,3,0,,,,,,"","",4.5,,,,
+ball,1,4.7,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,JR Hazlewood,1,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Rasikh Salam,0,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Rasikh Salam,1,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,Rasikh Salam,4,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,Rasikh Salam,1,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Rasikh Salam,4,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Rasikh Salam,1,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Suyash Sharma,0,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Suyash Sharma,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,Suyash Sharma,6,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,Suyash Sharma,6,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,Suyash Sharma,1,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Suyash Sharma,0,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,R Shepherd,6,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,R Shepherd,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,R Shepherd,0,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,R Shepherd,0,1,1,,,,,"","",7.4,,,,
+ball,1,7.5,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,R Shepherd,1,0,,,,,,"","",7.4,,,,
+ball,1,7.6,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,R Shepherd,6,0,,,,,,"","",7.5,,,,
+ball,1,7.7,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,R Shepherd,4,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Suyash Sharma,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,Suyash Sharma,0,0,,,,,,caught,Abhishek Sharma,8.2,,JM Cox,,
+ball,1,8.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Suyash Sharma,0,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Suyash Sharma,1,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Suyash Sharma,4,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Suyash Sharma,1,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,2,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,2,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,0,1,1,,,,,"","",9.3,,,,
+ball,1,9.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,2,0,,,,,,"","",9.3,,,,
+ball,1,9.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,4,0,,,,,,"","",9.4,,,,
+ball,1,9.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,"","",9.5,,,,
+ball,1,9.7,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,R Shepherd,1,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,KH Pandya,1,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,KH Pandya,0,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,KH Pandya,6,0,,,,,,"","",10.3,,,,
+ball,1,10.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,KH Pandya,1,0,,,,,,"","",10.4,,,,
+ball,1,10.5,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,KH Pandya,0,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,KH Pandya,0,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,R Shepherd,0,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,R Shepherd,1,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,R Shepherd,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,R Shepherd,1,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,JR Hazlewood,0,1,1,,,,,"","",12.1,,,,
+ball,1,12.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,JR Hazlewood,1,0,,,,,,"","",12.1,,,,
+ball,1,12.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,6,0,,,,,,"","",12.2,,,,
+ball,1,12.4,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,0,1,1,,,,,"","",12.3,,,,
+ball,1,12.5,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,0,1,1,,,,,"","",12.3,,,,
+ball,1,12.6,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,6,0,,,,,,"","",12.3,,,,
+ball,1,12.7,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,4,0,,,,,,"","",12.4,,,,
+ball,1,12.8,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,6,0,,,,,,"","",12.5,,,,
+ball,1,12.9,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,JR Hazlewood,1,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Suyash Sharma,6,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Suyash Sharma,0,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Suyash Sharma,0,1,1,,,,,"","",13.3,,,,
+ball,1,13.4,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Suyash Sharma,1,0,,,,,,"","",13.3,,,,
+ball,1,13.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Suyash Sharma,6,0,,,,,,"","",13.4,,,,
+ball,1,13.6,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Suyash Sharma,0,0,,,,,,"","",13.5,,,,
+ball,1,13.7,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Suyash Sharma,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,B Kumar,4,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,B Kumar,0,1,1,,,,,"","",14.2,,,,
+ball,1,14.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,B Kumar,1,0,,,,,,"","",14.2,,,,
+ball,1,14.4,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,B Kumar,0,0,,,,,,"","",14.3,,,,
+ball,1,14.5,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,B Kumar,2,0,,,,,,"","",14.4,,,,
+ball,1,14.6,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,B Kumar,4,0,,,,,,"","",14.5,,,,
+ball,1,14.7,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,B Kumar,6,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Rasikh Salam,6,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Rasikh Salam,4,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Rasikh Salam,0,1,1,,,,,"","",15.3,,,,
+ball,1,15.4,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Rasikh Salam,4,0,,,,,,"","",15.3,,,,
+ball,1,15.5,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,Rasikh Salam,1,0,,,,,,"","",15.4,,,,
+ball,1,15.6,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Rasikh Salam,2,0,,,,,,"","",15.5,,,,
+ball,1,15.7,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,Rasikh Salam,2,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Sunrisers Hyderabad,Ishan Kishan,H Klaasen,KH Pandya,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Sunrisers Hyderabad,H Klaasen,Ishan Kishan,KH Pandya,0,0,,,,,,caught,H Klaasen,16.2,,VR Iyer,,
+ball,1,16.3,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,6,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,0,1,1,,,,,"","",16.4,,,,
+ball,1,16.5,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,6,0,,,,,,"","",16.4,,,,
+ball,1,16.6,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,0,0,,,,,,"","",16.5,,,,
+ball,1,16.7,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,KH Pandya,2,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,1,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,JR Hazlewood,1,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,4,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,0,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,JR Hazlewood,1,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,JR Hazlewood,6,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,B Kumar,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,B Kumar,1,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,B Kumar,4,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,B Kumar,1,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,B Kumar,0,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,B Kumar,1,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,1,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,Rasikh Salam,1,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,4,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,0,1,1,,,,,"","",19.4,,,,
+ball,1,19.5,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,0,1,1,,,,,"","",19.4,,,,
+ball,1,19.6,Sunrisers Hyderabad,Nithish Kumar Reddy,Ishan Kishan,Rasikh Salam,1,0,,,,,,"","",19.4,,,,
+ball,1,19.7,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,Rasikh Salam,0,0,,,,,,"","",19.5,,,,
+ball,1,19.8,Sunrisers Hyderabad,Ishan Kishan,Nithish Kumar Reddy,Rasikh Salam,0,0,,,,,,caught,Ishan Kishan,19.6,,D Padikkal,,
+ball,2,0.1,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,2,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,1,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Royal Challengers Bengaluru,V Kohli,VR Iyer,PJ Cummins,0,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Royal Challengers Bengaluru,V Kohli,VR Iyer,PJ Cummins,1,0,,,,,,"","",0.4,,,,
+ball,2,0.5,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,4,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,6,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Royal Challengers Bengaluru,V Kohli,VR Iyer,E Malinga,1,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Royal Challengers Bengaluru,VR Iyer,V Kohli,E Malinga,0,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Royal Challengers Bengaluru,VR Iyer,V Kohli,E Malinga,0,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Royal Challengers Bengaluru,VR Iyer,V Kohli,E Malinga,0,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Royal Challengers Bengaluru,VR Iyer,V Kohli,E Malinga,0,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Royal Challengers Bengaluru,VR Iyer,V Kohli,E Malinga,4,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Royal Challengers Bengaluru,V Kohli,VR Iyer,PJ Cummins,4,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Royal Challengers Bengaluru,V Kohli,VR Iyer,PJ Cummins,4,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Royal Challengers Bengaluru,V Kohli,VR Iyer,PJ Cummins,0,1,1,,,,,"","",2.3,,,,
+ball,2,2.4,Royal Challengers Bengaluru,V Kohli,VR Iyer,PJ Cummins,1,0,,,,,,"","",2.3,,,,
+ball,2,2.5,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,4,0,,,,,,"","",2.4,,,,
+ball,2,2.6,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,0,0,,,,,,"","",2.5,,,,
+ball,2,2.7,Royal Challengers Bengaluru,VR Iyer,V Kohli,PJ Cummins,1,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,6,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,4,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,0,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,6,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,6,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,0,1,1,,,,,"","",3.6,,,,
+ball,2,3.7,Royal Challengers Bengaluru,VR Iyer,V Kohli,Shivang Kumar,0,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Royal Challengers Bengaluru,V Kohli,VR Iyer,E Malinga,2,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Royal Challengers Bengaluru,V Kohli,VR Iyer,E Malinga,1,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Royal Challengers Bengaluru,VR Iyer,V Kohli,E Malinga,0,0,,,,,,caught,VR Iyer,4.3,,Abhishek Sharma,,
+ball,2,4.4,Royal Challengers Bengaluru,D Padikkal,V Kohli,E Malinga,4,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Royal Challengers Bengaluru,D Padikkal,V Kohli,E Malinga,6,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Royal Challengers Bengaluru,D Padikkal,V Kohli,E Malinga,1,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Royal Challengers Bengaluru,D Padikkal,V Kohli,Sakib Hussain,1,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Royal Challengers Bengaluru,V Kohli,D Padikkal,Sakib Hussain,1,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Royal Challengers Bengaluru,D Padikkal,V Kohli,Sakib Hussain,1,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Royal Challengers Bengaluru,V Kohli,D Padikkal,Sakib Hussain,0,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Royal Challengers Bengaluru,V Kohli,D Padikkal,Sakib Hussain,0,0,,,,,,caught,V Kohli,5.5,,R Smaran,,
+ball,2,5.6,Royal Challengers Bengaluru,RM Patidar,D Padikkal,Sakib Hussain,1,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Royal Challengers Bengaluru,RM Patidar,D Padikkal,HV Patel,4,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Royal Challengers Bengaluru,RM Patidar,D Padikkal,HV Patel,1,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Royal Challengers Bengaluru,D Padikkal,RM Patidar,HV Patel,1,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Royal Challengers Bengaluru,RM Patidar,D Padikkal,HV Patel,2,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Royal Challengers Bengaluru,RM Patidar,D Padikkal,HV Patel,1,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Royal Challengers Bengaluru,D Padikkal,RM Patidar,HV Patel,1,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Sakib Hussain,4,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Sakib Hussain,0,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Sakib Hussain,0,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Sakib Hussain,1,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Royal Challengers Bengaluru,RM Patidar,D Padikkal,Sakib Hussain,1,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Royal Challengers Bengaluru,D Padikkal,RM Patidar,Sakib Hussain,0,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Royal Challengers Bengaluru,RM Patidar,D Padikkal,E Malinga,1,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Royal Challengers Bengaluru,D Padikkal,RM Patidar,E Malinga,1,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Royal Challengers Bengaluru,RM Patidar,D Padikkal,E Malinga,0,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Royal Challengers Bengaluru,RM Patidar,D Padikkal,E Malinga,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Royal Challengers Bengaluru,D Padikkal,RM Patidar,E Malinga,0,0,,,,,,caught,D Padikkal,8.5,,Abhishek Sharma,,
+ball,2,8.6,Royal Challengers Bengaluru,KH Pandya,RM Patidar,E Malinga,0,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,4,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,0,2,2,,,,,"","",10.2,,,,
+ball,2,10.3,Royal Challengers Bengaluru,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,"","",10.2,,,,
+ball,2,10.4,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,0,0,,,,,,"","",10.3,,,,
+ball,2,10.5,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,1,0,,,,,,"","",10.4,,,,
+ball,2,10.6,Royal Challengers Bengaluru,RM Patidar,KH Pandya,PJ Cummins,1,1,,1,,,,"","",10.5,,,,
+ball,2,10.7,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,1,0,,,,,,"","",10.5,,,,
+ball,2,10.8,Royal Challengers Bengaluru,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Shivang Kumar,0,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Shivang Kumar,1,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Shivang Kumar,2,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Shivang Kumar,1,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Shivang Kumar,1,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Shivang Kumar,4,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Sakib Hussain,1,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Sakib Hussain,0,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Sakib Hussain,4,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Sakib Hussain,0,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Sakib Hussain,1,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Sakib Hussain,0,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,4,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,2,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,0,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,4,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Nithish Kumar Reddy,4,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Nithish Kumar Reddy,0,1,1,,,,,"","",14.2,,,,
+ball,2,14.3,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Nithish Kumar Reddy,1,0,,,,,,"","",14.2,,,,
+ball,2,14.4,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Nithish Kumar Reddy,1,0,,,,,,"","",14.3,,,,
+ball,2,14.5,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Nithish Kumar Reddy,0,0,,,,,,"","",14.4,,,,
+ball,2,14.6,Royal Challengers Bengaluru,RM Patidar,KH Pandya,Nithish Kumar Reddy,1,0,,,,,,"","",14.5,,,,
+ball,2,14.7,Royal Challengers Bengaluru,KH Pandya,RM Patidar,Nithish Kumar Reddy,2,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Royal Challengers Bengaluru,RM Patidar,KH Pandya,E Malinga,0,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Royal Challengers Bengaluru,RM Patidar,KH Pandya,E Malinga,2,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Royal Challengers Bengaluru,RM Patidar,KH Pandya,E Malinga,0,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Royal Challengers Bengaluru,RM Patidar,KH Pandya,E Malinga,4,0,,,,,,"","",15.4,,,,
+ball,2,15.5,Royal Challengers Bengaluru,RM Patidar,KH Pandya,E Malinga,4,0,,,,,,"","",15.5,,,,
+ball,2,15.6,Royal Challengers Bengaluru,RM Patidar,KH Pandya,E Malinga,1,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Royal Challengers Bengaluru,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,0,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,1,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Royal Challengers Bengaluru,RM Patidar,KH Pandya,PJ Cummins,4,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Royal Challengers Bengaluru,RM Patidar,KH Pandya,PJ Cummins,1,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Royal Challengers Bengaluru,KH Pandya,RM Patidar,PJ Cummins,0,1,,,,1,,"","",16.6,,,,
+ball,2,17.1,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,1,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,0,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,0,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Royal Challengers Bengaluru,KH Pandya,RM Patidar,HV Patel,1,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Royal Challengers Bengaluru,RM Patidar,KH Pandya,HV Patel,6,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Royal Challengers Bengaluru,KH Pandya,RM Patidar,TM Head,0,1,,,,1,,"","",18.1,,,,
+ball,2,18.2,Royal Challengers Bengaluru,RM Patidar,KH Pandya,TM Head,0,0,,,,,,caught,RM Patidar,18.2,,R Smaran,,
+ball,2,18.3,Royal Challengers Bengaluru,TH David,KH Pandya,TM Head,1,0,,,,,,"","",18.3,,,,
+ball,2,18.4,Royal Challengers Bengaluru,KH Pandya,TH David,TM Head,4,0,,,,,,"","",18.4,,,,
+ball,2,18.5,Royal Challengers Bengaluru,KH Pandya,TH David,TM Head,1,0,,,,,,"","",18.5,,,,
+ball,2,18.6,Royal Challengers Bengaluru,TH David,KH Pandya,TM Head,1,0,,,,,,"","",18.6,,,,
+ball,2,19.1,Royal Challengers Bengaluru,TH David,KH Pandya,Sakib Hussain,2,0,,,,,,"","",19.1,,,,
+ball,2,19.2,Royal Challengers Bengaluru,TH David,KH Pandya,Sakib Hussain,0,0,,,,,,"","",19.2,,,,
+ball,2,19.3,Royal Challengers Bengaluru,TH David,KH Pandya,Sakib Hussain,6,0,,,,,,"","",19.3,,,,
+ball,2,19.4,Royal Challengers Bengaluru,TH David,KH Pandya,Sakib Hussain,4,0,,,,,,"","",19.4,,,,
+ball,2,19.5,Royal Challengers Bengaluru,TH David,KH Pandya,Sakib Hussain,1,0,,,,,,"","",19.5,,,,
+ball,2,19.6,Royal Challengers Bengaluru,KH Pandya,TH David,Sakib Hussain,2,0,,,,,,"","",19.6,,,,

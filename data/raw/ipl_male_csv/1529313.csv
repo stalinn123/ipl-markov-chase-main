@@ -1,0 +1,326 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Delhi Capitals
+info,team,Kolkata Knight Riders
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/24
+info,event,Indian Premier League
+info,match_id,1529313
+info,match_type,T20
+info,overs,20
+info,match_number,70
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,Kuldeep Yadav
+info,umpire,K Swaroopanand
+info,umpire,HAS Khalid
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,SJ Nogajski
+info,match_referee,IR Siddiqui
+info,target_overs,2,20
+info,target_runs,2,204
+info,winner,Delhi Capitals
+info,winner_runs,40
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,Abishek Porel
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,SU Parakh
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,Ashutosh Sharma
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,M Tiwari
+info,player,Delhi Capitals,Auqib Nabi
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,MA Starc
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,MK Pandey
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,T Dahiya
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,SR Dubey
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AR Patel,2e171977
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Abishek Porel,ad3b6e95
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,FH Allen,bf74b130
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,IR Siddiqui,6436f803
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Tiwari,fb5f69e4
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Dubey,11061889
+info,registry,people,SU Parakh,926c7443
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,T Dahiya,f12fe2a1
+info,registry,people,T Stubbs,85b3fab2
+ball,1,0.1,Delhi Capitals,Abishek Porel,KL Rahul,AS Roy,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Delhi Capitals,Abishek Porel,KL Rahul,AS Roy,0,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Delhi Capitals,Abishek Porel,KL Rahul,AS Roy,4,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Delhi Capitals,Abishek Porel,KL Rahul,AS Roy,4,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Delhi Capitals,Abishek Porel,KL Rahul,AS Roy,1,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Delhi Capitals,KL Rahul,Abishek Porel,AS Roy,1,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Delhi Capitals,KL Rahul,Abishek Porel,SR Dubey,0,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Delhi Capitals,KL Rahul,Abishek Porel,SR Dubey,1,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,1,1,,,,,"","",1.5,,,,
+ball,1,1.6,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,"","",1.5,,,,
+ball,1,1.7,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Delhi Capitals,KL Rahul,Abishek Porel,C Green,1,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Delhi Capitals,Abishek Porel,KL Rahul,C Green,1,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Delhi Capitals,KL Rahul,Abishek Porel,C Green,0,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Delhi Capitals,KL Rahul,Abishek Porel,C Green,6,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Delhi Capitals,KL Rahul,Abishek Porel,C Green,4,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Delhi Capitals,KL Rahul,Abishek Porel,C Green,2,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Delhi Capitals,Abishek Porel,KL Rahul,Kartik Tyagi,4,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Delhi Capitals,Abishek Porel,KL Rahul,Kartik Tyagi,4,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Delhi Capitals,Abishek Porel,KL Rahul,Kartik Tyagi,0,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Delhi Capitals,Abishek Porel,KL Rahul,Kartik Tyagi,3,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Delhi Capitals,KL Rahul,Abishek Porel,Kartik Tyagi,1,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Delhi Capitals,Abishek Porel,KL Rahul,Kartik Tyagi,1,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,1,1,,,,,"","",4.2,,,,
+ball,1,4.3,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,"","",4.2,,,,
+ball,1,4.4,Delhi Capitals,Abishek Porel,KL Rahul,SR Dubey,0,0,,,,,,caught,Abishek Porel,4.3,,T Dahiya,,
+ball,1,4.5,Delhi Capitals,SU Parakh,KL Rahul,SR Dubey,1,0,,,,,,"","",4.4,,,,
+ball,1,4.6,Delhi Capitals,KL Rahul,SU Parakh,SR Dubey,0,0,,,,,,"","",4.5,,,,
+ball,1,4.7,Delhi Capitals,KL Rahul,SU Parakh,SR Dubey,1,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,1,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,0,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,6,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,0,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,4,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Delhi Capitals,KL Rahul,SU Parakh,CV Varun,0,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Delhi Capitals,KL Rahul,SU Parakh,CV Varun,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,0,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,1,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Delhi Capitals,KL Rahul,SU Parakh,CV Varun,1,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,1,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,1,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,6,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,4,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,1,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,1,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,0,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,0,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,4,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,0,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,4,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Delhi Capitals,SU Parakh,KL Rahul,CV Varun,1,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Delhi Capitals,KL Rahul,SU Parakh,CV Varun,1,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,6,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Delhi Capitals,KL Rahul,SU Parakh,SP Narine,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Delhi Capitals,SU Parakh,KL Rahul,SP Narine,0,0,,,,,,caught,SU Parakh,9.3,,AM Rahane,,
+ball,1,9.4,Delhi Capitals,AR Patel,KL Rahul,SP Narine,0,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Delhi Capitals,AR Patel,KL Rahul,SP Narine,0,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Delhi Capitals,AR Patel,KL Rahul,SP Narine,1,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Delhi Capitals,AR Patel,KL Rahul,Kartik Tyagi,1,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Delhi Capitals,KL Rahul,AR Patel,Kartik Tyagi,4,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Delhi Capitals,KL Rahul,AR Patel,Kartik Tyagi,6,0,,,,,,"","",10.3,,,,
+ball,1,10.4,Delhi Capitals,KL Rahul,AR Patel,Kartik Tyagi,1,0,,,,,,"","",10.4,,,,
+ball,1,10.5,Delhi Capitals,AR Patel,KL Rahul,Kartik Tyagi,4,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Delhi Capitals,AR Patel,KL Rahul,Kartik Tyagi,4,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Delhi Capitals,KL Rahul,AR Patel,SP Narine,1,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Delhi Capitals,AR Patel,KL Rahul,SP Narine,2,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Delhi Capitals,AR Patel,KL Rahul,SP Narine,0,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Delhi Capitals,AR Patel,KL Rahul,SP Narine,1,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Delhi Capitals,KL Rahul,AR Patel,SP Narine,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Delhi Capitals,AR Patel,KL Rahul,SP Narine,1,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Delhi Capitals,AR Patel,KL Rahul,AS Roy,1,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Delhi Capitals,KL Rahul,AR Patel,AS Roy,0,1,1,,,,,"","",12.2,,,,
+ball,1,12.3,Delhi Capitals,KL Rahul,AR Patel,AS Roy,4,0,,,,,,"","",12.2,,,,
+ball,1,12.4,Delhi Capitals,KL Rahul,AR Patel,AS Roy,0,1,1,,,,,"","",12.3,,,,
+ball,1,12.5,Delhi Capitals,KL Rahul,AR Patel,AS Roy,4,0,,,,,,"","",12.3,,,,
+ball,1,12.6,Delhi Capitals,KL Rahul,AR Patel,AS Roy,0,0,,,,,,caught,KL Rahul,12.4,,R Powell,,
+ball,1,12.7,Delhi Capitals,DA Miller,AR Patel,AS Roy,1,0,,,,,,"","",12.5,,,,
+ball,1,12.8,Delhi Capitals,AR Patel,DA Miller,AS Roy,1,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Delhi Capitals,AR Patel,DA Miller,C Green,0,1,,,,1,,"","",13.1,,,,
+ball,1,13.2,Delhi Capitals,DA Miller,AR Patel,C Green,1,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Delhi Capitals,AR Patel,DA Miller,C Green,1,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Delhi Capitals,DA Miller,AR Patel,C Green,0,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Delhi Capitals,DA Miller,AR Patel,C Green,1,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Delhi Capitals,AR Patel,DA Miller,C Green,4,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Delhi Capitals,DA Miller,AR Patel,CV Varun,1,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Delhi Capitals,AR Patel,DA Miller,CV Varun,0,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Delhi Capitals,AR Patel,DA Miller,CV Varun,1,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Delhi Capitals,DA Miller,AR Patel,CV Varun,0,1,,,,1,,"","",14.4,,,,
+ball,1,14.5,Delhi Capitals,AR Patel,DA Miller,CV Varun,1,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Delhi Capitals,DA Miller,AR Patel,CV Varun,1,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Delhi Capitals,DA Miller,AR Patel,Kartik Tyagi,1,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Delhi Capitals,AR Patel,DA Miller,Kartik Tyagi,1,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Delhi Capitals,DA Miller,AR Patel,Kartik Tyagi,6,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Delhi Capitals,DA Miller,AR Patel,Kartik Tyagi,0,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Delhi Capitals,DA Miller,AR Patel,Kartik Tyagi,1,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Delhi Capitals,AR Patel,DA Miller,Kartik Tyagi,1,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Delhi Capitals,AR Patel,DA Miller,CV Varun,6,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Delhi Capitals,AR Patel,DA Miller,CV Varun,0,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Delhi Capitals,AR Patel,DA Miller,CV Varun,6,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Delhi Capitals,AR Patel,DA Miller,CV Varun,0,1,1,,,,,"","",16.4,,,,
+ball,1,16.5,Delhi Capitals,AR Patel,DA Miller,CV Varun,0,1,1,,,,,"","",16.4,,,,
+ball,1,16.6,Delhi Capitals,AR Patel,DA Miller,CV Varun,2,0,,,,,,"","",16.4,,,,
+ball,1,16.7,Delhi Capitals,AR Patel,DA Miller,CV Varun,0,0,,,,,,caught,AR Patel,16.5,,RK Singh,,
+ball,1,16.8,Delhi Capitals,Ashutosh Sharma,DA Miller,CV Varun,1,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Delhi Capitals,Ashutosh Sharma,DA Miller,SR Dubey,1,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,0,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,1,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Delhi Capitals,Ashutosh Sharma,DA Miller,SR Dubey,1,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,1,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Delhi Capitals,Ashutosh Sharma,DA Miller,SR Dubey,4,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Delhi Capitals,DA Miller,Ashutosh Sharma,Kartik Tyagi,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Delhi Capitals,Ashutosh Sharma,DA Miller,Kartik Tyagi,0,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Delhi Capitals,Ashutosh Sharma,DA Miller,Kartik Tyagi,4,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Delhi Capitals,Ashutosh Sharma,DA Miller,Kartik Tyagi,0,1,,1,,,,"","",18.4,,,,
+ball,1,18.5,Delhi Capitals,Ashutosh Sharma,DA Miller,Kartik Tyagi,0,0,,,,,,"","",18.4,,,,
+ball,1,18.6,Delhi Capitals,Ashutosh Sharma,DA Miller,Kartik Tyagi,0,0,,,,,,"","",18.5,,,,
+ball,1,18.7,Delhi Capitals,Ashutosh Sharma,DA Miller,Kartik Tyagi,6,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,6,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,0,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,6,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,0,1,1,,,,,"","",19.4,,,,
+ball,1,19.5,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,0,1,1,,,,,"","",19.4,,,,
+ball,1,19.6,Delhi Capitals,DA Miller,Ashutosh Sharma,SR Dubey,0,0,,,,,,caught,DA Miller,19.4,,FH Allen,,
+ball,1,19.7,Delhi Capitals,T Stubbs,Ashutosh Sharma,SR Dubey,0,1,,,1,,,"","",19.5,,,,
+ball,1,19.8,Delhi Capitals,Ashutosh Sharma,T Stubbs,SR Dubey,1,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,0,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,0,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,1,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,4,0,,,,,,"","",0.4,,,,
+ball,2,0.5,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,0,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,0,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,0,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,4,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,0,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,0,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,2,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,6,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,4,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,0,0,,,,,,"","",2.3,,,,
+ball,2,2.4,Kolkata Knight Riders,FH Allen,AM Rahane,MA Starc,1,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,0,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Kolkata Knight Riders,AM Rahane,FH Allen,MA Starc,4,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Kolkata Knight Riders,FH Allen,AM Rahane,Auqib Nabi,0,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Kolkata Knight Riders,FH Allen,AM Rahane,Auqib Nabi,4,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Kolkata Knight Riders,FH Allen,AM Rahane,Auqib Nabi,0,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Kolkata Knight Riders,FH Allen,AM Rahane,Auqib Nabi,1,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,6,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Kolkata Knight Riders,AM Rahane,FH Allen,Auqib Nabi,6,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Kolkata Knight Riders,FH Allen,AM Rahane,L Ngidi,0,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Kolkata Knight Riders,FH Allen,AM Rahane,L Ngidi,0,0,,,,,,bowled,FH Allen,4.2,,,,
+ball,2,4.3,Kolkata Knight Riders,MK Pandey,AM Rahane,L Ngidi,0,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Kolkata Knight Riders,MK Pandey,AM Rahane,L Ngidi,0,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Kolkata Knight Riders,MK Pandey,AM Rahane,L Ngidi,0,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Kolkata Knight Riders,MK Pandey,AM Rahane,L Ngidi,4,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,1,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Kolkata Knight Riders,MK Pandey,AM Rahane,AR Patel,6,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Kolkata Knight Riders,MK Pandey,AM Rahane,AR Patel,0,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Kolkata Knight Riders,MK Pandey,AM Rahane,AR Patel,1,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,0,0,,,,,,"","",5.5,,,,
+ball,2,5.6,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,0,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Kolkata Knight Riders,MK Pandey,AM Rahane,M Tiwari,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Kolkata Knight Riders,AM Rahane,MK Pandey,M Tiwari,0,1,1,,,,,"","",6.2,,,,
+ball,2,6.3,Kolkata Knight Riders,AM Rahane,MK Pandey,M Tiwari,1,0,,,,,,"","",6.2,,,,
+ball,2,6.4,Kolkata Knight Riders,MK Pandey,AM Rahane,M Tiwari,0,0,,,,,,"","",6.3,,,,
+ball,2,6.5,Kolkata Knight Riders,MK Pandey,AM Rahane,M Tiwari,0,0,,,,,,"","",6.4,,,,
+ball,2,6.6,Kolkata Knight Riders,MK Pandey,AM Rahane,M Tiwari,0,1,1,,,,,"","",6.5,,,,
+ball,2,6.7,Kolkata Knight Riders,MK Pandey,AM Rahane,M Tiwari,4,0,,,,,,"","",6.5,,,,
+ball,2,6.8,Kolkata Knight Riders,MK Pandey,AM Rahane,M Tiwari,1,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Kolkata Knight Riders,MK Pandey,AM Rahane,AR Patel,6,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Kolkata Knight Riders,MK Pandey,AM Rahane,AR Patel,1,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,0,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,6,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,6,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Kolkata Knight Riders,AM Rahane,MK Pandey,AR Patel,2,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Kolkata Knight Riders,MK Pandey,AM Rahane,L Ngidi,1,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Kolkata Knight Riders,AM Rahane,MK Pandey,L Ngidi,1,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Kolkata Knight Riders,MK Pandey,AM Rahane,L Ngidi,0,0,,,,,,caught,MK Pandey,8.3,,MA Starc,,
+ball,2,8.4,Kolkata Knight Riders,C Green,AM Rahane,L Ngidi,1,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Kolkata Knight Riders,AM Rahane,C Green,L Ngidi,4,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Kolkata Knight Riders,AM Rahane,C Green,L Ngidi,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Kolkata Knight Riders,AM Rahane,C Green,Kuldeep Yadav,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Kolkata Knight Riders,C Green,AM Rahane,Kuldeep Yadav,1,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Kolkata Knight Riders,AM Rahane,C Green,Kuldeep Yadav,1,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Kolkata Knight Riders,C Green,AM Rahane,Kuldeep Yadav,0,0,,,,,,caught,C Green,9.4,,DA Miller,,
+ball,2,9.5,Kolkata Knight Riders,R Powell,AM Rahane,Kuldeep Yadav,1,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Kolkata Knight Riders,AM Rahane,R Powell,Kuldeep Yadav,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Kolkata Knight Riders,AM Rahane,R Powell,AR Patel,1,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Kolkata Knight Riders,R Powell,AM Rahane,AR Patel,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Kolkata Knight Riders,AM Rahane,R Powell,AR Patel,0,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Kolkata Knight Riders,AM Rahane,R Powell,AR Patel,0,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Kolkata Knight Riders,AM Rahane,R Powell,AR Patel,2,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Kolkata Knight Riders,AM Rahane,R Powell,AR Patel,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Kolkata Knight Riders,AM Rahane,R Powell,Kuldeep Yadav,4,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Kolkata Knight Riders,AM Rahane,R Powell,Kuldeep Yadav,1,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Kolkata Knight Riders,R Powell,AM Rahane,Kuldeep Yadav,0,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Kolkata Knight Riders,R Powell,AM Rahane,Kuldeep Yadav,4,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Kolkata Knight Riders,R Powell,AM Rahane,Kuldeep Yadav,1,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Kolkata Knight Riders,AM Rahane,R Powell,Kuldeep Yadav,2,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Kolkata Knight Riders,R Powell,AM Rahane,M Tiwari,6,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Kolkata Knight Riders,R Powell,AM Rahane,M Tiwari,0,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Kolkata Knight Riders,R Powell,AM Rahane,M Tiwari,1,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Kolkata Knight Riders,AM Rahane,R Powell,M Tiwari,1,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Kolkata Knight Riders,R Powell,AM Rahane,M Tiwari,1,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Kolkata Knight Riders,AM Rahane,R Powell,M Tiwari,0,1,1,,,,,"","",12.6,,,,
+ball,2,12.7,Kolkata Knight Riders,AM Rahane,R Powell,M Tiwari,1,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Kolkata Knight Riders,AM Rahane,R Powell,Kuldeep Yadav,2,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Kolkata Knight Riders,AM Rahane,R Powell,Kuldeep Yadav,0,0,,,,,,caught,AM Rahane,13.2,,DA Miller,,
+ball,2,13.3,Kolkata Knight Riders,RK Singh,R Powell,Kuldeep Yadav,0,0,,,,,,caught,RK Singh,13.3,,T Stubbs,,
+ball,2,13.4,Kolkata Knight Riders,T Dahiya,R Powell,Kuldeep Yadav,0,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Kolkata Knight Riders,T Dahiya,R Powell,Kuldeep Yadav,1,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Kolkata Knight Riders,R Powell,T Dahiya,Kuldeep Yadav,0,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Kolkata Knight Riders,T Dahiya,R Powell,AR Patel,0,0,,,,,,bowled,T Dahiya,14.1,,,,
+ball,2,14.2,Kolkata Knight Riders,AS Roy,R Powell,AR Patel,1,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Kolkata Knight Riders,R Powell,AS Roy,AR Patel,1,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Kolkata Knight Riders,AS Roy,R Powell,AR Patel,1,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Kolkata Knight Riders,R Powell,AS Roy,AR Patel,0,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Kolkata Knight Riders,R Powell,AS Roy,AR Patel,1,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Kolkata Knight Riders,R Powell,AS Roy,Kuldeep Yadav,2,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Kolkata Knight Riders,R Powell,AS Roy,Kuldeep Yadav,0,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Kolkata Knight Riders,R Powell,AS Roy,Kuldeep Yadav,0,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Kolkata Knight Riders,R Powell,AS Roy,Kuldeep Yadav,1,0,,,,,,"","",15.4,,,,
+ball,2,15.5,Kolkata Knight Riders,AS Roy,R Powell,Kuldeep Yadav,0,2,2,,,,,"","",15.5,,,,
+ball,2,15.6,Kolkata Knight Riders,R Powell,AS Roy,Kuldeep Yadav,0,0,,,,,,"","",15.5,,,,
+ball,2,15.7,Kolkata Knight Riders,R Powell,AS Roy,Kuldeep Yadav,4,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Kolkata Knight Riders,AS Roy,R Powell,L Ngidi,1,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Kolkata Knight Riders,R Powell,AS Roy,L Ngidi,1,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Kolkata Knight Riders,AS Roy,R Powell,L Ngidi,4,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Kolkata Knight Riders,AS Roy,R Powell,L Ngidi,0,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Kolkata Knight Riders,AS Roy,R Powell,L Ngidi,1,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Kolkata Knight Riders,R Powell,AS Roy,L Ngidi,4,0,,,,,,"","",16.6,,,,
+ball,2,17.1,Kolkata Knight Riders,AS Roy,R Powell,MA Starc,1,0,,,,,,run out,R Powell,17.1,,Sameer Rizvi,,
+ball,2,17.2,Kolkata Knight Riders,AS Roy,Kartik Tyagi,MA Starc,0,0,,,,,,caught and bowled,AS Roy,17.2,,,,
+ball,2,17.3,Kolkata Knight Riders,CV Varun,Kartik Tyagi,MA Starc,1,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Kolkata Knight Riders,Kartik Tyagi,CV Varun,MA Starc,0,0,,,,,,caught,Kartik Tyagi,17.4,,AR Patel,,
+ball,2,17.5,Kolkata Knight Riders,SR Dubey,CV Varun,MA Starc,0,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Kolkata Knight Riders,SR Dubey,CV Varun,MA Starc,4,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Kolkata Knight Riders,CV Varun,SR Dubey,L Ngidi,4,0,,,,,,"","",18.1,,,,
+ball,2,18.2,Kolkata Knight Riders,CV Varun,SR Dubey,L Ngidi,0,0,,,,,,"","",18.2,,,,
+ball,2,18.3,Kolkata Knight Riders,CV Varun,SR Dubey,L Ngidi,0,0,,,,,,"","",18.3,,,,
+ball,2,18.4,Kolkata Knight Riders,CV Varun,SR Dubey,L Ngidi,0,0,,,,,,caught,CV Varun,18.4,,AR Patel,,

@@ -1,0 +1,329 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Gujarat Titans
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/17
+info,event,Indian Premier League
+info,match_id,1529268
+info,match_type,T20
+info,overs,20
+info,match_number,25
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,bat
+info,player_of_match,Shubman Gill
+info,umpire,R Pandit
+info,umpire,UV Gandhe
+info,reserve_umpire,K Kelkar
+info,tv_umpire,J Madanagopal
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,181
+info,winner,Gujarat Titans
+info,winner_wickets,5
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,TL Seifert
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Gujarat Titans,M Prasidh Krishna
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,GD Phillips
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,M Shahrukh Khan
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,Ashok Sharma
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Mohammed Siraj
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Ashok Sharma,50c09020
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Buttler,99b75528
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,Kolkata Knight Riders,TL Seifert,AM Rahane,Mohammed Siraj,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Kolkata Knight Riders,TL Seifert,AM Rahane,Mohammed Siraj,4,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Kolkata Knight Riders,TL Seifert,AM Rahane,Mohammed Siraj,1,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Kolkata Knight Riders,AM Rahane,TL Seifert,Mohammed Siraj,0,0,,,,,,caught,AM Rahane,0.4,,K Rabada,,
+ball,1,0.5,Kolkata Knight Riders,A Raghuvanshi,TL Seifert,Mohammed Siraj,0,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Kolkata Knight Riders,A Raghuvanshi,TL Seifert,Mohammed Siraj,4,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Kolkata Knight Riders,TL Seifert,A Raghuvanshi,K Rabada,0,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Kolkata Knight Riders,TL Seifert,A Raghuvanshi,K Rabada,0,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Kolkata Knight Riders,TL Seifert,A Raghuvanshi,K Rabada,6,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Kolkata Knight Riders,TL Seifert,A Raghuvanshi,K Rabada,1,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Kolkata Knight Riders,A Raghuvanshi,TL Seifert,K Rabada,4,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Kolkata Knight Riders,A Raghuvanshi,TL Seifert,K Rabada,0,1,1,,,,,"","",1.6,,,,
+ball,1,1.7,Kolkata Knight Riders,A Raghuvanshi,TL Seifert,K Rabada,0,0,,,,,,caught,A Raghuvanshi,1.6,,JC Buttler,,
+ball,1,2.1,Kolkata Knight Riders,TL Seifert,C Green,Mohammed Siraj,0,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Kolkata Knight Riders,TL Seifert,C Green,Mohammed Siraj,0,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Kolkata Knight Riders,TL Seifert,C Green,Mohammed Siraj,1,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Kolkata Knight Riders,C Green,TL Seifert,Mohammed Siraj,0,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Kolkata Knight Riders,C Green,TL Seifert,Mohammed Siraj,2,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Kolkata Knight Riders,C Green,TL Seifert,Mohammed Siraj,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Kolkata Knight Riders,TL Seifert,C Green,K Rabada,4,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Kolkata Knight Riders,TL Seifert,C Green,K Rabada,1,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Kolkata Knight Riders,C Green,TL Seifert,K Rabada,0,1,,,,1,,"","",3.3,,,,
+ball,1,3.4,Kolkata Knight Riders,TL Seifert,C Green,K Rabada,1,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Kolkata Knight Riders,C Green,TL Seifert,K Rabada,1,0,,,,,,"","",3.5,,,,
+ball,1,3.6,Kolkata Knight Riders,TL Seifert,C Green,K Rabada,0,0,,,,,,caught,TL Seifert,3.6,,GD Phillips,,
+ball,1,4.1,Kolkata Knight Riders,C Green,R Powell,Mohammed Siraj,1,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Kolkata Knight Riders,R Powell,C Green,Mohammed Siraj,0,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Kolkata Knight Riders,R Powell,C Green,Mohammed Siraj,1,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Kolkata Knight Riders,C Green,R Powell,Mohammed Siraj,0,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Kolkata Knight Riders,C Green,R Powell,Mohammed Siraj,0,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Kolkata Knight Riders,C Green,R Powell,Mohammed Siraj,2,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Kolkata Knight Riders,R Powell,C Green,K Rabada,0,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Kolkata Knight Riders,R Powell,C Green,K Rabada,0,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Kolkata Knight Riders,R Powell,C Green,K Rabada,1,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Kolkata Knight Riders,C Green,R Powell,K Rabada,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Kolkata Knight Riders,C Green,R Powell,K Rabada,0,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Kolkata Knight Riders,C Green,R Powell,K Rabada,0,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,1,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Kolkata Knight Riders,C Green,R Powell,M Prasidh Krishna,0,1,1,,,,,"","",6.2,,,,
+ball,1,6.3,Kolkata Knight Riders,C Green,R Powell,M Prasidh Krishna,1,0,,,,,,"","",6.2,,,,
+ball,1,6.4,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,0,0,,,,,,"","",6.3,,,,
+ball,1,6.5,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,0,0,,,,,,"","",6.4,,,,
+ball,1,6.6,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,6,0,,,,,,"","",6.5,,,,
+ball,1,6.7,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,2,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,1,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,0,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,0,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,6,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,4,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,0,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Kolkata Knight Riders,C Green,R Powell,M Prasidh Krishna,4,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Kolkata Knight Riders,C Green,R Powell,M Prasidh Krishna,1,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,0,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Kolkata Knight Riders,R Powell,C Green,M Prasidh Krishna,1,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Kolkata Knight Riders,C Green,R Powell,M Prasidh Krishna,2,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Kolkata Knight Riders,C Green,R Powell,M Prasidh Krishna,2,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Kolkata Knight Riders,R Powell,C Green,Rashid Khan,4,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Kolkata Knight Riders,R Powell,C Green,Rashid Khan,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Kolkata Knight Riders,C Green,R Powell,Rashid Khan,0,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Kolkata Knight Riders,C Green,R Powell,Rashid Khan,0,1,1,,,,,"","",9.4,,,,
+ball,1,9.5,Kolkata Knight Riders,C Green,R Powell,Rashid Khan,0,0,,,,,,"","",9.4,,,,
+ball,1,9.6,Kolkata Knight Riders,C Green,R Powell,Rashid Khan,4,0,,,,,,"","",9.5,,,,
+ball,1,9.7,Kolkata Knight Riders,C Green,R Powell,Rashid Khan,1,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,0,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,0,1,,1,,,,"","",10.2,,,,
+ball,1,10.3,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,0,0,,,,,,"","",10.2,,,,
+ball,1,10.4,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,4,0,,,,,,"","",10.3,,,,
+ball,1,10.5,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,0,0,,,,,,"","",10.4,,,,
+ball,1,10.6,Kolkata Knight Riders,C Green,R Powell,Ashok Sharma,1,0,,,,,,"","",10.5,,,,
+ball,1,10.7,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,0,1,1,,,,,"","",10.6,,,,
+ball,1,10.8,Kolkata Knight Riders,R Powell,C Green,Ashok Sharma,0,0,,,,,,caught,R Powell,10.6,,Mohammed Siraj,,
+ball,1,11.1,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,0,1,,,,1,,"","",11.1,,,,
+ball,1,11.2,Kolkata Knight Riders,AS Roy,C Green,Rashid Khan,0,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Kolkata Knight Riders,AS Roy,C Green,Rashid Khan,4,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Kolkata Knight Riders,AS Roy,C Green,Rashid Khan,1,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,6,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,4,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Kolkata Knight Riders,AS Roy,C Green,Ashok Sharma,2,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Kolkata Knight Riders,AS Roy,C Green,Ashok Sharma,1,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Kolkata Knight Riders,C Green,AS Roy,Ashok Sharma,6,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Kolkata Knight Riders,C Green,AS Roy,Ashok Sharma,0,1,1,,,,,"","",12.4,,,,
+ball,1,12.5,Kolkata Knight Riders,C Green,AS Roy,Ashok Sharma,6,0,,,,,,"","",12.4,,,,
+ball,1,12.6,Kolkata Knight Riders,C Green,AS Roy,Ashok Sharma,2,0,,,,,,"","",12.5,,,,
+ball,1,12.7,Kolkata Knight Riders,C Green,AS Roy,Ashok Sharma,1,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,6,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,4,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,4,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,0,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,2,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Kolkata Knight Riders,C Green,AS Roy,Rashid Khan,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Kolkata Knight Riders,C Green,AS Roy,M Prasidh Krishna,1,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Kolkata Knight Riders,AS Roy,C Green,M Prasidh Krishna,1,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Kolkata Knight Riders,C Green,AS Roy,M Prasidh Krishna,4,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Kolkata Knight Riders,C Green,AS Roy,M Prasidh Krishna,0,1,1,,,,,"","",14.4,,,,
+ball,1,14.5,Kolkata Knight Riders,C Green,AS Roy,M Prasidh Krishna,1,0,,,,,,"","",14.4,,,,
+ball,1,14.6,Kolkata Knight Riders,AS Roy,C Green,M Prasidh Krishna,0,0,,,,,,caught,AS Roy,14.5,,JC Buttler,,
+ball,1,14.7,Kolkata Knight Riders,RK Singh,C Green,M Prasidh Krishna,1,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Kolkata Knight Riders,RK Singh,C Green,K Rabada,0,0,,,,,,caught,RK Singh,15.1,,JC Buttler,,
+ball,1,15.2,Kolkata Knight Riders,Ramandeep Singh,C Green,K Rabada,0,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Kolkata Knight Riders,Ramandeep Singh,C Green,K Rabada,6,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Kolkata Knight Riders,Ramandeep Singh,C Green,K Rabada,0,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Kolkata Knight Riders,Ramandeep Singh,C Green,K Rabada,2,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Kolkata Knight Riders,Ramandeep Singh,C Green,K Rabada,1,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Kolkata Knight Riders,Ramandeep Singh,C Green,Ashok Sharma,4,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Kolkata Knight Riders,Ramandeep Singh,C Green,Ashok Sharma,4,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Kolkata Knight Riders,Ramandeep Singh,C Green,Ashok Sharma,0,0,,,,,,caught,Ramandeep Singh,16.3,,Mohammed Siraj,,
+ball,1,16.4,Kolkata Knight Riders,SP Narine,C Green,Ashok Sharma,0,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Kolkata Knight Riders,SP Narine,C Green,Ashok Sharma,0,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Kolkata Knight Riders,SP Narine,C Green,Ashok Sharma,0,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Kolkata Knight Riders,C Green,SP Narine,Mohammed Siraj,1,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Kolkata Knight Riders,SP Narine,C Green,Mohammed Siraj,0,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Kolkata Knight Riders,SP Narine,C Green,Mohammed Siraj,0,0,,,,,,caught,SP Narine,17.3,,GD Phillips,,
+ball,1,17.4,Kolkata Knight Riders,Kartik Tyagi,C Green,Mohammed Siraj,0,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Kolkata Knight Riders,Kartik Tyagi,C Green,Mohammed Siraj,0,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Kolkata Knight Riders,Kartik Tyagi,C Green,Mohammed Siraj,6,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Kolkata Knight Riders,C Green,Kartik Tyagi,M Prasidh Krishna,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Kolkata Knight Riders,Kartik Tyagi,C Green,M Prasidh Krishna,0,0,,,,,,run out,Kartik Tyagi,18.2,,M Prasidh Krishna,JC Buttler,
+ball,1,18.3,Kolkata Knight Riders,C Green,VG Arora,M Prasidh Krishna,0,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Kolkata Knight Riders,C Green,VG Arora,M Prasidh Krishna,0,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Kolkata Knight Riders,C Green,VG Arora,M Prasidh Krishna,0,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Kolkata Knight Riders,C Green,VG Arora,M Prasidh Krishna,1,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Kolkata Knight Riders,C Green,VG Arora,Rashid Khan,0,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Kolkata Knight Riders,C Green,VG Arora,Rashid Khan,0,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Kolkata Knight Riders,C Green,VG Arora,Rashid Khan,1,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Kolkata Knight Riders,VG Arora,C Green,Rashid Khan,0,1,,,,1,,"","",19.4,,,,
+ball,1,19.5,Kolkata Knight Riders,C Green,VG Arora,Rashid Khan,0,4,,,4,,,"","",19.5,,,,
+ball,1,19.6,Kolkata Knight Riders,C Green,VG Arora,Rashid Khan,0,0,,,,,,caught,C Green,19.6,,JC Buttler,,
+ball,2,0.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,VG Arora,0,1,,,,1,,"","",0.1,,,,
+ball,2,0.2,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,0,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,2,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,4,0,,,,,,"","",0.4,,,,
+ball,2,0.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,1,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Gujarat Titans,B Sai Sudharsan,Shubman Gill,VG Arora,1,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Gujarat Titans,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,0,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Gujarat Titans,B Sai Sudharsan,Shubman Gill,Kartik Tyagi,3,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Gujarat Titans,Shubman Gill,B Sai Sudharsan,Kartik Tyagi,0,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,Kartik Tyagi,4,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Gujarat Titans,Shubman Gill,B Sai Sudharsan,Kartik Tyagi,4,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,AS Roy,1,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Gujarat Titans,Shubman Gill,B Sai Sudharsan,AS Roy,6,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Gujarat Titans,Shubman Gill,B Sai Sudharsan,AS Roy,1,0,,,,,,"","",2.3,,,,
+ball,2,2.4,Gujarat Titans,B Sai Sudharsan,Shubman Gill,AS Roy,6,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Gujarat Titans,B Sai Sudharsan,Shubman Gill,AS Roy,0,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Gujarat Titans,B Sai Sudharsan,Shubman Gill,AS Roy,6,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Gujarat Titans,Shubman Gill,B Sai Sudharsan,SP Narine,1,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Gujarat Titans,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Gujarat Titans,B Sai Sudharsan,Shubman Gill,SP Narine,4,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Gujarat Titans,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Gujarat Titans,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Gujarat Titans,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,0,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,6,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,1,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Gujarat Titans,B Sai Sudharsan,Shubman Gill,VG Arora,1,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,0,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Gujarat Titans,Shubman Gill,B Sai Sudharsan,VG Arora,4,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,SP Narine,0,0,,,,,,caught,B Sai Sudharsan,5.1,,Kartik Tyagi,,
+ball,2,5.2,Gujarat Titans,JC Buttler,Shubman Gill,SP Narine,4,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Gujarat Titans,JC Buttler,Shubman Gill,SP Narine,0,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Gujarat Titans,JC Buttler,Shubman Gill,SP Narine,6,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Gujarat Titans,JC Buttler,Shubman Gill,SP Narine,0,0,,,,,,"","",5.5,,,,
+ball,2,5.6,Gujarat Titans,JC Buttler,Shubman Gill,SP Narine,4,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Gujarat Titans,Shubman Gill,JC Buttler,AS Roy,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Gujarat Titans,JC Buttler,Shubman Gill,AS Roy,1,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Gujarat Titans,Shubman Gill,JC Buttler,AS Roy,4,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Gujarat Titans,Shubman Gill,JC Buttler,AS Roy,1,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Gujarat Titans,JC Buttler,Shubman Gill,AS Roy,1,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Gujarat Titans,Shubman Gill,JC Buttler,AS Roy,4,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Gujarat Titans,JC Buttler,Shubman Gill,CV Varun,6,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Gujarat Titans,JC Buttler,Shubman Gill,CV Varun,0,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Gujarat Titans,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Gujarat Titans,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Gujarat Titans,JC Buttler,Shubman Gill,CV Varun,1,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Gujarat Titans,Shubman Gill,JC Buttler,CV Varun,1,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Gujarat Titans,Shubman Gill,JC Buttler,Kartik Tyagi,0,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Gujarat Titans,Shubman Gill,JC Buttler,Kartik Tyagi,0,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Gujarat Titans,Shubman Gill,JC Buttler,Kartik Tyagi,1,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Gujarat Titans,JC Buttler,Shubman Gill,Kartik Tyagi,0,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Gujarat Titans,JC Buttler,Shubman Gill,Kartik Tyagi,0,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Gujarat Titans,JC Buttler,Shubman Gill,Kartik Tyagi,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Gujarat Titans,JC Buttler,Shubman Gill,CV Varun,0,0,,,,,,caught,JC Buttler,9.1,,C Green,,
+ball,2,9.2,Gujarat Titans,Washington Sundar,Shubman Gill,CV Varun,0,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Gujarat Titans,Washington Sundar,Shubman Gill,CV Varun,1,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Gujarat Titans,Washington Sundar,Shubman Gill,CV Varun,1,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Gujarat Titans,Washington Sundar,Shubman Gill,SP Narine,0,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Gujarat Titans,Washington Sundar,Shubman Gill,SP Narine,1,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,2,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,0,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,2,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,2,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,4,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,0,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,6,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Gujarat Titans,Washington Sundar,Shubman Gill,SP Narine,1,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,1,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Gujarat Titans,Washington Sundar,Shubman Gill,SP Narine,1,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,0,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Gujarat Titans,Shubman Gill,Washington Sundar,SP Narine,0,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Gujarat Titans,Washington Sundar,Shubman Gill,Kartik Tyagi,2,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Gujarat Titans,Washington Sundar,Shubman Gill,Kartik Tyagi,0,1,,,,1,,"","",13.2,,,,
+ball,2,13.3,Gujarat Titans,Shubman Gill,Washington Sundar,Kartik Tyagi,6,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Gujarat Titans,Shubman Gill,Washington Sundar,Kartik Tyagi,1,0,,,,,,"","",13.4,,,,
+ball,2,13.5,Gujarat Titans,Washington Sundar,Shubman Gill,Kartik Tyagi,4,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Gujarat Titans,Washington Sundar,Shubman Gill,Kartik Tyagi,0,1,1,,,,,"","",13.6,,,,
+ball,2,13.7,Gujarat Titans,Washington Sundar,Shubman Gill,Kartik Tyagi,1,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Gujarat Titans,Washington Sundar,Shubman Gill,CV Varun,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Gujarat Titans,Shubman Gill,Washington Sundar,CV Varun,1,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Gujarat Titans,Washington Sundar,Shubman Gill,CV Varun,0,0,,,,,,caught,Washington Sundar,14.3,,Kartik Tyagi,,
+ball,2,14.4,Gujarat Titans,GD Phillips,Shubman Gill,CV Varun,1,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Gujarat Titans,Shubman Gill,GD Phillips,CV Varun,1,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Gujarat Titans,GD Phillips,Shubman Gill,CV Varun,1,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Gujarat Titans,GD Phillips,Shubman Gill,AS Roy,0,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Gujarat Titans,GD Phillips,Shubman Gill,AS Roy,0,1,1,,,,,"","",15.2,,,,
+ball,2,15.3,Gujarat Titans,GD Phillips,Shubman Gill,AS Roy,0,0,,,,,,"","",15.2,,,,
+ball,2,15.4,Gujarat Titans,GD Phillips,Shubman Gill,AS Roy,1,0,,,,,,"","",15.3,,,,
+ball,2,15.5,Gujarat Titans,Shubman Gill,GD Phillips,AS Roy,1,0,,,,,,"","",15.4,,,,
+ball,2,15.6,Gujarat Titans,GD Phillips,Shubman Gill,AS Roy,1,0,,,,,,"","",15.5,,,,
+ball,2,15.7,Gujarat Titans,Shubman Gill,GD Phillips,AS Roy,1,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Gujarat Titans,Shubman Gill,GD Phillips,VG Arora,0,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Gujarat Titans,Shubman Gill,GD Phillips,VG Arora,4,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Gujarat Titans,Shubman Gill,GD Phillips,VG Arora,1,0,,,,,,"","",16.3,,,,
+ball,2,16.4,Gujarat Titans,GD Phillips,Shubman Gill,VG Arora,2,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Gujarat Titans,GD Phillips,Shubman Gill,VG Arora,1,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Gujarat Titans,Shubman Gill,GD Phillips,VG Arora,0,1,1,,,,,"","",16.6,,,,
+ball,2,16.7,Gujarat Titans,Shubman Gill,GD Phillips,VG Arora,0,0,,,,,,caught,Shubman Gill,16.6,,C Green,,
+ball,2,17.1,Gujarat Titans,GD Phillips,R Tewatia,Kartik Tyagi,1,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Gujarat Titans,R Tewatia,GD Phillips,Kartik Tyagi,1,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Gujarat Titans,GD Phillips,R Tewatia,Kartik Tyagi,4,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Gujarat Titans,GD Phillips,R Tewatia,Kartik Tyagi,4,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Gujarat Titans,GD Phillips,R Tewatia,Kartik Tyagi,1,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Gujarat Titans,R Tewatia,GD Phillips,Kartik Tyagi,1,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Gujarat Titans,R Tewatia,GD Phillips,VG Arora,2,0,,,,,,"","",18.1,,,,
+ball,2,18.2,Gujarat Titans,R Tewatia,GD Phillips,VG Arora,1,0,,,,,,"","",18.2,,,,
+ball,2,18.3,Gujarat Titans,GD Phillips,R Tewatia,VG Arora,0,0,,,,,,"","",18.3,,,,
+ball,2,18.4,Gujarat Titans,GD Phillips,R Tewatia,VG Arora,1,0,,,,,,"","",18.4,,,,
+ball,2,18.5,Gujarat Titans,R Tewatia,GD Phillips,VG Arora,1,0,,,,,,"","",18.5,,,,
+ball,2,18.6,Gujarat Titans,GD Phillips,R Tewatia,VG Arora,1,0,,,,,,"","",18.6,,,,
+ball,2,19.1,Gujarat Titans,GD Phillips,R Tewatia,Ramandeep Singh,0,1,1,,,,,"","",19.1,,,,
+ball,2,19.2,Gujarat Titans,GD Phillips,R Tewatia,Ramandeep Singh,0,0,,,,,,caught,GD Phillips,19.1,,RK Singh,,
+ball,2,19.3,Gujarat Titans,M Shahrukh Khan,R Tewatia,Ramandeep Singh,1,0,,,,,,"","",19.2,,,,
+ball,2,19.4,Gujarat Titans,R Tewatia,M Shahrukh Khan,Ramandeep Singh,1,0,,,,,,"","",19.3,,,,
+ball,2,19.5,Gujarat Titans,M Shahrukh Khan,R Tewatia,Ramandeep Singh,2,0,,,,,,"","",19.4,,,,

@@ -1,0 +1,102 @@
+======================================================================
+SCRIPT 2: Building Match Over States and Transitions
+======================================================================
+Loaded 1195 matches from /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/chases.csv
+Saved 22565 over-state observations to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/over_states.csv
+Saved 21370 state transitions to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/transitions.csv
+
+--- Sanity Checks ---
+Total matches processed: 1195
+Matches with negative balls_left: 0 (PASS: 0 expected)
+Absorption outcome vs chase_won mismatches: 0 (PASS: 0 expected)
+Every match has exactly one absorbing state: True (PASS: True expected)
+
+--- Sample Hand-Traced Chases ---
+
+Match ID: 1082591 (Season 2017) | Target: 208 | Final: 172/10 in 118 legal balls | Result: LOSS
+  Over  1: State=W_Low_P2   | Runs= 11, Wkts=0, Needed=197, CRR=11.00, RRR=10.37, Press=-0.63
+  Over  2: State=W_Low_P5   | Runs= 12, Wkts=0, Needed=196, CRR= 6.00, RRR=10.89, Press=+4.89
+  Over  3: State=W_Low_P3   | Runs= 28, Wkts=0, Needed=180, CRR= 9.33, RRR=10.59, Press=+1.25
+  Over  4: State=W_Low_P2   | Runs= 43, Wkts=0, Needed=165, CRR=10.75, RRR=10.31, Press=-0.44
+  Over  5: State=W_Low_P3   | Runs= 48, Wkts=0, Needed=160, CRR= 9.60, RRR=10.67, Press=+1.07
+  Over  6: State=W_Low_P4   | Runs= 54, Wkts=1, Needed=154, CRR= 9.00, RRR=11.00, Press=+2.00
+  Over  7: State=W_Low_P4   | Runs= 61, Wkts=2, Needed=147, CRR= 8.71, RRR=11.31, Press=+2.59
+  Over  8: State=W_Low_P3   | Runs= 74, Wkts=2, Needed=134, CRR= 9.25, RRR=11.17, Press=+1.92
+  Over  9: State=W_Low_P3   | Runs= 85, Wkts=2, Needed=123, CRR= 9.44, RRR=11.18, Press=+1.74
+  Over 10: State=W_Low_P3   | Runs= 98, Wkts=2, Needed=110, CRR= 9.80, RRR=11.00, Press=+1.20
+  Over 11: State=W_Low_P3   | Runs=111, Wkts=2, Needed= 97, CRR=10.09, RRR=10.78, Press=+0.69
+  Over 12: State=W_Mid_P3   | Runs=118, Wkts=3, Needed= 90, CRR= 9.83, RRR=11.25, Press=+1.42
+  Over 13: State=W_Mid_P4   | Runs=126, Wkts=4, Needed= 82, CRR= 9.69, RRR=11.71, Press=+2.02
+  Over 14: State=W_Mid_P4   | Runs=130, Wkts=5, Needed= 78, CRR= 9.29, RRR=13.00, Press=+3.71
+  Over 15: State=W_Mid_P5   | Runs=139, Wkts=5, Needed= 69, CRR= 9.27, RRR=13.80, Press=+4.53
+  Over 16: State=W_Mid_P5   | Runs=151, Wkts=5, Needed= 57, CRR= 9.44, RRR=14.25, Press=+4.81
+  Over 17: State=W_High_P5  | Runs=154, Wkts=6, Needed= 54, CRR= 9.06, RRR=18.00, Press=+8.94
+  Over 18: State=W_High_P5  | Runs=156, Wkts=8, Needed= 52, CRR= 8.67, RRR=26.00, Press=+17.33
+  Over 19: State=W_High_P5  | Runs=165, Wkts=9, Needed= 43, CRR= 8.68, RRR=43.00, Press=+34.32
+  -> End (Over 20): State=LOSS, Runs=172, Wkts=10, BallsLeft=2, RunsNeeded=36
+
+Match ID: 1529271 (Season 2026) | Target: 156 | Final: 161/6 in 118 legal balls | Result: WIN
+  Over  1: State=W_Low_P4   | Runs=  5, Wkts=1, Needed=151, CRR= 5.00, RRR= 7.95, Press=+2.95
+  Over  2: State=W_Low_P3   | Runs= 15, Wkts=2, Needed=141, CRR= 7.50, RRR= 7.83, Press=+0.33
+  Over  3: State=W_Low_P3   | Runs= 21, Wkts=2, Needed=135, CRR= 7.00, RRR= 7.94, Press=+0.94
+  Over  4: State=W_Low_P3   | Runs= 31, Wkts=2, Needed=125, CRR= 7.75, RRR= 7.81, Press=+0.06
+  Over  5: State=W_Mid_P3   | Runs= 39, Wkts=3, Needed=117, CRR= 7.80, RRR= 7.80, Press=+0.00
+  Over  6: State=W_Mid_P2   | Runs= 51, Wkts=3, Needed=105, CRR= 8.50, RRR= 7.50, Press=-1.00
+  Over  7: State=W_Mid_P3   | Runs= 52, Wkts=4, Needed=104, CRR= 7.43, RRR= 8.00, Press=+0.57
+  Over  8: State=W_Mid_P3   | Runs= 59, Wkts=4, Needed= 97, CRR= 7.38, RRR= 8.08, Press=+0.71
+  Over  9: State=W_Mid_P3   | Runs= 63, Wkts=4, Needed= 93, CRR= 7.00, RRR= 8.46, Press=+1.46
+  Over 10: State=W_Mid_P3   | Runs= 70, Wkts=4, Needed= 86, CRR= 7.00, RRR= 8.60, Press=+1.60
+  Over 11: State=W_Mid_P4   | Runs= 73, Wkts=5, Needed= 83, CRR= 6.64, RRR= 9.22, Press=+2.59
+  Over 12: State=W_Mid_P4   | Runs= 76, Wkts=5, Needed= 80, CRR= 6.33, RRR=10.00, Press=+3.67
+  Over 13: State=W_Mid_P4   | Runs= 84, Wkts=5, Needed= 72, CRR= 6.46, RRR=10.29, Press=+3.82
+  Over 14: State=W_High_P5  | Runs= 87, Wkts=6, Needed= 69, CRR= 6.21, RRR=11.50, Press=+5.29
+  Over 15: State=W_High_P5  | Runs= 97, Wkts=6, Needed= 59, CRR= 6.47, RRR=11.80, Press=+5.33
+  Over 16: State=W_High_P4  | Runs=116, Wkts=6, Needed= 40, CRR= 7.25, RRR=10.00, Press=+2.75
+  Over 17: State=W_High_P3  | Runs=128, Wkts=6, Needed= 28, CRR= 7.53, RRR= 9.33, Press=+1.80
+  Over 18: State=W_High_P4  | Runs=135, Wkts=6, Needed= 21, CRR= 7.50, RRR=10.50, Press=+3.00
+  Over 19: State=W_High_P3  | Runs=147, Wkts=6, Needed=  9, CRR= 7.74, RRR= 9.00, Press=+1.26
+  -> End (Over 20): State=WIN, Runs=161, Wkts=6, BallsLeft=2, RunsNeeded=0
+
+Match ID: 981019 (Season 2016) | Target: 209 | Final: 200/7 in 120 legal balls | Result: LOSS
+  Over  1: State=W_Low_P5   | Runs=  5, Wkts=0, Needed=204, CRR= 5.00, RRR=10.74, Press=+5.74
+  Over  2: State=W_Low_P3   | Runs= 18, Wkts=0, Needed=191, CRR= 9.00, RRR=10.61, Press=+1.61
+  Over  3: State=W_Low_P4   | Runs= 26, Wkts=0, Needed=183, CRR= 8.67, RRR=10.77, Press=+2.10
+  Over  4: State=W_Low_P2   | Runs= 42, Wkts=0, Needed=167, CRR=10.50, RRR=10.44, Press=-0.06
+  Over  5: State=W_Low_P2   | Runs= 55, Wkts=0, Needed=154, CRR=11.00, RRR=10.27, Press=-0.73
+  Over  6: State=W_Low_P3   | Runs= 59, Wkts=0, Needed=150, CRR= 9.83, RRR=10.71, Press=+0.88
+  Over  7: State=W_Low_P3   | Runs= 69, Wkts=0, Needed=140, CRR= 9.86, RRR=10.77, Press=+0.91
+  Over  8: State=W_Low_P3   | Runs= 79, Wkts=0, Needed=130, CRR= 9.88, RRR=10.83, Press=+0.96
+  Over  9: State=W_Low_P2   | Runs=100, Wkts=0, Needed=109, CRR=11.11, RRR= 9.91, Press=-1.20
+  Over 10: State=W_Low_P2   | Runs=112, Wkts=0, Needed= 97, CRR=11.20, RRR= 9.70, Press=-1.50
+  Over 11: State=W_Low_P2   | Runs=120, Wkts=1, Needed= 89, CRR=10.91, RRR= 9.89, Press=-1.02
+  Over 12: State=W_Low_P2   | Runs=129, Wkts=1, Needed= 80, CRR=10.75, RRR=10.00, Press=-0.75
+  Over 13: State=W_Low_P2   | Runs=141, Wkts=2, Needed= 68, CRR=10.85, RRR= 9.71, Press=-1.13
+  Over 14: State=W_Mid_P2   | Runs=149, Wkts=3, Needed= 60, CRR=10.64, RRR=10.00, Press=-0.64
+  Over 15: State=W_Mid_P2   | Runs=158, Wkts=3, Needed= 51, CRR=10.53, RRR=10.20, Press=-0.33
+  Over 16: State=W_Mid_P3   | Runs=162, Wkts=4, Needed= 47, CRR=10.12, RRR=11.75, Press=+1.62
+  Over 17: State=W_Mid_P4   | Runs=172, Wkts=5, Needed= 37, CRR=10.12, RRR=12.33, Press=+2.22
+  Over 18: State=W_Mid_P5   | Runs=179, Wkts=5, Needed= 30, CRR= 9.94, RRR=15.00, Press=+5.06
+  Over 19: State=W_High_P5  | Runs=191, Wkts=6, Needed= 18, CRR=10.05, RRR=18.00, Press=+7.95
+  -> End (Over 20): State=LOSS, Runs=200, Wkts=7, BallsLeft=0, RunsNeeded=9
+
+--- Observations and Outgoing Transitions Per State ---
+    State  Observations  Outgoing Transitions  To Transient  To WIN  To LOSS
+ W_Low_P1          2851                  2851          2697     153        1
+ W_Low_P2          2586                  2586          2582       4        0
+ W_Low_P3          3043                  3043          3041       2        0
+ W_Low_P4          2020                  2020          2019       1        0
+ W_Low_P5          1650                  1650          1648       0        2
+ W_Mid_P1           972                   972           697     274        1
+ W_Mid_P2           722                   722           673      48        1
+ W_Mid_P3          1299                  1299          1270      24        5
+ W_Mid_P4          1456                  1456          1439      14        3
+ W_Mid_P5          2676                  2676          2569      26       81
+W_High_P1            79                    79            25      47        7
+W_High_P2            62                    62            41      21        0
+W_High_P3           120                   120           103      10        7
+W_High_P4           194                   194           170       8       16
+W_High_P5          1640                  1640          1201      18      421
+
+--- State Sparsity Check (< 30 Outgoing Transitions) ---
+All 15 transient states have >= 30 outgoing transitions. No merge required!
+======================================================================

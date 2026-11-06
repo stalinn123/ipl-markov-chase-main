@@ -1,0 +1,28 @@
+======================================================================
+SCRIPT 6: Out-of-Sample Model Validation & Baseline Comparison
+======================================================================
+Training split: Season <= 2022 (16365 observations across 913 matches)
+Testing split:  Season >= 2023 (5005 observations across 282 matches)
+
+Trained Logistic Regression baseline with features: ['wickets', 'CRR', 'RRR', 'runs_needed', 'balls_left']
+
+--- Overall Out-of-Sample Test Set Results ---
+Metric          | Markov Model    | Logistic Regression
+-------------------------------------------------------
+Brier Score     | 0.1711          | 0.1431            
+Log-Loss        | 0.5159          | 0.4365            
+Accuracy (0.5)  | 75.22         % | 79.02            %
+
+Saved detailed by-over validation results to: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/data/processed/validation_results.csv
+
+--- By-Over Performance Breakdown (Sample Overs) ---
+ over  observations  Markov_Brier  LR_Brier  Markov_Acc  LR_Acc
+    1           282        0.2383    0.2312      0.6135  0.6560
+    6           282        0.2027    0.1602      0.7092  0.7589
+   10           278        0.1714    0.1408      0.7734  0.7914
+   15           264        0.1281    0.0971      0.7917  0.8788
+   19           156        0.0813    0.0758      0.9038  0.8910
+Saved calibration plot: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/figures/validation_calibration.png
+Saved Brier by over plot: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/figures/validation_brier_by_over.png
+Saved chase trajectories plot: /tmp/claude-0/-home-claude/2623e0a2-42ba-576a-9cca-29480f86490f/scratchpad/repo/ipl-markov-chase-main/figures/validation_chase_traces.png
+======================================================================

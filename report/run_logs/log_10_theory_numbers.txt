@@ -1,0 +1,29 @@
+==========================================================================
+SCRIPT 10: Theory checks (train 2008-22)
+==========================================================================
+n= 2: max|P^n[T,T]-Q^n| = 0.00e+00, max|P^n[T,A]-(sum Q^m)R| = 1.11e-16
+n= 5: max|P^n[T,T]-Q^n| = 0.00e+00, max|P^n[T,A]-(sum Q^m)R| = 1.11e-16
+n=10: max|P^n[T,T]-Q^n| = 0.00e+00, max|P^n[T,A]-(sum Q^m)R| = 2.22e-16
+Chapman-Kolmogorov P^7 = P^3 P^4: max error 2.22e-16
+
+Worked example, start in W_Low_P3 (homogeneous chain):
+  n= 1: P(WIN)=0.001 P(LOSS)=0.000 P(transient)=0.999  most likely transient: W_Low_P3 0.544, W_Low_P2 0.186
+  n= 2: P(WIN)=0.005 P(LOSS)=0.000 P(transient)=0.994  most likely transient: W_Low_P3 0.376, W_Low_P2 0.208
+  n= 5: P(WIN)=0.054 P(LOSS)=0.011 P(transient)=0.935  most likely transient: W_Low_P3 0.206, W_Low_P2 0.157
+  n=10: P(WIN)=0.190 P(LOSS)=0.075 P(transient)=0.736  most likely transient: W_Low_P3 0.110, W_Low_P1 0.098
+  n=20: P(WIN)=0.403 P(LOSS)=0.246 P(transient)=0.351  most likely transient: W_Mid_P5 0.059, W_High_P5 0.044
+  n=50: P(WIN)=0.557 P(LOSS)=0.421 P(transient)=0.021  most likely transient: W_Mid_P5 0.004, W_High_P5 0.004
+  B(W_Low_P3) = 0.5666 (WIN), 0.4334 (LOSS);  t = 18.78 overs, sd = 11.90
+  N[W_Low_P3, W_Low_P3] = 4.38 = expected visits (incl. start) to W_Low_P3
+
+Eigenvalues of P equal to 1: 2 (multiplicity) -> stationary space is 2-dimensional
+Spectral radius of Q: 0.9043 -> P(still in play after n overs) <= C * 0.904^n
+  pi = (0,..,0,0.0,1.0): max|pi P - pi| = 0.0e+00  (stationary)
+  pi = (0,..,0,0.3,0.7): max|pi P - pi| = 0.0e+00  (stationary)
+  pi = (0,..,0,1.0,0.0): max|pi P - pi| = 0.0e+00  (stationary)
+  lim pi_0 P^n (pi_0 = over-1 distribution): WIN 0.5487, LOSS 0.4513, transient 4.5e-22; equals pi_0 B = 0.5487
+  lim from W_High_P5: WIN 0.0637, LOSS 0.9363 -> limit depends on start: no unique stationary law
+
+Time-inhomogeneous chain: P_1 P_2 ... P_19 restricted to transient columns: max = 0.0e+00  -> absorption by end of over 20 is certain (finite horizon)
+From W_Low_P3 at end of over 10: P(WIN) = 0.6514 via product P_10...P_19 (= backward-recursion V_10 = 0.6514)
+==========================================================================

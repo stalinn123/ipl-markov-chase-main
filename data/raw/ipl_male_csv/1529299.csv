@@ -1,0 +1,296 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Gujarat Titans
+info,team,Sunrisers Hyderabad
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/12
+info,event,Indian Premier League
+info,match_id,1529299
+info,match_type,T20
+info,overs,20
+info,match_number,56
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,Sunrisers Hyderabad
+info,toss_decision,field
+info,player_of_match,K Rabada
+info,umpire,HAS Khalid
+info,umpire,VK Sharma
+info,reserve_umpire,AK Argal
+info,tv_umpire,SJ Nogajski
+info,match_referee,R Seth
+info,target_overs,2,20
+info,target_runs,2,169
+info,winner,Gujarat Titans
+info,winner_runs,82
+info,player,Gujarat Titans,M Prasidh Krishna
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,N Sindhu
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,JO Holder
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,Arshad Khan
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Mohammed Siraj
+info,player,Sunrisers Hyderabad,Sakib Hussain
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,R Smaran
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,Shivang Kumar
+info,player,Sunrisers Hyderabad,PP Hinge
+info,player,Sunrisers Hyderabad,E Malinga
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshad Khan,12314277
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N Sindhu,3cea23da
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PP Hinge,ece7b6b3
+info,registry,people,R Seth,540a44ba
+info,registry,people,R Smaran,c1e53c3f
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Arora,d7423da1
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Sakib Hussain,280fff14
+info,registry,people,Shivang Kumar,7b44eb3e
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TM Head,12b610c2
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad
+ball,1,0.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,PJ Cummins,0,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Gujarat Titans,B Sai Sudharsan,Shubman Gill,PJ Cummins,2,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Gujarat Titans,B Sai Sudharsan,Shubman Gill,PJ Cummins,2,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Gujarat Titans,B Sai Sudharsan,Shubman Gill,PJ Cummins,1,0,,,,,,"","",0.4,,,,
+ball,1,0.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",0.5,,,,
+ball,1,0.6,Gujarat Titans,Shubman Gill,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Gujarat Titans,B Sai Sudharsan,Shubman Gill,Nithish Kumar Reddy,4,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Gujarat Titans,B Sai Sudharsan,Shubman Gill,Nithish Kumar Reddy,0,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Gujarat Titans,B Sai Sudharsan,Shubman Gill,Nithish Kumar Reddy,1,0,,,,,,"","",1.3,,,,
+ball,1,1.4,Gujarat Titans,Shubman Gill,B Sai Sudharsan,Nithish Kumar Reddy,0,0,,,,,,"","",1.4,,,,
+ball,1,1.5,Gujarat Titans,Shubman Gill,B Sai Sudharsan,Nithish Kumar Reddy,4,0,,,,,,"","",1.5,,,,
+ball,1,1.6,Gujarat Titans,Shubman Gill,B Sai Sudharsan,Nithish Kumar Reddy,1,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Gujarat Titans,Shubman Gill,B Sai Sudharsan,PP Hinge,0,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Gujarat Titans,Shubman Gill,B Sai Sudharsan,PP Hinge,0,0,,,,,,caught,Shubman Gill,2.2,,H Klaasen,,
+ball,1,2.3,Gujarat Titans,JC Buttler,B Sai Sudharsan,PP Hinge,0,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Gujarat Titans,JC Buttler,B Sai Sudharsan,PP Hinge,1,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Gujarat Titans,B Sai Sudharsan,JC Buttler,PP Hinge,1,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Gujarat Titans,JC Buttler,B Sai Sudharsan,PP Hinge,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Gujarat Titans,B Sai Sudharsan,JC Buttler,PJ Cummins,1,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Gujarat Titans,JC Buttler,B Sai Sudharsan,PJ Cummins,2,0,,,,,,"","",3.2,,,,
+ball,1,3.3,Gujarat Titans,JC Buttler,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",3.3,,,,
+ball,1,3.4,Gujarat Titans,JC Buttler,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",3.4,,,,
+ball,1,3.5,Gujarat Titans,JC Buttler,B Sai Sudharsan,PJ Cummins,0,1,,,,1,,"","",3.5,,,,
+ball,1,3.6,Gujarat Titans,B Sai Sudharsan,JC Buttler,PJ Cummins,0,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Gujarat Titans,JC Buttler,B Sai Sudharsan,Nithish Kumar Reddy,4,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Gujarat Titans,JC Buttler,B Sai Sudharsan,Nithish Kumar Reddy,0,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Gujarat Titans,JC Buttler,B Sai Sudharsan,Nithish Kumar Reddy,0,1,,,,1,,"","",4.3,,,,
+ball,1,4.4,Gujarat Titans,B Sai Sudharsan,JC Buttler,Nithish Kumar Reddy,0,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Gujarat Titans,B Sai Sudharsan,JC Buttler,Nithish Kumar Reddy,0,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Gujarat Titans,B Sai Sudharsan,JC Buttler,Nithish Kumar Reddy,0,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Gujarat Titans,JC Buttler,B Sai Sudharsan,PP Hinge,0,0,,,,,,caught,JC Buttler,5.1,,Ishan Kishan,,
+ball,1,5.2,Gujarat Titans,N Sindhu,B Sai Sudharsan,PP Hinge,0,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Gujarat Titans,N Sindhu,B Sai Sudharsan,PP Hinge,4,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Gujarat Titans,N Sindhu,B Sai Sudharsan,PP Hinge,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Gujarat Titans,N Sindhu,B Sai Sudharsan,PP Hinge,0,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Gujarat Titans,N Sindhu,B Sai Sudharsan,PP Hinge,4,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Gujarat Titans,B Sai Sudharsan,N Sindhu,Nithish Kumar Reddy,0,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Gujarat Titans,B Sai Sudharsan,N Sindhu,Nithish Kumar Reddy,1,0,,,,,,"","",6.2,,,,
+ball,1,6.3,Gujarat Titans,N Sindhu,B Sai Sudharsan,Nithish Kumar Reddy,6,0,,,,,,"","",6.3,,,,
+ball,1,6.4,Gujarat Titans,N Sindhu,B Sai Sudharsan,Nithish Kumar Reddy,2,0,,,,,,"","",6.4,,,,
+ball,1,6.5,Gujarat Titans,N Sindhu,B Sai Sudharsan,Nithish Kumar Reddy,0,0,,,,,,"","",6.5,,,,
+ball,1,6.6,Gujarat Titans,N Sindhu,B Sai Sudharsan,Nithish Kumar Reddy,4,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Gujarat Titans,B Sai Sudharsan,N Sindhu,E Malinga,4,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Gujarat Titans,B Sai Sudharsan,N Sindhu,E Malinga,1,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Gujarat Titans,N Sindhu,B Sai Sudharsan,E Malinga,0,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Gujarat Titans,N Sindhu,B Sai Sudharsan,E Malinga,1,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Gujarat Titans,B Sai Sudharsan,N Sindhu,E Malinga,2,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Gujarat Titans,B Sai Sudharsan,N Sindhu,E Malinga,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Gujarat Titans,B Sai Sudharsan,N Sindhu,Sakib Hussain,1,0,,,,,,"","",8.1,,,,
+ball,1,8.2,Gujarat Titans,N Sindhu,B Sai Sudharsan,Sakib Hussain,0,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Gujarat Titans,N Sindhu,B Sai Sudharsan,Sakib Hussain,1,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Gujarat Titans,B Sai Sudharsan,N Sindhu,Sakib Hussain,4,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Gujarat Titans,B Sai Sudharsan,N Sindhu,Sakib Hussain,0,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Gujarat Titans,B Sai Sudharsan,N Sindhu,Sakib Hussain,1,0,,,,,,"","",8.6,,,,
+ball,1,9.1,Gujarat Titans,B Sai Sudharsan,N Sindhu,PJ Cummins,0,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Gujarat Titans,B Sai Sudharsan,N Sindhu,PJ Cummins,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Gujarat Titans,N Sindhu,B Sai Sudharsan,PJ Cummins,0,0,,,,,,caught,N Sindhu,9.3,,H Klaasen,,
+ball,1,9.4,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,4,0,,,,,,"","",9.4,,,,
+ball,1,9.5,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",9.5,,,,
+ball,1,9.6,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,0,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,1,0,,,,,,"","",10.2,,,,
+ball,1,10.3,Gujarat Titans,Washington Sundar,B Sai Sudharsan,E Malinga,1,0,,,,,,"","",10.3,,,,
+ball,1,10.4,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,2,0,,,,,,"","",10.4,,,,
+ball,1,10.5,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,6,0,,,,,,"","",10.5,,,,
+ball,1,10.6,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,0,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,1,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,0,1,1,,,,,"","",11.2,,,,
+ball,1,11.3,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,0,1,1,,,,,"","",11.2,,,,
+ball,1,11.4,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,1,0,,,,,,"","",11.2,,,,
+ball,1,11.5,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,0,0,,,,,,"","",11.3,,,,
+ball,1,11.6,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,1,0,,,,,,"","",11.4,,,,
+ball,1,11.7,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,1,0,,,,,,"","",11.5,,,,
+ball,1,11.8,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,0,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Sakib Hussain,2,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Sakib Hussain,6,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Sakib Hussain,1,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Sakib Hussain,1,0,,,,,,"","",12.4,,,,
+ball,1,12.5,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Sakib Hussain,0,0,,,,,,"","",12.5,,,,
+ball,1,12.6,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Sakib Hussain,0,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,1,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,4,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,2,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Shivang Kumar,1,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,4,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Shivang Kumar,1,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,4,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,1,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Gujarat Titans,B Sai Sudharsan,Washington Sundar,PJ Cummins,1,0,,,,,,"","",14.4,,,,
+ball,1,14.5,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,0,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Gujarat Titans,Washington Sundar,B Sai Sudharsan,PJ Cummins,1,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Gujarat Titans,Washington Sundar,B Sai Sudharsan,E Malinga,1,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,4,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Gujarat Titans,B Sai Sudharsan,Washington Sundar,E Malinga,1,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Gujarat Titans,Washington Sundar,B Sai Sudharsan,E Malinga,2,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Gujarat Titans,Washington Sundar,B Sai Sudharsan,E Malinga,0,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Gujarat Titans,Washington Sundar,B Sai Sudharsan,E Malinga,1,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Gujarat Titans,Washington Sundar,B Sai Sudharsan,Sakib Hussain,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Gujarat Titans,B Sai Sudharsan,Washington Sundar,Sakib Hussain,0,0,,,,,,caught,B Sai Sudharsan,16.2,,PP Hinge,,
+ball,1,16.3,Gujarat Titans,JO Holder,Washington Sundar,Sakib Hussain,2,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Gujarat Titans,JO Holder,Washington Sundar,Sakib Hussain,1,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Gujarat Titans,Washington Sundar,JO Holder,Sakib Hussain,0,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Gujarat Titans,Washington Sundar,JO Holder,Sakib Hussain,0,1,1,,,,,"","",16.6,,,,
+ball,1,16.7,Gujarat Titans,Washington Sundar,JO Holder,Sakib Hussain,0,1,1,,,,,"","",16.6,,,,
+ball,1,16.8,Gujarat Titans,Washington Sundar,JO Holder,Sakib Hussain,4,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Gujarat Titans,JO Holder,Washington Sundar,PP Hinge,0,0,,,,,,"","",17.1,,,,
+ball,1,17.2,Gujarat Titans,JO Holder,Washington Sundar,PP Hinge,1,0,,,,,,"","",17.2,,,,
+ball,1,17.3,Gujarat Titans,Washington Sundar,JO Holder,PP Hinge,4,0,,,,,,"","",17.3,,,,
+ball,1,17.4,Gujarat Titans,Washington Sundar,JO Holder,PP Hinge,0,0,,,,,,"","",17.4,,,,
+ball,1,17.5,Gujarat Titans,Washington Sundar,JO Holder,PP Hinge,1,0,,,,,,"","",17.5,,,,
+ball,1,17.6,Gujarat Titans,JO Holder,Washington Sundar,PP Hinge,1,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Gujarat Titans,JO Holder,Washington Sundar,E Malinga,1,0,,,,,,"","",18.1,,,,
+ball,1,18.2,Gujarat Titans,Washington Sundar,JO Holder,E Malinga,4,0,,,,,,"","",18.2,,,,
+ball,1,18.3,Gujarat Titans,Washington Sundar,JO Holder,E Malinga,1,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Gujarat Titans,JO Holder,Washington Sundar,E Malinga,0,1,1,,,,,"","",18.4,,,,
+ball,1,18.5,Gujarat Titans,JO Holder,Washington Sundar,E Malinga,1,0,,,,,,"","",18.4,,,,
+ball,1,18.6,Gujarat Titans,Washington Sundar,JO Holder,E Malinga,4,0,,,,,,"","",18.5,,,,
+ball,1,18.7,Gujarat Titans,Washington Sundar,JO Holder,E Malinga,6,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Gujarat Titans,JO Holder,Washington Sundar,Sakib Hussain,2,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Gujarat Titans,JO Holder,Washington Sundar,Sakib Hussain,0,1,1,,,,,"","",19.2,,,,
+ball,1,19.3,Gujarat Titans,JO Holder,Washington Sundar,Sakib Hussain,1,0,,,,,,"","",19.2,,,,
+ball,1,19.4,Gujarat Titans,Washington Sundar,JO Holder,Sakib Hussain,1,0,,,,,,"","",19.3,,,,
+ball,1,19.5,Gujarat Titans,JO Holder,Washington Sundar,Sakib Hussain,1,0,,,,,,"","",19.4,,,,
+ball,1,19.6,Gujarat Titans,Washington Sundar,JO Holder,Sakib Hussain,0,0,,,,,,caught,Washington Sundar,19.5,,Ishan Kishan,,
+ball,1,19.7,Gujarat Titans,R Tewatia,JO Holder,Sakib Hussain,4,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Mohammed Siraj,0,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Mohammed Siraj,0,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Mohammed Siraj,0,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Sunrisers Hyderabad,TM Head,Abhishek Sharma,Mohammed Siraj,0,0,,,,,,caught,TM Head,0.4,,N Sindhu,,
+ball,2,0.5,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Mohammed Siraj,0,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Sunrisers Hyderabad,Ishan Kishan,Abhishek Sharma,Mohammed Siraj,0,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,K Rabada,6,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,K Rabada,0,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,K Rabada,0,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Sunrisers Hyderabad,Abhishek Sharma,Ishan Kishan,K Rabada,0,0,,,,,,bowled,Abhishek Sharma,1.4,,,,
+ball,2,1.5,Sunrisers Hyderabad,R Smaran,Ishan Kishan,K Rabada,1,0,,,,,,"","",1.5,,,,
+ball,2,1.6,Sunrisers Hyderabad,Ishan Kishan,R Smaran,K Rabada,6,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Sunrisers Hyderabad,R Smaran,Ishan Kishan,Mohammed Siraj,4,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Sunrisers Hyderabad,R Smaran,Ishan Kishan,Mohammed Siraj,0,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Sunrisers Hyderabad,R Smaran,Ishan Kishan,Mohammed Siraj,1,0,,,,,,"","",2.3,,,,
+ball,2,2.4,Sunrisers Hyderabad,Ishan Kishan,R Smaran,Mohammed Siraj,0,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Sunrisers Hyderabad,Ishan Kishan,R Smaran,Mohammed Siraj,4,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Sunrisers Hyderabad,Ishan Kishan,R Smaran,Mohammed Siraj,1,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Sunrisers Hyderabad,Ishan Kishan,R Smaran,K Rabada,0,0,,,,,,caught,Ishan Kishan,3.1,,JC Buttler,,
+ball,2,3.2,Sunrisers Hyderabad,H Klaasen,R Smaran,K Rabada,1,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Sunrisers Hyderabad,R Smaran,H Klaasen,K Rabada,1,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Sunrisers Hyderabad,H Klaasen,R Smaran,K Rabada,0,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Sunrisers Hyderabad,H Klaasen,R Smaran,K Rabada,4,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Sunrisers Hyderabad,H Klaasen,R Smaran,K Rabada,0,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Sunrisers Hyderabad,R Smaran,H Klaasen,Mohammed Siraj,0,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Sunrisers Hyderabad,R Smaran,H Klaasen,Mohammed Siraj,0,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Sunrisers Hyderabad,R Smaran,H Klaasen,Mohammed Siraj,0,0,,,,,,"","",4.3,,,,
+ball,2,4.4,Sunrisers Hyderabad,R Smaran,H Klaasen,Mohammed Siraj,0,0,,,,,,"","",4.4,,,,
+ball,2,4.5,Sunrisers Hyderabad,R Smaran,H Klaasen,Mohammed Siraj,0,0,,,,,,"","",4.5,,,,
+ball,2,4.6,Sunrisers Hyderabad,R Smaran,H Klaasen,Mohammed Siraj,1,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Sunrisers Hyderabad,R Smaran,H Klaasen,K Rabada,0,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Sunrisers Hyderabad,R Smaran,H Klaasen,K Rabada,0,0,,,,,,"","",5.2,,,,
+ball,2,5.3,Sunrisers Hyderabad,R Smaran,H Klaasen,K Rabada,1,0,,,,,,"","",5.3,,,,
+ball,2,5.4,Sunrisers Hyderabad,H Klaasen,R Smaran,K Rabada,1,0,,,,,,"","",5.4,,,,
+ball,2,5.5,Sunrisers Hyderabad,R Smaran,H Klaasen,K Rabada,0,0,,,,,,caught,R Smaran,5.5,,Shubman Gill,,
+ball,2,5.6,Sunrisers Hyderabad,S Arora,H Klaasen,K Rabada,2,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Sunrisers Hyderabad,H Klaasen,S Arora,JO Holder,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Sunrisers Hyderabad,S Arora,H Klaasen,JO Holder,0,0,,,,,,"","",6.2,,,,
+ball,2,6.3,Sunrisers Hyderabad,S Arora,H Klaasen,JO Holder,0,0,,,,,,"","",6.3,,,,
+ball,2,6.4,Sunrisers Hyderabad,S Arora,H Klaasen,JO Holder,4,0,,,,,,"","",6.4,,,,
+ball,2,6.5,Sunrisers Hyderabad,S Arora,H Klaasen,JO Holder,0,0,,,,,,"","",6.5,,,,
+ball,2,6.6,Sunrisers Hyderabad,S Arora,H Klaasen,JO Holder,4,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Sunrisers Hyderabad,H Klaasen,S Arora,K Rabada,0,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Sunrisers Hyderabad,H Klaasen,S Arora,K Rabada,0,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Sunrisers Hyderabad,H Klaasen,S Arora,K Rabada,1,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Sunrisers Hyderabad,S Arora,H Klaasen,K Rabada,0,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Sunrisers Hyderabad,S Arora,H Klaasen,K Rabada,0,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Sunrisers Hyderabad,S Arora,H Klaasen,K Rabada,4,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Sunrisers Hyderabad,H Klaasen,S Arora,JO Holder,4,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Sunrisers Hyderabad,H Klaasen,S Arora,JO Holder,0,0,,,,,,"","",8.2,,,,
+ball,2,8.3,Sunrisers Hyderabad,H Klaasen,S Arora,JO Holder,0,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Sunrisers Hyderabad,H Klaasen,S Arora,JO Holder,0,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Sunrisers Hyderabad,H Klaasen,S Arora,JO Holder,1,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Sunrisers Hyderabad,S Arora,H Klaasen,JO Holder,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Sunrisers Hyderabad,S Arora,H Klaasen,M Prasidh Krishna,1,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Sunrisers Hyderabad,H Klaasen,S Arora,M Prasidh Krishna,1,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Sunrisers Hyderabad,S Arora,H Klaasen,M Prasidh Krishna,0,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Sunrisers Hyderabad,S Arora,H Klaasen,M Prasidh Krishna,0,0,,,,,,caught,S Arora,9.4,,JC Buttler,,
+ball,2,9.5,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,M Prasidh Krishna,0,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Sunrisers Hyderabad,Nithish Kumar Reddy,H Klaasen,M Prasidh Krishna,0,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Sunrisers Hyderabad,H Klaasen,Nithish Kumar Reddy,JO Holder,0,0,,,,,,caught,H Klaasen,10.1,,JC Buttler,,
+ball,2,10.2,Sunrisers Hyderabad,PJ Cummins,Nithish Kumar Reddy,JO Holder,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Sunrisers Hyderabad,Nithish Kumar Reddy,PJ Cummins,JO Holder,2,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Sunrisers Hyderabad,Nithish Kumar Reddy,PJ Cummins,JO Holder,0,1,1,,,,,"","",10.4,,,,
+ball,2,10.5,Sunrisers Hyderabad,Nithish Kumar Reddy,PJ Cummins,JO Holder,0,0,,,,,,caught,Nithish Kumar Reddy,10.4,,Washington Sundar,,
+ball,2,10.6,Sunrisers Hyderabad,Shivang Kumar,PJ Cummins,JO Holder,0,0,,,,,,"","",10.5,,,,
+ball,2,10.7,Sunrisers Hyderabad,Shivang Kumar,PJ Cummins,JO Holder,0,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Sunrisers Hyderabad,PJ Cummins,Shivang Kumar,M Prasidh Krishna,0,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Sunrisers Hyderabad,PJ Cummins,Shivang Kumar,M Prasidh Krishna,6,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Sunrisers Hyderabad,PJ Cummins,Shivang Kumar,M Prasidh Krishna,1,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Sunrisers Hyderabad,Shivang Kumar,PJ Cummins,M Prasidh Krishna,0,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Sunrisers Hyderabad,Shivang Kumar,PJ Cummins,M Prasidh Krishna,2,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Sunrisers Hyderabad,Shivang Kumar,PJ Cummins,M Prasidh Krishna,2,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Sunrisers Hyderabad,PJ Cummins,Shivang Kumar,JO Holder,1,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Sunrisers Hyderabad,Shivang Kumar,PJ Cummins,JO Holder,0,0,,,,,,caught,Shivang Kumar,12.2,,JC Buttler,,
+ball,2,12.3,Sunrisers Hyderabad,PP Hinge,PJ Cummins,JO Holder,0,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Sunrisers Hyderabad,PP Hinge,PJ Cummins,JO Holder,0,0,,,,,,"","",12.4,,,,
+ball,2,12.5,Sunrisers Hyderabad,PP Hinge,PJ Cummins,JO Holder,0,0,,,,,,"","",12.5,,,,
+ball,2,12.6,Sunrisers Hyderabad,PP Hinge,PJ Cummins,JO Holder,0,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Sunrisers Hyderabad,PJ Cummins,PP Hinge,M Prasidh Krishna,4,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Sunrisers Hyderabad,PJ Cummins,PP Hinge,M Prasidh Krishna,6,0,,,,,,"","",13.2,,,,
+ball,2,13.3,Sunrisers Hyderabad,PJ Cummins,PP Hinge,M Prasidh Krishna,0,0,,,,,,"","",13.3,,,,
+ball,2,13.4,Sunrisers Hyderabad,PJ Cummins,PP Hinge,M Prasidh Krishna,0,0,,,,,,caught,PJ Cummins,13.4,,Mohammed Siraj,,
+ball,2,13.5,Sunrisers Hyderabad,E Malinga,PP Hinge,M Prasidh Krishna,0,0,,,,,,"","",13.5,,,,
+ball,2,13.6,Sunrisers Hyderabad,E Malinga,PP Hinge,M Prasidh Krishna,0,0,,,,,,"","",13.6,,,,
+ball,2,14.1,Sunrisers Hyderabad,PP Hinge,E Malinga,Rashid Khan,2,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Sunrisers Hyderabad,PP Hinge,E Malinga,Rashid Khan,1,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Sunrisers Hyderabad,E Malinga,PP Hinge,Rashid Khan,0,1,,,,1,,"","",14.3,,,,
+ball,2,14.4,Sunrisers Hyderabad,PP Hinge,E Malinga,Rashid Khan,0,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Sunrisers Hyderabad,PP Hinge,E Malinga,Rashid Khan,0,0,,,,,,stumped,PP Hinge,14.5,,JC Buttler,,

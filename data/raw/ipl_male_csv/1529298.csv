@@ -1,0 +1,333 @@
+version,1.8.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Delhi Capitals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/11
+info,event,Indian Premier League
+info,match_id,1529298
+info,match_type,T20
+info,overs,20
+info,match_number,55
+info,venue,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
+info,city,Dharamsala
+info,toss_winner,Delhi Capitals
+info,toss_decision,field
+info,player_of_match,M Tiwari
+info,umpire,Bhavesh Patel
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,P Joshi
+info,tv_umpire,AT Holdstock
+info,match_referee,P Dharmani
+info,target_overs,2,20
+info,target_runs,2,211
+info,winner,Delhi Capitals
+info,winner_wickets,3
+info,player,Punjab Kings,Yash Thakur
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,MP Stoinis
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,Suryansh Shedge
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,BJ Dwarshuis
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,YS Chahal
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,Abishek Porel
+info,player,Delhi Capitals,SU Parakh
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,Ashutosh Sharma
+info,player,Delhi Capitals,M Tiwari
+info,player,Delhi Capitals,Auqib Nabi
+info,player,Delhi Capitals,MA Starc
+info,player,Delhi Capitals,L Ngidi
+info,registry,people,AR Patel,2e171977
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Abishek Porel,ad3b6e95
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,C Connolly,fe366f34
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Tiwari,fb5f69e4
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,P Dubey,ed5a5510
+info,registry,people,P Joshi,ffc0e370
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SU Parakh,926c7443
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Suryansh Shedge,970ddd24
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,YS Chahal,57ee1fde
+info,registry,people,Yash Thakur,4b31f3a3
+ball,1,0.1,Punjab Kings,Priyansh Arya,P Simran Singh,MA Starc,6,0,,,,,,"","",0.1,,,,
+ball,1,0.2,Punjab Kings,Priyansh Arya,P Simran Singh,MA Starc,0,0,,,,,,"","",0.2,,,,
+ball,1,0.3,Punjab Kings,Priyansh Arya,P Simran Singh,MA Starc,0,0,,,,,,"","",0.3,,,,
+ball,1,0.4,Punjab Kings,Priyansh Arya,P Simran Singh,MA Starc,0,5,5,,,,,"","",0.4,,,,
+ball,1,0.5,Punjab Kings,Priyansh Arya,P Simran Singh,MA Starc,6,0,,,,,,"","",0.4,,,,
+ball,1,0.6,Punjab Kings,Priyansh Arya,P Simran Singh,MA Starc,1,0,,,,,,"","",0.5,,,,
+ball,1,0.7,Punjab Kings,P Simran Singh,Priyansh Arya,MA Starc,4,0,,,,,,"","",0.6,,,,
+ball,1,1.1,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,0,0,,,,,,"","",1.1,,,,
+ball,1,1.2,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,6,0,,,,,,"","",1.2,,,,
+ball,1,1.3,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,0,1,,1,,,,"","",1.3,,,,
+ball,1,1.4,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,2,0,,,,,,"","",1.3,,,,
+ball,1,1.5,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,1,0,,,,,,"","",1.4,,,,
+ball,1,1.6,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,1,0,,,,,,"","",1.5,,,,
+ball,1,1.7,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,1,0,,,,,,"","",1.6,,,,
+ball,1,2.1,Punjab Kings,Priyansh Arya,P Simran Singh,L Ngidi,6,0,,,,,,"","",2.1,,,,
+ball,1,2.2,Punjab Kings,Priyansh Arya,P Simran Singh,L Ngidi,6,0,,,,,,"","",2.2,,,,
+ball,1,2.3,Punjab Kings,Priyansh Arya,P Simran Singh,L Ngidi,0,0,,,,,,"","",2.3,,,,
+ball,1,2.4,Punjab Kings,Priyansh Arya,P Simran Singh,L Ngidi,4,0,,,,,,"","",2.4,,,,
+ball,1,2.5,Punjab Kings,Priyansh Arya,P Simran Singh,L Ngidi,1,0,,,,,,"","",2.5,,,,
+ball,1,2.6,Punjab Kings,P Simran Singh,Priyansh Arya,L Ngidi,0,0,,,,,,"","",2.6,,,,
+ball,1,3.1,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,1,0,,,,,,"","",3.1,,,,
+ball,1,3.2,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,4,1,,1,,,,"","",3.2,,,,
+ball,1,3.3,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,0,0,,,,,,"","",3.2,,,,
+ball,1,3.4,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,0,0,,,,,,"","",3.3,,,,
+ball,1,3.5,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,1,0,,,,,,"","",3.4,,,,
+ball,1,3.6,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,0,0,,,,,,"","",3.5,,,,
+ball,1,3.7,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,1,0,,,,,,"","",3.6,,,,
+ball,1,4.1,Punjab Kings,Priyansh Arya,P Simran Singh,Mukesh Kumar,6,0,,,,,,"","",4.1,,,,
+ball,1,4.2,Punjab Kings,Priyansh Arya,P Simran Singh,Mukesh Kumar,0,0,,,,,,"","",4.2,,,,
+ball,1,4.3,Punjab Kings,Priyansh Arya,P Simran Singh,Mukesh Kumar,0,0,,,,,,"","",4.3,,,,
+ball,1,4.4,Punjab Kings,Priyansh Arya,P Simran Singh,Mukesh Kumar,1,0,,,,,,"","",4.4,,,,
+ball,1,4.5,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,0,0,,,,,,"","",4.5,,,,
+ball,1,4.6,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,4,0,,,,,,"","",4.6,,,,
+ball,1,5.1,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,1,0,,,,,,"","",5.1,,,,
+ball,1,5.2,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,0,0,,,,,,"","",5.2,,,,
+ball,1,5.3,Punjab Kings,P Simran Singh,Priyansh Arya,Auqib Nabi,1,0,,,,,,"","",5.3,,,,
+ball,1,5.4,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,0,0,,,,,,"","",5.4,,,,
+ball,1,5.5,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,0,0,,,,,,"","",5.5,,,,
+ball,1,5.6,Punjab Kings,Priyansh Arya,P Simran Singh,Auqib Nabi,0,0,,,,,,"","",5.6,,,,
+ball,1,6.1,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,2,0,,,,,,"","",6.1,,,,
+ball,1,6.2,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,0,1,1,,,,,"","",6.2,,,,
+ball,1,6.3,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,0,1,1,,,,,"","",6.2,,,,
+ball,1,6.4,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,0,0,,,,,,"","",6.2,,,,
+ball,1,6.5,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,1,0,,,,,,"","",6.3,,,,
+ball,1,6.6,Punjab Kings,Priyansh Arya,P Simran Singh,Mukesh Kumar,1,0,,,,,,"","",6.4,,,,
+ball,1,6.7,Punjab Kings,P Simran Singh,Priyansh Arya,Mukesh Kumar,0,0,,,,,,caught,P Simran Singh,6.5,,Auqib Nabi,,
+ball,1,6.8,Punjab Kings,SS Iyer,Priyansh Arya,Mukesh Kumar,0,0,,,,,,"","",6.6,,,,
+ball,1,7.1,Punjab Kings,Priyansh Arya,SS Iyer,Auqib Nabi,1,0,,,,,,"","",7.1,,,,
+ball,1,7.2,Punjab Kings,SS Iyer,Priyansh Arya,Auqib Nabi,4,0,,,,,,"","",7.2,,,,
+ball,1,7.3,Punjab Kings,SS Iyer,Priyansh Arya,Auqib Nabi,4,0,,,,,,"","",7.3,,,,
+ball,1,7.4,Punjab Kings,SS Iyer,Priyansh Arya,Auqib Nabi,0,0,,,,,,"","",7.4,,,,
+ball,1,7.5,Punjab Kings,SS Iyer,Priyansh Arya,Auqib Nabi,0,0,,,,,,"","",7.5,,,,
+ball,1,7.6,Punjab Kings,SS Iyer,Priyansh Arya,Auqib Nabi,1,0,,,,,,"","",7.6,,,,
+ball,1,8.1,Punjab Kings,SS Iyer,Priyansh Arya,M Tiwari,0,4,,,4,,,"","",8.1,,,,
+ball,1,8.2,Punjab Kings,SS Iyer,Priyansh Arya,M Tiwari,1,0,,,,,,"","",8.2,,,,
+ball,1,8.3,Punjab Kings,Priyansh Arya,SS Iyer,M Tiwari,0,0,,,,,,"","",8.3,,,,
+ball,1,8.4,Punjab Kings,Priyansh Arya,SS Iyer,M Tiwari,4,0,,,,,,"","",8.4,,,,
+ball,1,8.5,Punjab Kings,Priyansh Arya,SS Iyer,M Tiwari,0,0,,,,,,"","",8.5,,,,
+ball,1,8.6,Punjab Kings,Priyansh Arya,SS Iyer,M Tiwari,0,0,,,,,,caught,Priyansh Arya,8.6,,SU Parakh,,
+ball,1,9.1,Punjab Kings,SS Iyer,C Connolly,MA Starc,2,0,,,,,,"","",9.1,,,,
+ball,1,9.2,Punjab Kings,SS Iyer,C Connolly,MA Starc,1,0,,,,,,"","",9.2,,,,
+ball,1,9.3,Punjab Kings,C Connolly,SS Iyer,MA Starc,0,0,,,,,,"","",9.3,,,,
+ball,1,9.4,Punjab Kings,C Connolly,SS Iyer,MA Starc,0,1,1,,,,,"","",9.4,,,,
+ball,1,9.5,Punjab Kings,C Connolly,SS Iyer,MA Starc,0,1,1,,,,,"","",9.4,,,,
+ball,1,9.6,Punjab Kings,C Connolly,SS Iyer,MA Starc,4,0,,,,,,"","",9.4,,,,
+ball,1,9.7,Punjab Kings,C Connolly,SS Iyer,MA Starc,0,0,,,,,,"","",9.5,,,,
+ball,1,9.8,Punjab Kings,C Connolly,SS Iyer,MA Starc,1,0,,,,,,"","",9.6,,,,
+ball,1,10.1,Punjab Kings,C Connolly,SS Iyer,M Tiwari,1,0,,,,,,"","",10.1,,,,
+ball,1,10.2,Punjab Kings,SS Iyer,C Connolly,M Tiwari,0,1,1,,,,,"","",10.2,,,,
+ball,1,10.3,Punjab Kings,SS Iyer,C Connolly,M Tiwari,4,0,,,,,,"","",10.2,,,,
+ball,1,10.4,Punjab Kings,SS Iyer,C Connolly,M Tiwari,1,0,,,,,,"","",10.3,,,,
+ball,1,10.5,Punjab Kings,C Connolly,SS Iyer,M Tiwari,1,0,,,,,,"","",10.4,,,,
+ball,1,10.6,Punjab Kings,SS Iyer,C Connolly,M Tiwari,1,0,,,,,,"","",10.5,,,,
+ball,1,10.7,Punjab Kings,C Connolly,SS Iyer,M Tiwari,0,0,,,,,,"","",10.6,,,,
+ball,1,11.1,Punjab Kings,SS Iyer,C Connolly,L Ngidi,0,0,,,,,,"","",11.1,,,,
+ball,1,11.2,Punjab Kings,SS Iyer,C Connolly,L Ngidi,1,0,,,,,,"","",11.2,,,,
+ball,1,11.3,Punjab Kings,C Connolly,SS Iyer,L Ngidi,1,0,,,,,,"","",11.3,,,,
+ball,1,11.4,Punjab Kings,SS Iyer,C Connolly,L Ngidi,6,0,,,,,,"","",11.4,,,,
+ball,1,11.5,Punjab Kings,SS Iyer,C Connolly,L Ngidi,1,0,,,,,,"","",11.5,,,,
+ball,1,11.6,Punjab Kings,C Connolly,SS Iyer,L Ngidi,0,0,,,,,,"","",11.6,,,,
+ball,1,12.1,Punjab Kings,SS Iyer,C Connolly,Mukesh Kumar,1,0,,,,,,"","",12.1,,,,
+ball,1,12.2,Punjab Kings,C Connolly,SS Iyer,Mukesh Kumar,0,0,,,,,,"","",12.2,,,,
+ball,1,12.3,Punjab Kings,C Connolly,SS Iyer,Mukesh Kumar,1,0,,,,,,"","",12.3,,,,
+ball,1,12.4,Punjab Kings,SS Iyer,C Connolly,Mukesh Kumar,1,0,,,,,,"","",12.4,,,,
+ball,1,12.5,Punjab Kings,C Connolly,SS Iyer,Mukesh Kumar,1,0,,,,,,"","",12.5,,,,
+ball,1,12.6,Punjab Kings,SS Iyer,C Connolly,Mukesh Kumar,4,0,,,,,,"","",12.6,,,,
+ball,1,13.1,Punjab Kings,C Connolly,SS Iyer,M Tiwari,1,0,,,,,,"","",13.1,,,,
+ball,1,13.2,Punjab Kings,SS Iyer,C Connolly,M Tiwari,0,0,,,,,,"","",13.2,,,,
+ball,1,13.3,Punjab Kings,SS Iyer,C Connolly,M Tiwari,0,0,,,,,,"","",13.3,,,,
+ball,1,13.4,Punjab Kings,SS Iyer,C Connolly,M Tiwari,4,0,,,,,,"","",13.4,,,,
+ball,1,13.5,Punjab Kings,SS Iyer,C Connolly,M Tiwari,2,0,,,,,,"","",13.5,,,,
+ball,1,13.6,Punjab Kings,SS Iyer,C Connolly,M Tiwari,0,0,,,,,,"","",13.6,,,,
+ball,1,14.1,Punjab Kings,C Connolly,SS Iyer,MA Starc,0,0,,,,,,"","",14.1,,,,
+ball,1,14.2,Punjab Kings,C Connolly,SS Iyer,MA Starc,0,0,,,,,,"","",14.2,,,,
+ball,1,14.3,Punjab Kings,C Connolly,SS Iyer,MA Starc,6,0,,,,,,"","",14.3,,,,
+ball,1,14.4,Punjab Kings,C Connolly,SS Iyer,MA Starc,1,0,,,,,,"","",14.4,,,,
+ball,1,14.5,Punjab Kings,SS Iyer,C Connolly,MA Starc,1,0,,,,,,"","",14.5,,,,
+ball,1,14.6,Punjab Kings,C Connolly,SS Iyer,MA Starc,1,0,,,,,,"","",14.6,,,,
+ball,1,15.1,Punjab Kings,C Connolly,SS Iyer,L Ngidi,4,0,,,,,,"","",15.1,,,,
+ball,1,15.2,Punjab Kings,C Connolly,SS Iyer,L Ngidi,6,0,,,,,,"","",15.2,,,,
+ball,1,15.3,Punjab Kings,C Connolly,SS Iyer,L Ngidi,1,0,,,,,,"","",15.3,,,,
+ball,1,15.4,Punjab Kings,SS Iyer,C Connolly,L Ngidi,1,0,,,,,,"","",15.4,,,,
+ball,1,15.5,Punjab Kings,C Connolly,SS Iyer,L Ngidi,1,0,,,,,,"","",15.5,,,,
+ball,1,15.6,Punjab Kings,SS Iyer,C Connolly,L Ngidi,0,0,,,,,,"","",15.6,,,,
+ball,1,16.1,Punjab Kings,C Connolly,SS Iyer,Mukesh Kumar,1,0,,,,,,"","",16.1,,,,
+ball,1,16.2,Punjab Kings,SS Iyer,C Connolly,Mukesh Kumar,1,0,,,,,,"","",16.2,,,,
+ball,1,16.3,Punjab Kings,C Connolly,SS Iyer,Mukesh Kumar,1,0,,,,,,"","",16.3,,,,
+ball,1,16.4,Punjab Kings,SS Iyer,C Connolly,Mukesh Kumar,1,0,,,,,,"","",16.4,,,,
+ball,1,16.5,Punjab Kings,C Connolly,SS Iyer,Mukesh Kumar,1,0,,,,,,"","",16.5,,,,
+ball,1,16.6,Punjab Kings,SS Iyer,C Connolly,Mukesh Kumar,1,0,,,,,,"","",16.6,,,,
+ball,1,17.1,Punjab Kings,SS Iyer,C Connolly,M Tiwari,0,1,1,,,,,"","",17.1,,,,
+ball,1,17.2,Punjab Kings,SS Iyer,C Connolly,M Tiwari,6,0,,,,,,"","",17.1,,,,
+ball,1,17.3,Punjab Kings,SS Iyer,C Connolly,M Tiwari,1,0,,,,,,"","",17.2,,,,
+ball,1,17.4,Punjab Kings,C Connolly,SS Iyer,M Tiwari,4,0,,,,,,"","",17.3,,,,
+ball,1,17.5,Punjab Kings,C Connolly,SS Iyer,M Tiwari,0,0,,,,,,caught,C Connolly,17.4,,DA Miller,,
+ball,1,17.6,Punjab Kings,MP Stoinis,SS Iyer,M Tiwari,1,0,,,,,,"","",17.5,,,,
+ball,1,17.7,Punjab Kings,SS Iyer,MP Stoinis,M Tiwari,6,0,,,,,,"","",17.6,,,,
+ball,1,18.1,Punjab Kings,MP Stoinis,SS Iyer,MA Starc,0,0,,,,,,caught,MP Stoinis,18.1,,M Tiwari,,
+ball,1,18.2,Punjab Kings,Shashank Singh,SS Iyer,MA Starc,0,0,,,,,,caught,Shashank Singh,18.2,,AR Patel,,
+ball,1,18.3,Punjab Kings,Suryansh Shedge,SS Iyer,MA Starc,6,0,,,,,,"","",18.3,,,,
+ball,1,18.4,Punjab Kings,Suryansh Shedge,SS Iyer,MA Starc,4,0,,,,,,"","",18.4,,,,
+ball,1,18.5,Punjab Kings,Suryansh Shedge,SS Iyer,MA Starc,0,0,,,,,,"","",18.5,,,,
+ball,1,18.6,Punjab Kings,Suryansh Shedge,SS Iyer,MA Starc,6,0,,,,,,"","",18.6,,,,
+ball,1,19.1,Punjab Kings,SS Iyer,Suryansh Shedge,L Ngidi,1,0,,,,,,"","",19.1,,,,
+ball,1,19.2,Punjab Kings,Suryansh Shedge,SS Iyer,L Ngidi,0,0,,,,,,"","",19.2,,,,
+ball,1,19.3,Punjab Kings,Suryansh Shedge,SS Iyer,L Ngidi,0,0,,,,,,"","",19.3,,,,
+ball,1,19.4,Punjab Kings,Suryansh Shedge,SS Iyer,L Ngidi,1,0,,,,,,"","",19.4,,,,
+ball,1,19.5,Punjab Kings,SS Iyer,Suryansh Shedge,L Ngidi,1,0,,,,,,"","",19.5,,,,
+ball,1,19.6,Punjab Kings,Suryansh Shedge,SS Iyer,L Ngidi,4,0,,,,,,"","",19.6,,,,
+ball,2,0.1,Delhi Capitals,KL Rahul,Abishek Porel,Arshdeep Singh,0,0,,,,,,"","",0.1,,,,
+ball,2,0.2,Delhi Capitals,KL Rahul,Abishek Porel,Arshdeep Singh,4,0,,,,,,"","",0.2,,,,
+ball,2,0.3,Delhi Capitals,KL Rahul,Abishek Porel,Arshdeep Singh,1,0,,,,,,"","",0.3,,,,
+ball,2,0.4,Delhi Capitals,Abishek Porel,KL Rahul,Arshdeep Singh,1,0,,,,,,"","",0.4,,,,
+ball,2,0.5,Delhi Capitals,KL Rahul,Abishek Porel,Arshdeep Singh,0,0,,,,,,"","",0.5,,,,
+ball,2,0.6,Delhi Capitals,KL Rahul,Abishek Porel,Arshdeep Singh,0,0,,,,,,"","",0.6,,,,
+ball,2,1.1,Delhi Capitals,Abishek Porel,KL Rahul,Yash Thakur,0,0,,,,,,"","",1.1,,,,
+ball,2,1.2,Delhi Capitals,Abishek Porel,KL Rahul,Yash Thakur,0,0,,,,,,"","",1.2,,,,
+ball,2,1.3,Delhi Capitals,Abishek Porel,KL Rahul,Yash Thakur,0,0,,,,,,"","",1.3,,,,
+ball,2,1.4,Delhi Capitals,Abishek Porel,KL Rahul,Yash Thakur,4,0,,,,,,"","",1.4,,,,
+ball,2,1.5,Delhi Capitals,Abishek Porel,KL Rahul,Yash Thakur,0,0,,,,,,bowled,Abishek Porel,1.5,,,,
+ball,2,1.6,Delhi Capitals,SU Parakh,KL Rahul,Yash Thakur,0,0,,,,,,"","",1.6,,,,
+ball,2,2.1,Delhi Capitals,KL Rahul,SU Parakh,Arshdeep Singh,0,0,,,,,,"","",2.1,,,,
+ball,2,2.2,Delhi Capitals,KL Rahul,SU Parakh,Arshdeep Singh,4,0,,,,,,"","",2.2,,,,
+ball,2,2.3,Delhi Capitals,KL Rahul,SU Parakh,Arshdeep Singh,0,0,,,,,,caught,KL Rahul,2.3,,M Jansen,,
+ball,2,2.4,Delhi Capitals,T Stubbs,SU Parakh,Arshdeep Singh,0,0,,,,,,"","",2.4,,,,
+ball,2,2.5,Delhi Capitals,T Stubbs,SU Parakh,Arshdeep Singh,0,0,,,,,,"","",2.5,,,,
+ball,2,2.6,Delhi Capitals,T Stubbs,SU Parakh,Arshdeep Singh,0,0,,,,,,"","",2.6,,,,
+ball,2,3.1,Delhi Capitals,SU Parakh,T Stubbs,Yash Thakur,6,0,,,,,,"","",3.1,,,,
+ball,2,3.2,Delhi Capitals,SU Parakh,T Stubbs,Yash Thakur,1,0,,,,,,"","",3.2,,,,
+ball,2,3.3,Delhi Capitals,T Stubbs,SU Parakh,Yash Thakur,4,0,,,,,,"","",3.3,,,,
+ball,2,3.4,Delhi Capitals,T Stubbs,SU Parakh,Yash Thakur,1,0,,,,,,"","",3.4,,,,
+ball,2,3.5,Delhi Capitals,SU Parakh,T Stubbs,Yash Thakur,2,0,,,,,,"","",3.5,,,,
+ball,2,3.6,Delhi Capitals,SU Parakh,T Stubbs,Yash Thakur,4,0,,,,,,"","",3.6,,,,
+ball,2,4.1,Delhi Capitals,T Stubbs,SU Parakh,Arshdeep Singh,0,0,,,,,,"","",4.1,,,,
+ball,2,4.2,Delhi Capitals,T Stubbs,SU Parakh,Arshdeep Singh,1,0,,,,,,"","",4.2,,,,
+ball,2,4.3,Delhi Capitals,SU Parakh,T Stubbs,Arshdeep Singh,0,0,,,,,,caught,SU Parakh,4.3,,YS Chahal,,
+ball,2,4.4,Delhi Capitals,AR Patel,T Stubbs,Arshdeep Singh,0,2,2,,,,,"","",4.4,,,,
+ball,2,4.5,Delhi Capitals,T Stubbs,AR Patel,Arshdeep Singh,1,0,,,,,,"","",4.4,,,,
+ball,2,4.6,Delhi Capitals,AR Patel,T Stubbs,Arshdeep Singh,0,2,2,,,,,"","",4.5,,,,
+ball,2,4.7,Delhi Capitals,T Stubbs,AR Patel,Arshdeep Singh,0,0,,,,,,"","",4.5,,,,
+ball,2,4.8,Delhi Capitals,T Stubbs,AR Patel,Arshdeep Singh,0,0,,,,,,"","",4.6,,,,
+ball,2,5.1,Delhi Capitals,AR Patel,T Stubbs,M Jansen,0,0,,,,,,"","",5.1,,,,
+ball,2,5.2,Delhi Capitals,AR Patel,T Stubbs,M Jansen,0,1,1,,,,,"","",5.2,,,,
+ball,2,5.3,Delhi Capitals,AR Patel,T Stubbs,M Jansen,6,0,,,,,,"","",5.2,,,,
+ball,2,5.4,Delhi Capitals,AR Patel,T Stubbs,M Jansen,1,0,,,,,,"","",5.3,,,,
+ball,2,5.5,Delhi Capitals,T Stubbs,AR Patel,M Jansen,0,0,,,,,,"","",5.4,,,,
+ball,2,5.6,Delhi Capitals,T Stubbs,AR Patel,M Jansen,1,0,,,,,,"","",5.5,,,,
+ball,2,5.7,Delhi Capitals,AR Patel,T Stubbs,M Jansen,0,0,,,,,,"","",5.6,,,,
+ball,2,6.1,Delhi Capitals,T Stubbs,AR Patel,BJ Dwarshuis,1,0,,,,,,"","",6.1,,,,
+ball,2,6.2,Delhi Capitals,AR Patel,T Stubbs,BJ Dwarshuis,0,3,3,,,,,"","",6.2,,,,
+ball,2,6.3,Delhi Capitals,AR Patel,T Stubbs,BJ Dwarshuis,1,0,,,,,,"","",6.2,,,,
+ball,2,6.4,Delhi Capitals,T Stubbs,AR Patel,BJ Dwarshuis,1,0,,,,,,"","",6.3,,,,
+ball,2,6.5,Delhi Capitals,AR Patel,T Stubbs,BJ Dwarshuis,4,0,,,,,,"","",6.4,,,,
+ball,2,6.6,Delhi Capitals,AR Patel,T Stubbs,BJ Dwarshuis,4,0,,,,,,"","",6.5,,,,
+ball,2,6.7,Delhi Capitals,AR Patel,T Stubbs,BJ Dwarshuis,0,2,2,,,,,"","",6.6,,,,
+ball,2,6.8,Delhi Capitals,T Stubbs,AR Patel,BJ Dwarshuis,0,0,,,,,,"","",6.6,,,,
+ball,2,7.1,Delhi Capitals,AR Patel,T Stubbs,M Jansen,4,0,,,,,,"","",7.1,,,,
+ball,2,7.2,Delhi Capitals,AR Patel,T Stubbs,M Jansen,1,0,,,,,,"","",7.2,,,,
+ball,2,7.3,Delhi Capitals,T Stubbs,AR Patel,M Jansen,1,0,,,,,,"","",7.3,,,,
+ball,2,7.4,Delhi Capitals,AR Patel,T Stubbs,M Jansen,0,0,,,,,,"","",7.4,,,,
+ball,2,7.5,Delhi Capitals,AR Patel,T Stubbs,M Jansen,0,0,,,,,,"","",7.5,,,,
+ball,2,7.6,Delhi Capitals,AR Patel,T Stubbs,M Jansen,4,0,,,,,,"","",7.6,,,,
+ball,2,8.1,Delhi Capitals,T Stubbs,AR Patel,BJ Dwarshuis,1,0,,,,,,"","",8.1,,,,
+ball,2,8.2,Delhi Capitals,AR Patel,T Stubbs,BJ Dwarshuis,0,0,,,,,,run out,T Stubbs,8.2,,C Connolly,,
+ball,2,8.3,Delhi Capitals,AR Patel,DA Miller,BJ Dwarshuis,1,0,,,,,,"","",8.3,,,,
+ball,2,8.4,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,0,0,,,,,,"","",8.4,,,,
+ball,2,8.5,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,0,0,,,,,,"","",8.5,,,,
+ball,2,8.6,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,1,0,,,,,,"","",8.6,,,,
+ball,2,9.1,Delhi Capitals,DA Miller,AR Patel,M Jansen,4,0,,,,,,"","",9.1,,,,
+ball,2,9.2,Delhi Capitals,DA Miller,AR Patel,M Jansen,0,0,,,,,,"","",9.2,,,,
+ball,2,9.3,Delhi Capitals,DA Miller,AR Patel,M Jansen,1,0,,,,,,"","",9.3,,,,
+ball,2,9.4,Delhi Capitals,AR Patel,DA Miller,M Jansen,4,0,,,,,,"","",9.4,,,,
+ball,2,9.5,Delhi Capitals,AR Patel,DA Miller,M Jansen,1,0,,,,,,"","",9.5,,,,
+ball,2,9.6,Delhi Capitals,DA Miller,AR Patel,M Jansen,1,0,,,,,,"","",9.6,,,,
+ball,2,10.1,Delhi Capitals,DA Miller,AR Patel,MP Stoinis,1,0,,,,,,"","",10.1,,,,
+ball,2,10.2,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,1,0,,,,,,"","",10.2,,,,
+ball,2,10.3,Delhi Capitals,DA Miller,AR Patel,MP Stoinis,6,0,,,,,,"","",10.3,,,,
+ball,2,10.4,Delhi Capitals,DA Miller,AR Patel,MP Stoinis,1,0,,,,,,"","",10.4,,,,
+ball,2,10.5,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,1,0,,,,,,"","",10.5,,,,
+ball,2,10.6,Delhi Capitals,DA Miller,AR Patel,MP Stoinis,1,0,,,,,,"","",10.6,,,,
+ball,2,11.1,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,2,0,,,,,,"","",11.1,,,,
+ball,2,11.2,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,4,0,,,,,,"","",11.2,,,,
+ball,2,11.3,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,1,0,,,,,,"","",11.3,,,,
+ball,2,11.4,Delhi Capitals,AR Patel,DA Miller,BJ Dwarshuis,1,0,,,,,,"","",11.4,,,,
+ball,2,11.5,Delhi Capitals,DA Miller,AR Patel,BJ Dwarshuis,1,0,,,,,,"","",11.5,,,,
+ball,2,11.6,Delhi Capitals,AR Patel,DA Miller,BJ Dwarshuis,6,0,,,,,,"","",11.6,,,,
+ball,2,12.1,Delhi Capitals,DA Miller,AR Patel,Yash Thakur,1,0,,,,,,"","",12.1,,,,
+ball,2,12.2,Delhi Capitals,AR Patel,DA Miller,Yash Thakur,0,0,,,,,,"","",12.2,,,,
+ball,2,12.3,Delhi Capitals,AR Patel,DA Miller,Yash Thakur,2,0,,,,,,"","",12.3,,,,
+ball,2,12.4,Delhi Capitals,AR Patel,DA Miller,Yash Thakur,0,5,5,,,,,"","",12.4,,,,
+ball,2,12.5,Delhi Capitals,AR Patel,DA Miller,Yash Thakur,1,0,,,,,,"","",12.4,,,,
+ball,2,12.6,Delhi Capitals,DA Miller,AR Patel,Yash Thakur,1,0,,,,,,"","",12.5,,,,
+ball,2,12.7,Delhi Capitals,AR Patel,DA Miller,Yash Thakur,1,0,,,,,,"","",12.6,,,,
+ball,2,13.1,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,0,0,,,,,,"","",13.1,,,,
+ball,2,13.2,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,0,1,1,,,,,"","",13.2,,,,
+ball,2,13.3,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,0,0,,,,,,"","",13.2,,,,
+ball,2,13.4,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,0,1,1,,,,,"","",13.3,,,,
+ball,2,13.5,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,4,0,,,,,,"","",13.3,,,,
+ball,2,13.6,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,4,0,,,,,,"","",13.4,,,,
+ball,2,13.7,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,4,0,,,,,,"","",13.5,,,,
+ball,2,13.8,Delhi Capitals,AR Patel,DA Miller,MP Stoinis,0,0,,,,,,caught,AR Patel,13.6,,BJ Dwarshuis,,
+ball,2,14.1,Delhi Capitals,DA Miller,Ashutosh Sharma,Arshdeep Singh,1,0,,,,,,"","",14.1,,,,
+ball,2,14.2,Delhi Capitals,Ashutosh Sharma,DA Miller,Arshdeep Singh,2,0,,,,,,"","",14.2,,,,
+ball,2,14.3,Delhi Capitals,Ashutosh Sharma,DA Miller,Arshdeep Singh,0,0,,,,,,"","",14.3,,,,
+ball,2,14.4,Delhi Capitals,Ashutosh Sharma,DA Miller,Arshdeep Singh,1,0,,,,,,"","",14.4,,,,
+ball,2,14.5,Delhi Capitals,DA Miller,Ashutosh Sharma,Arshdeep Singh,0,0,,,,,,"","",14.5,,,,
+ball,2,14.6,Delhi Capitals,DA Miller,Ashutosh Sharma,Arshdeep Singh,1,0,,,,,,"","",14.6,,,,
+ball,2,15.1,Delhi Capitals,DA Miller,Ashutosh Sharma,M Jansen,0,0,,,,,,"","",15.1,,,,
+ball,2,15.2,Delhi Capitals,DA Miller,Ashutosh Sharma,M Jansen,4,0,,,,,,"","",15.2,,,,
+ball,2,15.3,Delhi Capitals,DA Miller,Ashutosh Sharma,M Jansen,0,0,,,,,,"","",15.3,,,,
+ball,2,15.4,Delhi Capitals,DA Miller,Ashutosh Sharma,M Jansen,6,0,,,,,,"","",15.4,,,,
+ball,2,15.5,Delhi Capitals,DA Miller,Ashutosh Sharma,M Jansen,1,0,,,,,,"","",15.5,,,,
+ball,2,15.6,Delhi Capitals,Ashutosh Sharma,DA Miller,M Jansen,4,0,,,,,,"","",15.6,,,,
+ball,2,16.1,Delhi Capitals,DA Miller,Ashutosh Sharma,BJ Dwarshuis,6,0,,,,,,"","",16.1,,,,
+ball,2,16.2,Delhi Capitals,DA Miller,Ashutosh Sharma,BJ Dwarshuis,6,0,,,,,,"","",16.2,,,,
+ball,2,16.3,Delhi Capitals,DA Miller,Ashutosh Sharma,BJ Dwarshuis,0,0,,,,,,caught,DA Miller,16.3,,P Simran Singh,,
+ball,2,16.4,Delhi Capitals,M Tiwari,Ashutosh Sharma,BJ Dwarshuis,4,0,,,,,,"","",16.4,,,,
+ball,2,16.5,Delhi Capitals,M Tiwari,Ashutosh Sharma,BJ Dwarshuis,1,0,,,,,,"","",16.5,,,,
+ball,2,16.6,Delhi Capitals,Ashutosh Sharma,M Tiwari,BJ Dwarshuis,0,0,,,,,,"","",16.6,,,,
+ball,2,17.1,Delhi Capitals,M Tiwari,Ashutosh Sharma,MP Stoinis,1,0,,,,,,"","",17.1,,,,
+ball,2,17.2,Delhi Capitals,Ashutosh Sharma,M Tiwari,MP Stoinis,4,0,,,,,,"","",17.2,,,,
+ball,2,17.3,Delhi Capitals,Ashutosh Sharma,M Tiwari,MP Stoinis,6,0,,,,,,"","",17.3,,,,
+ball,2,17.4,Delhi Capitals,Ashutosh Sharma,M Tiwari,MP Stoinis,1,0,,,,,,"","",17.4,,,,
+ball,2,17.5,Delhi Capitals,M Tiwari,Ashutosh Sharma,MP Stoinis,6,0,,,,,,"","",17.5,,,,
+ball,2,17.6,Delhi Capitals,M Tiwari,Ashutosh Sharma,MP Stoinis,1,0,,,,,,"","",17.6,,,,
+ball,2,18.1,Delhi Capitals,M Tiwari,Ashutosh Sharma,Yash Thakur,0,0,,,,,,"","",18.1,,,,
+ball,2,18.2,Delhi Capitals,M Tiwari,Ashutosh Sharma,Yash Thakur,4,0,,,,,,"","",18.2,,,,
+ball,2,18.3,Delhi Capitals,M Tiwari,Ashutosh Sharma,Yash Thakur,1,0,,,,,,"","",18.3,,,,
+ball,2,18.4,Delhi Capitals,Ashutosh Sharma,M Tiwari,Yash Thakur,6,0,,,,,,"","",18.4,,,,
+ball,2,18.5,Delhi Capitals,Ashutosh Sharma,M Tiwari,Yash Thakur,0,0,,,,,,caught,Ashutosh Sharma,18.5,,P Dubey,,
+ball,2,18.6,Delhi Capitals,Auqib Nabi,M Tiwari,Yash Thakur,4,1,,1,,,,"","",18.6,,,,
+ball,2,18.7,Delhi Capitals,Auqib Nabi,M Tiwari,Yash Thakur,6,0,,,,,,"","",18.6,,,,
