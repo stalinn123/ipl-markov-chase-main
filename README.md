@@ -1,118 +1,112 @@
 # Absorbing Markov Chain Model of IPL T20 Run Chases
 
-A university stochastic-processes project modeling the evolution, win probability, absorption time, and tipping points of Indian Premier League (IPL) second-innings run chases using discrete-time absorbing Markov chains.
+A university stochastic-processes project modelling second-innings run chases in the Indian Premier League (IPL) as discrete-time absorbing Markov chains: win probability, time to absorption, tipping points, and whether chase dynamics changed in the Impact Player era (from 2023).
+
+**Group:** Stalin Velayudham N, K Sanjay, Sai Shreeya Jetti
 
 ---
 
 ## 1. Project Overview
 
-In T20 cricket, a run chase in the second innings is a dynamic stochastic process governed by two opposing pressures:
-1. **Accumulated run-rate pressure:** The difference between the Required Run Rate (RRR) and Current Run Rate (CRR).
-2. **Resource depletion:** The number of wickets lost out of 10 available wickets.
+A T20 run chase is shaped by two pressures:
+1. **Run-rate pressure:** the difference between the Required Run Rate (RRR) and the Current Run Rate (CRR).
+2. **Resource depletion:** the number of wickets lost out of 10.
 
-This project formulates the chase as a discrete-time absorbing Markov chain $X_k$ evaluated at the completion of each over $k \in \{1, 2, \dots, 19\}$, transitioning between 15 transient states and 2 absorbing states:
-* **Transient States (15):** Cross-product of Wickets Lost (`W_Low`, `W_Mid`, `W_High`) and Pressure Bucket (`P1`, `P2`, `P3`, `P4`, `P5`).
-* **Absorbing States (2):** `WIN` (chasing team reaches target) and `LOSS` (10 wickets lost or 20 overs elapse without reaching target).
+The chase is modelled as a chain $X_k$ observed at the end of each over $k \in \{1, 2, \dots, 19\}$, with 15 transient states and 2 absorbing states:
+* **Transient states (15):** wickets lost (`W_Low`, `W_Mid`, `W_High`) × pressure bucket (`P1` to `P5`).
+* **Absorbing states (2):** `WIN` (target reached) and `LOSS` (10 wickets lost, or 20 overs used without reaching the target).
+
+Two versions of the chain are compared with a logistic regression baseline:
+* **Homogeneous:** one transition matrix for all overs (scripts 03–06).
+* **Time-inhomogeneous:** a separate matrix for each over, so chases must end by over 20 (script 06b).
+
+**Data:** ball-by-ball IPL match files from [Cricsheet](https://cricsheet.org/downloads/).
 
 ---
 
 ## 2. Directory Structure
 
 ```text
-ipl-markov-chase/
+ipl-markov-chase-main/
 ├── data/
-│   ├── raw/
-│   │   └── ipl_male_csv/          # 1,243 Cricsheet IPL match CSVs (2008–2026)
-│   └── processed/
-│       ├── chases.csv              # Filtered match metadata and outcomes
-│       ├── over_states.csv         # Ball-by-ball replayed over states
-│       ├── transitions.csv         # Empirical over-to-over state transitions
-│       ├── transition_matrix_P.csv # 17x17 canonical Markov transition matrix
-│       ├── Q_matrix.csv            # 15x15 transient submatrix
-│       ├── R_matrix.csv            # 15x2 absorbing submatrix
-│       ├── fundamental_matrix_N.csv# Fundamental matrix N = (I - Q)^(-1)
-│       ├── markov_analytical_results.csv # Analytical B_i and t_i with 95% CIs
-│       ├── tipping_point_states.csv# Knife-edge states (0.40 <= B_i <= 0.60)
-│       ├── top_swing_transitions.csv# Probability-weighted swing transitions
-│       ├── wicket_penalty_table.csv# Impact of wicket loss holding pressure fixed
-│       ├── simulation_vs_theory.csv# Monte Carlo (10,000 runs) vs theory comparison
-│       ├── validation_results.csv  # Out-of-sample metrics by over (2023–2026)
-│       └── phase_homogeneity_tests.csv # Chi-Square tests by state row
-├── figures/
-│   ├── transition_matrix.png       # Heatmaps of Q (15x15) and R (15x2)
-│   ├── win_probability_heatmap.png # Grid of win probabilities B with 95% CIs
-│   ├── expected_overs_heatmap.png  # Grid of expected overs t with 95% CIs
-│   ├── tipping_points_analysis.png # Tipping states and top swing transitions
-│   ├── mc_vs_theory_win_prob.png   # Monte Carlo vs analytical theory comparison
-│   ├── mc_match_length_distribution.png # Match length density from contrasting states
-│   ├── validation_calibration.png  # Out-of-sample calibration curve vs baseline
-│   ├── validation_brier_by_over.png# Brier score evolution over k = 1..19
-│   ├── validation_chase_traces.png # In-play probability curves for 3 test chases
-│   └── phase_homogeneity_comparison.png # Direct loss probabilities by phase
+│   ├── raw/ipl_male_csv/   # 1,243 Cricsheet IPL match CSVs (2008–2026)
+│   └── processed/          # Generated tables and matrices, including:
+│       ├── chases.csv, over_states.csv, transitions.csv
+│       ├── transition_matrix_P.csv, Q_matrix.csv, R_matrix.csv, fundamental_matrix_N.csv
+│       ├── markov_analytical_results.csv, simulation_vs_theory.csv
+│       ├── validation_results.csv, validation_three_models.csv
+│       ├── inhom_win_prob_by_over.csv, inhom_expected_overs_by_over.csv
+│       └── era_*.csv       # Impact Player era results
+├── figures/                # All generated figures
 ├── report/
-│   └── results_summary.md          # Comprehensive executive summary with key numbers
+│   ├── results_summary.md  # Results with key numbers
+│   └── run_logs/           # Output of each script from the last full run
 ├── src/
-│   ├── config.py                   # Central tunable settings and bucket cutoffs
-│   ├── 01_load_filter.py           # Ingest, filter matches, cross-check targets
-│   ├── 02_build_states.py          # Ball-by-ball replay, over-states, transitions
-│   ├── 03_estimate_P.py            # Estimate P, Q, R and whole-match bootstrap CIs
-│   ├── 04_analysis.py              # Fundamental matrix, B, t, tipping points
-│   ├── 05_simulate.py              # Monte Carlo simulation (10,000 chains/state)
-│   ├── 06_validate.py              # Out-of-sample validation vs Logistic Regression
-│   └── 07_tests.py                 # Time-homogeneity and Markov property tests
-├── requirements.txt                # Python package dependencies
-└── README.md                       # Complete documentation
+│   ├── config.py                  # Paths, train/test split, state definitions
+│   ├── 01_load_filter.py          # Load and filter matches, cross-check targets
+│   ├── 02_build_states.py         # Replay chases, build over states and transitions
+│   ├── 03_estimate_P.py           # Estimate P, Q, R with whole-match bootstrap
+│   ├── 04_analysis.py             # Fundamental matrix, B, t, tipping points
+│   ├── 05_simulate.py             # Monte Carlo simulation vs theory
+│   ├── 06_validate.py             # Out-of-sample validation vs logistic regression
+│   ├── 06b_time_inhomogeneous.py  # Per-over chain and three-model comparison
+│   ├── 07_tests.py                # Time-homogeneity and Markov property tests
+│   ├── 08_era_experiments.py      # Impact Player era experiments
+│   ├── 09_figures.py              # Era, state diagram, sample path and other figures
+│   └── 10_theory_numbers.py       # Numerical checks of the theory
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
-## 3. Installation & Setup
+## 3. Setup
 
-1. **Activate Virtual Environment:**
-   ```powershell
-   # Windows PowerShell:
-   .\.venv\Scripts\Activate.ps1
-   ```
-2. **Install Requirements:**
-   ```powershell
-   pip install -r requirements.txt
-   ```
-
----
-
-## 4. Execution Pipeline (Run Scripts in Order)
-
-Run scripts from the project root (`ipl-markov-chase/`):
+Tested on Python 3.13. From the project root in Windows PowerShell (on macOS or Linux, activate with `source .venv/bin/activate`):
 
 ```powershell
-# Step 1: Ingest and filter match CSVs
-python src/01_load_filter.py
-
-# Step 2: Replay 2nd innings ball-by-ball, construct states & transitions
-python src/02_build_states.py
-
-# Step 3: Estimate canonical transition matrix P and bootstrap CIs
-python src/03_estimate_P.py
-
-# Step 4: Analytical solution (N, B, t, tipping points) and heatmaps
-python src/04_analysis.py
-
-# Step 5: Monte Carlo simulations (150,000 chains) vs theory verification
-python src/05_simulate.py
-
-# Step 6: Out-of-sample test validation (Seasons 2023-2026) vs Logistic Regression
-python src/06_validate.py
-
-# Step 7: Hypothesis testing of Time-Homogeneity and Markov Property
-python src/07_tests.py
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
 ```
 
 ---
 
-## 5. Summary of Main Findings
+## 4. Running the Pipeline
 
-1. **Absorption Certainty:** Spectral radius $\rho(Q) = 0.904272 < 1.0$, guaranteeing absorption with probability 1.0. Model-implied overall chase win probability ($\pi_0 \cdot B = 54.87\%$) matches the empirical training win rate (54.87%) to 0.00 percentage points.
-2. **Critical Tipping Points:** Identified 5 knife-edge states ($0.40 \le B_i \le 0.60$): `W_Low_P3` (56.7%), `W_Low_P4` (49.5%), `W_Low_P5` (43.4%), `W_Mid_P3` (48.9%), and `W_High_P3` (50.4%).
-3. **Wicket Penalty:** While teams with low pressure absorb wicket shocks easily, teams under high pressure suffer a **28.2% to 37.1%** collapse in win probability when dropping from Low to High wickets.
-4. **Out-of-Sample Predictive Power:** On held-out seasons 2023–2026 (282 matches, 5,005 observations), the Markov chain achieves **75.22% overall accuracy** and a **Brier score of 0.1711**, reaching **90.38% accuracy** by the 19th over.
-5. **Statistical Tests:** Formal hypothesis tests reject strict time-homogeneity ($p < 10^{-16}$) and memorylessness ($p < 10^{-16}$) due to physical cricket dynamics (death-over boundary slogging and bowler spell momentum). Nevertheless, the first-order Markov chain provides an exceptionally accurate, interpretable, and parsimonious stochastic model.
+Run the scripts in this order from the project root. Each one reads the outputs of the earlier ones.
+
+```powershell
+python src/01_load_filter.py
+python src/02_build_states.py
+python src/03_estimate_P.py
+python src/04_analysis.py
+python src/05_simulate.py
+python src/06_validate.py
+python src/06b_time_inhomogeneous.py
+python src/07_tests.py
+python src/08_era_experiments.py
+python src/09_figures.py
+python src/10_theory_numbers.py
+```
+
+The full run takes about six minutes. Random seeds are fixed in `src/config.py`. Very small floating-point differences between machines are normal.
+
+---
+
+## 5. Main Findings
+
+Trained on seasons 2008–2022 and tested on 2023–2026 (282 matches, 5,005 over-level observations). Full details are in `report/results_summary.md`.
+
+| Model | Brier Score | Log-Loss | Accuracy |
+| :--- | :---: | :---: | :---: |
+| Homogeneous chain | 0.1712 | 0.5161 | 75.60% |
+| Time-inhomogeneous chain | 0.1618 | 0.4951 | 76.12% |
+| Logistic regression | 0.1431 | 0.4365 | 79.06% |
+
+1. **The over number matters.** Time-homogeneity is rejected ($\chi^2 = 3152.89$, df $= 217$). The homogeneous chain has no limit on chase length, and up to 39% of its simulated paths run past 20 overs. The time-inhomogeneous chain fixes this and predicts better (Brier difference −0.0094, 95% CI [−0.0147, −0.0043]).
+2. **Logistic regression predicts best.** It beats the time-inhomogeneous chain (Brier difference 0.0187, 95% CI [0.0027, 0.0344]), most likely because it uses exact values rather than 15 buckets. The chains offer interpretable states and can simulate whole chases.
+3. **Control for the over when comparing wickets.** Without it, the states wrongly suggest losing wickets can help. At the end of over 10 in `P3`, win probability is 65.1% with 0–2 wickets down and 44.7% with 3–5 down.
+4. **The first-order assumption is rejected** ($G^2 = 1440.34$, df $= 274$). The test cannot separate the over number, bucketing and genuine in-match effects as causes.
+5. **Scores rose in the Impact Player era, and chain dynamics shifted only modestly.** Mean targets rose from 164.0 to 190.8. This is a before-and-after comparison, not a causal estimate. Transition matrices differ overall (permutation $p = 0.001$), but no single state is significant after correction, and a chain trained before the rule predicts 2026 about as well as one using recent data.
+6. **Known limitations:** some time-inhomogeneous predictions are exactly 0 or 1, and 7 rain-shortened matches are treated as 20-over chases, though removing them does not change the model ranking or significance results (see `report/results_summary.md`, Section 9).
